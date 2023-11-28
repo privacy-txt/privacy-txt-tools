@@ -1,0 +1,37 @@
+http://homes.co.jp none detected
+http://shop.app none detected
+http://chatwork.com none detected
+http://myshopify.com none detected
+http://narvar.com onetrust-cookiepro
+http://funda.nl none detected
+http://kmail-lists.com none detected
+http://medallia.com cookiebot
+http://trulia.com none detected
+http://totaladblock.com none detected
+http://medium.com none detected
+http://fedex.com none detected
+http://service-now.com none detected
+http://shopify.com non-specific-custom
+http://hubspot.com none detected
+http://idealista.com none detected
+http://redfin.com onetrust-enterprise
+http://suumo.jp none detected
+http://usps.com none detected
+http://attn.tv cookiebot
+http://rightmove.co.uk non-specific-custom
+http://dhl.de onetrust-cookiepro
+http://springer.com non-specific-custom
+http://appier.net non-specific-custom
+http://business.site none detected
+http://irecommend.ru none detected
+http://canadapost-postescanada.ca none detected
+http://cian.ru none detected
+http://impress.co.jp non-specific-custom
+http://liftoff.io non-specific-custom
+http://zoopla.co.uk none detected
+http://zillow.com none detected
+http://squareup.com onetrust-cookiepro
+http://qualtrics.com onetrust-cookiepro
+http://ups.com none detected
+http://moonovernegril.com none detected
+http://reclameaqui.com.br none detected

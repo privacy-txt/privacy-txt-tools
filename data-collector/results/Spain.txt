@@ -1,0 +1,109 @@
+http://voetbalprimeur.nl quantcast
+http://xhamster.com non-specific-custom
+http://sharepoint.com none detected
+http://reddit.com non-specific-custom
+http://pornhub.com none detected
+http://rtlnieuws.nl onetrust-cookiepro
+http://twitter.com non-specific-custom
+http://vi.nl quantcast
+http://linkedin.com non-specific-custom
+http://zalando.nl none detected
+http://samsung.com trustarc-truste
+http://npostart.nl none detected
+http://xvideos.com none detected
+http://telegraaf.nl none detected
+http://samsung.nl trustarc-truste
+http://nrc.nl none detected
+http://tweakers.net non-specific-custom
+http://live.com none detected
+http://netflix.com non-specific-custom
+http://voetbalzone.nl onetrust-cookiepro
+http://bol.com non-specific-custom
+http://funda.nl none detected
+http://whatsapp.com non-specific-custom
+http://rabobank.nl none detected
+http://wikipedia.org none detected
+http://facebook.com non-specific-custom
+http://weather.com trustarc-truste
+http://instagram.com none detected
+http://buienradar.nl onetrust-cookiepro
+http://google.com none detected
+http://google.nl none detected
+http://volkskrant.nl none detected
+http://duckduckgo.com none detected
+http://coolblue.nl none detected
+http://nos.nl none detected
+http://ah.nl non-specific-custom
+http://ad.nl none detected
+http://surfconext.nl non-specific-custom
+http://weeronline.nl none detected
+http://digid.nl none detected
+http://postnl.nl none detected
+Websites with tracker cookies: 18 / 50
+Tracker cookies per website: 
+	 No consent:
+	 mean 3.7 
+ 	 median 2.0
+	 Top 5:
+		('http://linkedin.com', 10)
+		('http://reddit.com', 9)
+		('http://sharepoint.com', 6)
+		('http://google.com', 3)
+		('http://pornhub.com', 2)
+
+	 Consent:
+	 mean 9.666666666666666 
+ 	 median 6.0
+	 Top 5:
+		('http://rtlnieuws.nl', 30)
+		('http://vi.nl', 23)
+		('http://buienradar.nl', 22)
+		('http://samsung.com', 19)
+		('http://voetbalprimeur.nl', 17)
+
+
+Websites with tracker domains: 41 / 50
+Tracker domains per website: 
+	 No consent:
+	 mean 4.464285714285714 
+ 	 median 3.5
+	 Top 5:
+		('http://voetbalzone.nl', 23)
+		('http://voetbalprimeur.nl', 8)
+		('http://vi.nl', 8)
+		('http://weather.com', 8)
+		('http://xhamster.com', 6)
+
+	 Consent:
+	 mean 7.585365853658536 
+ 	 median 2
+	 Top 5:
+		('http://voetbalzone.nl', 55)
+		('http://vi.nl', 31)
+		('http://buienradar.nl', 29)
+		('http://rtlnieuws.nl', 27)
+		('http://samsung.com', 27)
+
+
+Websites with persistent cookies: 32 / 50
+Persistent cookies per website: 
+	 No consent:
+	 mean 4.366666666666666 
+ 	 median 3.5
+	 Top 5:
+		('http://ah.nl', 10)
+		('http://nos.nl', 9)
+		('http://pornhub.com', 8)
+		('http://voetbalzone.nl', 8)
+		('http://volkskrant.nl', 8)
+
+	 Consent:
+	 mean 11.4375 
+ 	 median 6.0
+	 Top 5:
+		('http://samsung.com', 44)
+		('http://rtlnieuws.nl', 35)
+		('http://buienradar.nl', 32)
+		('http://voetbalzone.nl', 29)
+		('http://vi.nl', 28)
+

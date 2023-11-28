@@ -1,0 +1,115 @@
+http://xvideos.com none detected
+[WDM] - Downloading: 100%|█████████████████| 7.06M/7.06M [00:00<00:00, 16.7MB/s]
+http://nrc.nl none detected
+http://sharepoint.com non-specific-custom
+http://vi.nl quantcast
+http://xhamster.com non-specific-custom
+http://postnl.nl non-specific-custom
+http://reddit.com non-specific-custom
+http://digid.nl none detected
+http://rabobank.nl none detected
+http://funda.nl none detected
+http://coolblue.nl none detected
+http://voetbalzone.nl onetrust-cookiepro
+http://tweakers.net non-specific-custom
+http://instagram.com none detected
+http://ah.nl non-specific-custom
+http://dumpert.nl none detected
+http://google.com non-specific-custom
+http://telegraaf.nl none detected
+http://amazon.nl non-specific-custom
+http://weeronline.nl none detected
+http://facebook.com non-specific-custom
+http://duckduckgo.com none detected
+http://buienradar.nl onetrust-cookiepro
+http://volkskrant.nl none detected
+http://ad.nl none detected
+http://npostart.nl none detected
+http://nos.nl non-specific-custom
+http://google.nl non-specific-custom
+http://xnxx.com none detected
+http://weather.com trustarc-truste
+http://netflix.com non-specific-custom
+http://youtube.com non-specific-custom
+http://voetbalprimeur.nl quantcast
+http://live.com none detected
+http://samsung.nl none detected
+http://office.com none detected
+http://surfconext.nl non-specific-custom
+http://linkedin.com none detected
+http://wikipedia.org none detected
+http://marktplaats.nl none detected
+http://bol.com non-specific-custom
+http://samsung.com none detected
+http://rtlnieuws.nl onetrust-cookiepro
+http://pornhub.com none detected
+http://twitter.com non-specific-custom
+http://nu.nl none detected
+Websites with tracker cookies: 21 / 50
+Tracker cookies per website: 
+	 No consent:
+	 mean 6 
+ 	 median 2.5
+	 Top 5:
+		('http://marktplaats.nl', 45)
+		('http://office.com', 9)
+		('http://reddit.com', 7)
+		('http://sharepoint.com', 6)
+		('http://rtlnieuws.nl', 6)
+
+	 Consent:
+	 mean 15.095238095238095 
+ 	 median 6
+	 Top 5:
+		('http://voetbalzone.nl', 128)
+		('http://marktplaats.nl', 45)
+		('http://rtlnieuws.nl', 31)
+		('http://buienradar.nl', 22)
+		('http://vi.nl', 21)
+
+
+Websites with tracker domains: 46 / 50
+Tracker domains per website: 
+	 No consent:
+	 mean 5.142857142857143 
+ 	 median 3
+	 Top 5:
+		('http://marktplaats.nl', 41)
+		('http://voetbalzone.nl', 22)
+		('http://weather.com', 10)
+		('http://voetbalprimeur.nl', 9)
+		('http://vi.nl', 8)
+
+	 Consent:
+	 mean 8.173913043478262 
+ 	 median 3.0
+	 Top 5:
+		('http://voetbalzone.nl', 105)
+		('http://marktplaats.nl', 41)
+		('http://vi.nl', 34)
+		('http://buienradar.nl', 29)
+		('http://rtlnieuws.nl', 27)
+
+
+Websites with persistent cookies: 39 / 50
+Persistent cookies per website: 
+	 No consent:
+	 mean 5.2631578947368425 
+ 	 median 4.0
+	 Top 5:
+		('http://marktplaats.nl', 33)
+		('http://ah.nl', 10)
+		('http://rtlnieuws.nl', 10)
+		('http://npostart.nl', 9)
+		('http://nos.nl', 9)
+
+	 Consent:
+	 mean 11 
+ 	 median 5
+	 Top 5:
+		('http://voetbalzone.nl', 101)
+		('http://rtlnieuws.nl', 39)
+		('http://marktplaats.nl', 33)
+		('http://buienradar.nl', 32)
+		('http://vi.nl', 28)
+

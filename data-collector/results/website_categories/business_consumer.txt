@@ -1,0 +1,105 @@
+http://homes.co.jp none detected
+http://shop.app none detected
+http://chatwork.com none detected
+http://myshopify.com none detected
+http://narvar.com onetrust-cookiepro
+http://funda.nl none detected
+http://kmail-lists.com none detected
+http://medallia.com cookiebot
+http://trulia.com none detected
+http://totaladblock.com none detected
+http://medium.com none detected
+http://fedex.com none detected
+http://service-now.com none detected
+http://shopify.com non-specific-custom
+http://hubspot.com none detected
+http://idealista.com none detected
+http://redfin.com onetrust-enterprise
+http://suumo.jp none detected
+http://usps.com none detected
+http://attn.tv cookiebot
+http://rightmove.co.uk non-specific-custom
+http://dhl.de onetrust-cookiepro
+http://springer.com non-specific-custom
+http://appier.net non-specific-custom
+http://business.site none detected
+http://irecommend.ru none detected
+http://canadapost-postescanada.ca none detected
+http://cian.ru none detected
+http://impress.co.jp non-specific-custom
+http://liftoff.io non-specific-custom
+http://zoopla.co.uk none detected
+http://zillow.com none detected
+http://squareup.com onetrust-cookiepro
+http://qualtrics.com onetrust-cookiepro
+http://ups.com none detected
+http://moonovernegril.com none detected
+http://reclameaqui.com.br none detected
+Websites with tracker cookies: 18 / 50
+Tracker cookies per website: 
+	 No consent:
+	 mean 15.533333333333333 
+ 	 median 5
+	 Top 5:
+		('http://realtor.com', 77)
+		('http://irecommend.ru', 67)
+		('http://ups.com', 22)
+		('http://usps.com', 16)
+		('http://canadapost-postescanada.ca', 12)
+
+	 Consent:
+	 mean 18.166666666666668 
+ 	 median 9.5
+	 Top 5:
+		('http://realtor.com', 77)
+		('http://irecommend.ru', 67)
+		('http://appier.net', 46)
+		('http://squareup.com', 26)
+		('http://ups.com', 22)
+
+
+Websites with tracker domains: 38 / 50
+Tracker domains per website: 
+	 No consent:
+	 mean 13.043478260869565 
+ 	 median 8
+	 Top 5:
+		('http://realtor.com', 69)
+		('http://irecommend.ru', 34)
+		('http://ups.com', 28)
+		('http://usps.com', 24)
+		('http://attn.tv', 20)
+
+	 Consent:
+	 mean 10.131578947368421 
+ 	 median 3.5
+	 Top 5:
+		('http://realtor.com', 69)
+		('http://squareup.com', 36)
+		('http://irecommend.ru', 34)
+		('http://ups.com', 28)
+		('http://usps.com', 24)
+
+
+Websites with persistent cookies: 27 / 50
+Persistent cookies per website: 
+	 No consent:
+	 mean 12.76923076923077 
+ 	 median 7.5
+	 Top 5:
+		('http://realtor.com', 89)
+		('http://irecommend.ru', 40)
+		('http://ups.com', 32)
+		('http://usps.com', 26)
+		('http://suumo.jp', 20)
+
+	 Consent:
+	 mean 16.185185185185187 
+ 	 median 10
+	 Top 5:
+		('http://realtor.com', 89)
+		('http://irecommend.ru', 40)
+		('http://squareup.com', 38)
+		('http://ups.com', 32)
+		('http://appier.net', 27)
+

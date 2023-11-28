@@ -1,0 +1,109 @@
+http://hulu.com none detected
+http://pikabu.ru none detected
+http://youtube.com non-specific-custom
+http://imdb.com none detected
+http://rumble.com none detected
+http://xfinity.com none detected
+http://ficbook.net none detected
+http://fmovies.to none detected
+http://hbomax.com onetrust-cookiepro
+http://npr.org onetrust-cookiepro
+http://fandomwire.com none detected
+http://programme-tv.net none detected
+http://tapmad.com none detected
+http://zoro.to none detected
+http://hotstar.com none detected
+http://9gag.com quantcast
+http://pixiv.net non-specific-custom
+http://disneyplus.com onetrust-cookiepro
+http://bilibili.com none detected
+http://aparat.com none detected
+http://manganato.com none detected
+http://kinopoisk.ru none detected
+http://qidian.com none detected
+http://genius.com onetrust-cookiepro
+http://spotify.com onetrust-cookiepro
+http://9animetv.to none detected
+http://9anime.to none detected
+http://dcinside.com none detected
+http://soundcloud.com onetrust-cookiepro
+http://mediaset.it none detected
+http://tenki.jp none detected
+http://animeflv.net none detected
+http://cmoa.jp none detected
+http://wattpad.com onetrust-cookiepro
+http://archiveofourown.org none detected
+http://asurascans.com none detected
+http://miguvideo.com none detected
+http://crunchyroll.com none detected
+http://soap2day.to none detected
+http://dailymotion.com non-specific-custom
+http://fandom.com non-specific-custom
+Websites with tracker cookies: 18 / 50
+Tracker cookies per website: 
+	 No consent:
+	 mean 7.571428571428571 
+ 	 median 3.5
+	 Top 5:
+		('http://npr.org', 28)
+		('http://genius.com', 18)
+		('http://hulu.com', 14)
+		('http://pikabu.ru', 13)
+		('http://tenki.jp', 8)
+
+	 Consent:
+	 mean 7.777777777777778 
+ 	 median 3.5
+	 Top 5:
+		('http://npr.org', 31)
+		('http://genius.com', 30)
+		('http://hulu.com', 14)
+		('http://pikabu.ru', 13)
+		('http://hbomax.com', 8)
+
+
+Websites with tracker domains: 41 / 50
+Tracker domains per website: 
+	 No consent:
+	 mean 7.321428571428571 
+ 	 median 5.0
+	 Top 5:
+		('http://npr.org', 25)
+		('http://hulu.com', 19)
+		('http://genius.com', 19)
+		('http://tenki.jp', 17)
+		('http://pikabu.ru', 16)
+
+	 Consent:
+	 mean 7.048780487804878 
+ 	 median 5
+	 Top 5:
+		('http://npr.org', 47)
+		('http://genius.com', 25)
+		('http://hbomax.com', 22)
+		('http://hulu.com', 19)
+		('http://9gag.com', 18)
+
+
+Websites with persistent cookies: 29 / 50
+Persistent cookies per website: 
+	 No consent:
+	 mean 7.758620689655173 
+ 	 median 5
+	 Top 5:
+		('http://hulu.com', 27)
+		('http://pikabu.ru', 25)
+		('http://npr.org', 24)
+		('http://wattpad.com', 15)
+		('http://dcinside.com', 13)
+
+	 Consent:
+	 mean 11.10344827586207 
+ 	 median 9
+	 Top 5:
+		('http://npr.org', 49)
+		('http://hulu.com', 27)
+		('http://pikabu.ru', 25)
+		('http://hbomax.com', 21)
+		('http://genius.com', 18)
+

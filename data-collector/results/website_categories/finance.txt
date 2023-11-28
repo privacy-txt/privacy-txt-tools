@@ -1,0 +1,105 @@
+http://moneycontrol.com none detected
+http://creditkarma.com none detected
+http://binance.com onetrust-cookiepro
+http://wellsfargo.com none detected
+http://emofid.com none detected
+http://icubeswire.co none detected
+http://icicibank.com none detected
+http://capitalone.com none detected
+http://credit-agricole.fr non-specific-custom
+http://adp.com non-specific-custom
+http://trustpilot.com onetrust-cookiepro
+http://hdfcbank.com onetrust-cookiepro
+http://bankofamerica.com none detected
+http://coingecko.com none detected
+http://dood.yt none detected
+http://etoro.com none detected
+http://tinkoff.ru none detected
+http://poste.it trustarc-truste
+http://serasa.com.br none detected
+http://intuit.com none detected
+http://americanexpress.com non-specific-custom
+http://foxbusiness.com none detected
+http://schwab.com onetrust-cookiepro
+http://chase.com none detected
+http://investing.com none detected
+http://paypal.com non-specific-custom
+http://jiomart.com none detected
+http://coinmarketcap.com onetrust-cookiepro
+http://marketwatch.com none detected
+http://zerodha.com none detected
+http://discover.com non-specific-custom
+http://sberbank.ru none detected
+http://money.pl none detected
+http://citi.com none detected
+http://finance.yahoo.co.jp none detected
+http://tradingview.com none detected
+http://taroads.com none detected
+Websites with tracker cookies: 23 / 51
+Tracker cookies per website: 
+	 No consent:
+	 mean 9.1 
+ 	 median 6.0
+	 Top 5:
+		('http://investing.com', 43)
+		('http://intuit.com', 24)
+		('http://hdfcbank.com', 20)
+		('http://foxbusiness.com', 18)
+		('http://discover.com', 15)
+
+	 Consent:
+	 mean 8.826086956521738 
+ 	 median 6
+	 Top 5:
+		('http://investing.com', 43)
+		('http://intuit.com', 24)
+		('http://hdfcbank.com', 20)
+		('http://foxbusiness.com', 18)
+		('http://discover.com', 15)
+
+
+Websites with tracker domains: 37 / 51
+Tracker domains per website: 
+	 No consent:
+	 mean 9.964285714285714 
+ 	 median 5.5
+	 Top 5:
+		('http://investing.com', 67)
+		('http://discover.com', 29)
+		('http://intuit.com', 25)
+		('http://foxbusiness.com', 19)
+		('http://hdfcbank.com', 18)
+
+	 Consent:
+	 mean 8.378378378378379 
+ 	 median 4
+	 Top 5:
+		('http://investing.com', 67)
+		('http://discover.com', 29)
+		('http://intuit.com', 25)
+		('http://foxbusiness.com', 19)
+		('http://hdfcbank.com', 18)
+
+
+Websites with persistent cookies: 31 / 51
+Persistent cookies per website: 
+	 No consent:
+	 mean 11.67741935483871 
+ 	 median 9
+	 Top 5:
+		('http://investing.com', 43)
+		('http://intuit.com', 32)
+		('http://discover.com', 31)
+		('http://tinkoff.ru', 28)
+		('http://hdfcbank.com', 23)
+
+	 Consent:
+	 mean 13.516129032258064 
+ 	 median 11
+	 Top 5:
+		('http://investing.com', 43)
+		('http://intuit.com', 32)
+		('http://discover.com', 31)
+		('http://tinkoff.ru', 28)
+		('http://hdfcbank.com', 24)
+

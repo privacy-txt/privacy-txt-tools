@@ -1,0 +1,40 @@
+http://news18.com non-specific-custom
+http://yahoo.com non-specific-custom
+http://usatoday.com onetrust-cookiepro
+http://sohu.com none detected
+http://uol.com.br non-specific-custom
+http://wp.pl none detected
+http://bbc.co.uk none detected
+http://news.yahoo.com non-specific-custom
+http://rambler.ru none detected
+http://tribunnews.com none detected
+http://qq.com none detected
+http://dailymail.co.uk non-specific-custom
+http://nytimes.com non-specific-custom
+http://theguardian.com none detected
+http://naver.com none detected
+http://people.com onetrust-cookiepro
+http://india.com non-specific-custom
+http://vnexpress.net none detected
+http://repubblica.it non-specific-custom
+http://globo.com non-specific-custom
+http://hurriyet.com.tr none detected
+http://indiatimes.com none detected
+http://kompas.com none detected
+http://bbc.com none detected
+http://yahoo.co.jp none detected
+http://sina.cn none detected
+http://bild.de none detected
+http://cnn.com onetrust-cookiepro
+http://onet.pl non-specific-custom
+http://rbc.ru none detected
+http://interia.pl non-specific-custom
+http://news.google.com non-specific-custom
+http://foxnews.com none detected
+http://detik.com none detected
+http://timesofindia.com non-specific-custom
+http://nypost.com onetrust-cookiepro
+http://news.mail.ru non-specific-custom
+http://aajtak.in none detected
+http://cnbc.com none detected
+http://msn.com onetrust-cookiepro

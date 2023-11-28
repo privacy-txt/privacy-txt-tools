@@ -1,0 +1,112 @@
+http://apteka.ru none detected
+http://athenahealth.com onetrust-cookiepro
+http://medonet.pl non-specific-custom
+http://doctoralia.com.br none detected
+http://aarp.org none detected
+http://uworld.com none detected
+http://doctolib.fr none detected
+http://medscape.com onetrust-cookiepro
+http://rlsnet.ru non-specific-custom
+http://walgreens.com onetrust-enterprise
+http://menshealth.com onetrust-cookiepro
+http://my-personaltrainer.it non-specific-custom
+http://healthline.com non-specific-custom
+http://vidal.ru none detected
+http://nhs.uk non-specific-custom
+http://hellosehat.com none detected
+http://hopkinsmedicine.org non-specific-custom
+http://womenshealthmag.com onetrust-cookiepro
+http://medlineplus.gov none detected
+http://alodokter.com none detected
+http://msdmanuals.com onetrust-cookiepro
+http://everydayhealth.com onetrust-cookiepro
+http://verywellhealth.com onetrust-cookiepro
+http://who.int none detected
+http://altibbi.com none detected
+http://webteb.com none detected
+http://mayoclinic.org none detected
+http://drugs.com non-specific-custom
+http://tuasaude.com none detected
+http://vinmec.com none detected
+http://sportkp.ru none detected
+http://webmd.com onetrust-cookiepro
+http://abczdrowie.pl none detected
+http://myfitnesspal.com none detected
+http://activebeat.com onetrust-cookiepro
+http://health.clevelandclinic.org none detected
+http://cdc.gov none detected
+http://vnimanie.pro none detected
+http://goodrx.com none detected
+http://halodoc.com none detected
+http://cvs.com none detected
+http://medicalnewstoday.com non-specific-custom
+http://eatthis.com cookiebot
+http://fitbit.com onetrust-cookiepro
+Websites with tracker cookies: 38 / 50
+Tracker cookies per website: 
+	 No consent:
+	 mean 11.741935483870968 
+ 	 median 6
+	 Top 5:
+		('http://hellosehat.com', 69)
+		('http://aarp.org', 63)
+		('http://alodokter.com', 36)
+		('http://everydayhealth.com', 32)
+		('http://athenahealth.com', 25)
+
+	 Consent:
+	 mean 19.973684210526315 
+ 	 median 7.0
+	 Top 5:
+		('http://everydayhealth.com', 148)
+		('http://webmd.com', 87)
+		('http://my-personaltrainer.it', 86)
+		('http://hellosehat.com', 68)
+		('http://aarp.org', 63)
+
+
+Websites with tracker domains: 44 / 50
+Tracker domains per website: 
+	 No consent:
+	 mean 13.54054054054054 
+ 	 median 10
+	 Top 5:
+		('http://aarp.org', 65)
+		('http://hellosehat.com', 53)
+		('http://athenahealth.com', 37)
+		('http://alodokter.com', 37)
+		('http://altibbi.com', 29)
+
+	 Consent:
+	 mean 17.318181818181817 
+ 	 median 10.5
+	 Top 5:
+		('http://my-personaltrainer.it', 74)
+		('http://everydayhealth.com', 71)
+		('http://aarp.org', 65)
+		('http://hellosehat.com', 53)
+		('http://athenahealth.com', 37)
+
+
+Websites with persistent cookies: 43 / 50
+Persistent cookies per website: 
+	 No consent:
+	 mean 12.829268292682928 
+ 	 median 10
+	 Top 5:
+		('http://aarp.org', 63)
+		('http://hellosehat.com', 56)
+		('http://athenahealth.com', 33)
+		('http://alodokter.com', 25)
+		('http://walgreens.com', 21)
+
+	 Consent:
+	 mean 21.232558139534884 
+ 	 median 13
+	 Top 5:
+		('http://everydayhealth.com', 102)
+		('http://webmd.com', 82)
+		('http://my-personaltrainer.it', 72)
+		('http://aarp.org', 63)
+		('http://hellosehat.com', 54)
+

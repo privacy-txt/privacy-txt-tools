@@ -1,0 +1,108 @@
+http://news18.com non-specific-custom
+http://yahoo.com non-specific-custom
+http://usatoday.com onetrust-cookiepro
+http://sohu.com none detected
+http://uol.com.br non-specific-custom
+http://wp.pl none detected
+http://bbc.co.uk none detected
+http://news.yahoo.com non-specific-custom
+http://rambler.ru none detected
+http://tribunnews.com none detected
+http://qq.com none detected
+http://dailymail.co.uk non-specific-custom
+http://nytimes.com non-specific-custom
+http://theguardian.com none detected
+http://naver.com none detected
+http://people.com onetrust-cookiepro
+http://india.com non-specific-custom
+http://vnexpress.net none detected
+http://repubblica.it non-specific-custom
+http://globo.com non-specific-custom
+http://hurriyet.com.tr none detected
+http://indiatimes.com none detected
+http://kompas.com none detected
+http://bbc.com none detected
+http://yahoo.co.jp none detected
+http://sina.cn none detected
+http://bild.de none detected
+http://cnn.com onetrust-cookiepro
+http://onet.pl non-specific-custom
+http://rbc.ru none detected
+http://interia.pl non-specific-custom
+http://news.google.com non-specific-custom
+http://foxnews.com none detected
+http://detik.com none detected
+http://timesofindia.com non-specific-custom
+http://nypost.com onetrust-cookiepro
+http://news.mail.ru non-specific-custom
+http://aajtak.in none detected
+http://cnbc.com none detected
+http://msn.com onetrust-cookiepro
+Websites with tracker cookies: 31 / 50
+Tracker cookies per website: 
+	 No consent:
+	 mean 15.137931034482758 
+ 	 median 8
+	 Top 5:
+		('http://news18.com', 67)
+		('http://nypost.com', 63)
+		('http://rambler.ru', 43)
+		('http://aajtak.in', 42)
+		('http://detik.com', 32)
+
+	 Consent:
+	 mean 29.806451612903224 
+ 	 median 20
+	 Top 5:
+		('http://interia.pl', 144)
+		('http://nypost.com', 94)
+		('http://news18.com', 82)
+		('http://tribunnews.com', 66)
+		('http://repubblica.it', 55)
+
+
+Websites with tracker domains: 40 / 50
+Tracker domains per website: 
+	 No consent:
+	 mean 16.08108108108108 
+ 	 median 12
+	 Top 5:
+		('http://nypost.com', 54)
+		('http://news18.com', 49)
+		('http://detik.com', 39)
+		('http://aajtak.in', 39)
+		('http://india.com', 34)
+
+	 Consent:
+	 mean 23.15 
+ 	 median 19.5
+	 Top 5:
+		('http://nypost.com', 91)
+		('http://interia.pl', 73)
+		('http://tribunnews.com', 57)
+		('http://news18.com', 52)
+		('http://repubblica.it', 47)
+
+
+Websites with persistent cookies: 39 / 50
+Persistent cookies per website: 
+	 No consent:
+	 mean 14.594594594594595 
+ 	 median 11
+	 Top 5:
+		('http://nypost.com', 53)
+		('http://news18.com', 50)
+		('http://rambler.ru', 38)
+		('http://rbc.ru', 34)
+		('http://aajtak.in', 34)
+
+	 Consent:
+	 mean 23.94871794871795 
+ 	 median 19
+	 Top 5:
+		('http://interia.pl', 111)
+		('http://nypost.com', 85)
+		('http://news18.com', 60)
+		('http://repubblica.it', 51)
+		('http://tribunnews.com', 45)
+louise@MeowPC:~/Documents/Thesis_MA/Cookie-Crawl

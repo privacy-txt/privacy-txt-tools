@@ -1,0 +1,5 @@
+async-generator==1.10
+playwright==1.29.1
+tldextract==3.1.2
+selenium==4.1.0
+webdriver-manager==3.8.5

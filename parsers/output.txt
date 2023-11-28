@@ -1,0 +1,29 @@
+# bol.com
+# 
+# Cookies 
+shopping_session_id, .www.bol.com, -19402.0, 0, 0, 1
+bltgsessionid, .www.bol.com, -19402.0, 0, 0, 1
+xsrf-token, www.bol.com, -19402.0, 0, 0, 1
+bui, .www.bol.com, 400.0, 0, 0, 1
+bolconsentchoices, .www.bol.com, 0.0, 0, 0, 1
+locale, .www.bol.com, 365.0, 0, 0, 1
+language, .www.bol.com, -19402.0, 0, 0, 1
+p, .www.bol.com, -19402.0, 0, 0, 1
+xsc, .bol.com, 400.0, 0, 0, 1
+cachedassets, .www.bol.com, -19402.0, 0, 0, 0
+s_fid, .bol.com, 400.0, 0, 0, 0
+px_page, www.bol.com, -19402.0, 0, 0, 0
+px_nr, www.bol.com, 30.0, 0, 0, 0
+px_evar14, www.bol.com, -19402.0, 0, 0, 0
+px_visit, www.bol.com, 0.0, 0, 0, 0
+px_prop36, www.bol.com, -19402.0, 0, 0, 0
+s_cc, .bol.com, -19402.0, 0, 0, 0
+px_prop34, www.bol.com, -19402.0, 0, 0, 0
+s_vi, .bol.com, 400.0, 0, 0, 0
+px_pp, www.bol.com, -19402.0, 0, 0, 0
+px_evar80, www.bol.com, -19402.0, 0, 0, 0
+rt, .bol.com, 7.0, 0, 0, 0
+# Banner 
+http://bol.com, 1, non-specific-custom
+# Privacy Policy 
+https://www.bol.com/nl/nl/m/ofc-privacy-policy/

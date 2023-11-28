@@ -1,0 +1,109 @@
+http://leboncoin.fr none detected
+http://coupang.com none detected
+http://craigslist.org none detected
+http://amazon.com.br none detected
+http://amazon.co.jp none detected
+http://mercadolivre.com.br non-specific-custom
+http://amazon.ca none detected
+http://flipkart.com none detected
+http://amazon.co.uk non-specific-custom
+http://taobao.com none detected
+http://allegro.pl none detected
+http://amazon.it none detected
+http://mercadolibre.com.ar non-specific-custom
+http://rakuten.com none detected
+http://aliexpress.com non-specific-custom
+http://mercari.com trustarc-truste
+http://ticketmaster.com onetrust-cookiepro
+http://wayfair.com none detected
+http://magazineluiza.com.br none detected
+http://market.yandex.ru none detected
+http://shopping.yahoo.co.jp none detected
+http://ozon.ru none detected
+http://jd.com none detected
+http://tmall.com none detected
+http://amazon.com.mx none detected
+http://amazon.de none detected
+http://amazon.com none detected
+http://olx.pl none detected
+http://alibaba.com non-specific-custom
+http://amazon.es none detected
+http://ebay.com non-specific-custom
+http://mercadolibre.com.mx non-specific-custom
+http://avito.ru none detected
+http://pinduoduo.com none detected
+http://shopee.co.id none detected
+http://sahibinden.com none detected
+http://target.com none detected
+http://temu.com none detected
+http://wildberries.ru none detected
+http://amazon.in none detected
+http://trendyol.com none detected
+Websites with tracker cookies: 27 / 50
+Tracker cookies per website: 
+	 No consent:
+	 mean 15.73076923076923 
+ 	 median 6.5
+	 Top 5:
+		('http://aliexpress.com', 46)
+		('http://magazineluiza.com.br', 44)
+		('http://avito.ru', 40)
+		('http://amazon.com', 38)
+		('http://amazon.ca', 36)
+
+	 Consent:
+	 mean 15.222222222222221 
+ 	 median 6
+	 Top 5:
+		('http://aliexpress.com', 46)
+		('http://magazineluiza.com.br', 44)
+		('http://avito.ru', 39)
+		('http://amazon.com', 38)
+		('http://amazon.ca', 36)
+
+
+Websites with tracker domains: 41 / 50
+Tracker domains per website: 
+	 No consent:
+	 mean 13.10344827586207 
+ 	 median 8
+	 Top 5:
+		('http://magazineluiza.com.br', 44)
+		('http://aliexpress.com', 39)
+		('http://amazon.ca', 33)
+		('http://amazon.com.br', 32)
+		('http://amazon.com.mx', 32)
+
+	 Consent:
+	 mean 9.512195121951219 
+ 	 median 3
+	 Top 5:
+		('http://magazineluiza.com.br', 44)
+		('http://aliexpress.com', 39)
+		('http://amazon.ca', 33)
+		('http://amazon.com.br', 32)
+		('http://amazon.com.mx', 32)
+
+
+Websites with persistent cookies: 37 / 50
+Persistent cookies per website: 
+	 No consent:
+	 mean 15.108108108108109 
+ 	 median 7
+	 Top 5:
+		('http://magazineluiza.com.br', 54)
+		('http://aliexpress.com', 52)
+		('http://avito.ru', 43)
+		('http://amazon.com', 41)
+		('http://amazon.com.br', 40)
+
+	 Consent:
+	 mean 15.54054054054054 
+ 	 median 8
+	 Top 5:
+		('http://magazineluiza.com.br', 54)
+		('http://aliexpress.com', 52)
+		('http://avito.ru', 43)
+		('http://amazon.com', 41)
+		('http://amazon.com.br', 40)
+

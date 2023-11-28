@@ -1,0 +1,44 @@
+http://apteka.ru none detected
+http://athenahealth.com onetrust-cookiepro
+http://medonet.pl non-specific-custom
+http://doctoralia.com.br none detected
+http://aarp.org none detected
+http://uworld.com none detected
+http://doctolib.fr none detected
+http://medscape.com onetrust-cookiepro
+http://rlsnet.ru non-specific-custom
+http://walgreens.com onetrust-enterprise
+http://menshealth.com onetrust-cookiepro
+http://my-personaltrainer.it non-specific-custom
+http://healthline.com non-specific-custom
+http://vidal.ru none detected
+http://nhs.uk non-specific-custom
+http://hellosehat.com none detected
+http://hopkinsmedicine.org non-specific-custom
+http://womenshealthmag.com onetrust-cookiepro
+http://medlineplus.gov none detected
+http://alodokter.com none detected
+http://msdmanuals.com onetrust-cookiepro
+http://everydayhealth.com onetrust-cookiepro
+http://verywellhealth.com onetrust-cookiepro
+http://who.int none detected
+http://altibbi.com none detected
+http://webteb.com none detected
+http://mayoclinic.org none detected
+http://drugs.com non-specific-custom
+http://tuasaude.com none detected
+http://vinmec.com none detected
+http://sportkp.ru none detected
+http://webmd.com onetrust-cookiepro
+http://abczdrowie.pl none detected
+http://myfitnesspal.com none detected
+http://activebeat.com onetrust-cookiepro
+http://health.clevelandclinic.org none detected
+http://cdc.gov none detected
+http://vnimanie.pro none detected
+http://goodrx.com none detected
+http://halodoc.com none detected
+http://cvs.com none detected
+http://medicalnewstoday.com non-specific-custom
+http://eatthis.com cookiebot
+http://fitbit.com onetrust-cookiepro

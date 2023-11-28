@@ -1,0 +1,6981 @@
+[
+  {
+    "id": "aHR0cDovL3RoYXVkcmF5LmNvbQ==",
+    "url": "http://thaudray.com",
+    "cookies_all": [],
+    "cookies_no_consent": [],
+    "third_party_domains_all": [],
+    "third_party_domains_no_consent": [],
+    "third_party_cookies_no_consent": {},
+    "tracking_domains_all": [],
+    "tracking_domains_no_consent": [],
+    "consent_manager": "none detected",
+    "privacy_policy": {
+      "xpath_results": [],
+      "google_results": [],
+      "link": "ERROR"
+    },
+    "screenshot": ""
+  },
+  {
+    "id": "aHR0cDovL3hvc29kYWlwaGF0LmNvbQ==",
+    "url": "http://xosodaiphat.com",
+    "cookies_all": [
+      {
+        "name": "cf_chl_rc_m",
+        "domain": "xosodaiphat.com",
+        "expires_days": 0,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": false,
+        "tracker": false
+      }
+    ],
+    "cookies_no_consent": [
+      {
+        "name": "cf_chl_rc_m",
+        "domain": "xosodaiphat.com",
+        "expires_days": 0,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": false,
+        "tracker": false
+      }
+    ],
+    "third_party_domains_all": [
+      "https://challenges.cloudflare.com"
+    ],
+    "third_party_domains_no_consent": [
+      "https://challenges.cloudflare.com"
+    ],
+    "third_party_cookies_no_consent": {},
+    "tracking_domains_all": [],
+    "tracking_domains_no_consent": [],
+    "consent_manager": "none detected",
+    "privacy_policy": {
+      "xpath_results": [],
+      "google_results": [],
+      "link": "ERROR"
+    },
+    "screenshot": ""
+  },
+  {
+    "id": "aHR0cDovL2dhZmxoLmNvbQ==",
+    "url": "http://gaflh.com",
+    "cookies_all": [
+      {
+        "name": "__cf_bm",
+        "domain": ".demand.supply",
+        "expires_days": 0,
+        "third_party": true,
+        "httponly": true,
+        "secure": true,
+        "persistent": false,
+        "tracker": true
+      }
+    ],
+    "cookies_no_consent": [
+      {
+        "name": "__cf_bm",
+        "domain": ".demand.supply",
+        "expires_days": 0,
+        "third_party": true,
+        "httponly": true,
+        "secure": true,
+        "persistent": false,
+        "tracker": true
+      }
+    ],
+    "third_party_domains_all": [
+      "https://live.demand.supply",
+      "https://pagead2.googlesyndication.com"
+    ],
+    "third_party_domains_no_consent": [
+      "https://live.demand.supply",
+      "https://pagead2.googlesyndication.com"
+    ],
+    "third_party_cookies_no_consent": {
+      ".demand.supply": {
+        "total": 1,
+        "session": 1,
+        "persistent": 0
+      }
+    },
+    "tracking_domains_all": [
+      "googlesyndication.com",
+      "demand.supply"
+    ],
+    "tracking_domains_no_consent": [
+      "googlesyndication.com",
+      "demand.supply"
+    ],
+    "consent_manager": "none detected",
+    "privacy_policy": {
+      "xpath_results": [],
+      "google_results": [
+        "https://ac.gaflh.com/privacy-policy/",
+        "https://ak.gaflh.com/cookie-privacy-policy/",
+        "https://www.google.com/search?q=privacy+policy+site:http://gaflh.com&tbm=isch&source=univ&fir=h7hBReptPgkTmM%252CgIpoJECt70JGQM%252C_%253BLj25jqC-BOIy7M%252CS6ZghtxLnlloMM%252C_%253B23MsnGI0am7-tM%252CgIpoJECt70JGQM%252C_%253B-fmJTX1nmaCVcM%252CgIpoJECt70JGQM%252C_%253BJqznVPVhqDSdrM%252CgIpoJECt70JGQM%252C_%253Bgoyo3mecM11_kM%252CjNMhB-XMI-Vq_M%252C_%253BK7fiNHrqoLQS3M%252CgIpoJECt70JGQM%252C_%253B9q-3wmH_a_hKaM%252CQXBjzgifPFYXdM%252C_%253B9Eq9R2TMqieG5M%252Cdl4qO8rTXF7L6M%252C_%253BdKPzb2CkO9fdvM%252C0cJ8NL-SNfsmnM%252C_&usg=AI4_-kQWE1kkpZ1nOwmhw3CETIFgiPiTxw&sa=X&ved=2ahUKEwi2uI_OjZP_AhVKhf0HHWMBCp4QjJkEegQIGhAC"
+      ],
+      "link": "https://ac.gaflh.com/privacy-policy/"
+    },
+    "screenshot": ""
+  },
+  {
+    "id": "aHR0cDovL2dvZ29hbmltZS5sbGM=",
+    "url": "http://gogoanime.llc",
+    "cookies_all": [
+      {
+        "name": "gogoanime",
+        "domain": "gogoanime.llc",
+        "expires_days": -19503,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "_ga",
+        "domain": ".gogoanime.llc",
+        "expires_days": 400,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "_gid",
+        "domain": ".gogoanime.llc",
+        "expires_days": 1,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "_gat",
+        "domain": ".gogoanime.llc",
+        "expires_days": 0,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": false,
+        "tracker": false
+      }
+    ],
+    "cookies_no_consent": [
+      {
+        "name": "gogoanime",
+        "domain": "gogoanime.llc",
+        "expires_days": -19503,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "_ga",
+        "domain": ".gogoanime.llc",
+        "expires_days": 400,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "_gid",
+        "domain": ".gogoanime.llc",
+        "expires_days": 1,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "_gat",
+        "domain": ".gogoanime.llc",
+        "expires_days": 0,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": false,
+        "tracker": false
+      }
+    ],
+    "third_party_domains_all": [
+      "https://gogocdn.net",
+      "https://imp9.bidgear.com",
+      "https://demand.bidgear.com",
+      "https://ajax.gogo-load.com",
+      "https://platform.bidgear.com",
+      "https://imp-dsp.bidgear.com",
+      "https://www.google-analytics.com",
+      "https://cdn.gogocdn.net",
+      "https://pixel-dsp.bidgear.com",
+      "https://source.bidgear.com"
+    ],
+    "third_party_domains_no_consent": [
+      "https://gogocdn.net",
+      "https://imp9.bidgear.com",
+      "https://demand.bidgear.com",
+      "https://ajax.gogo-load.com",
+      "https://platform.bidgear.com",
+      "https://imp-dsp.bidgear.com",
+      "https://www.google-analytics.com",
+      "https://cdn.gogocdn.net",
+      "https://pixel-dsp.bidgear.com",
+      "https://source.bidgear.com"
+    ],
+    "third_party_cookies_no_consent": {},
+    "tracking_domains_all": [
+      "google-analytics.com",
+      "bidgear.com"
+    ],
+    "tracking_domains_no_consent": [
+      "google-analytics.com",
+      "bidgear.com"
+    ],
+    "consent_manager": "none detected",
+    "privacy_policy": {
+      "xpath_results": [],
+      "google_results": [
+        "https://gogoanime.llc/privacy.html"
+      ],
+      "link": "https://gogoanime.llc/privacy.html"
+    },
+    "screenshot": ""
+  },
+  {
+    "id": "aHR0cDovL2Jlc3Q0ZnVjay5jb20=",
+    "url": "http://best4fuck.com",
+    "cookies_all": [],
+    "cookies_no_consent": [],
+    "third_party_domains_all": [],
+    "third_party_domains_no_consent": [],
+    "third_party_cookies_no_consent": {},
+    "tracking_domains_all": [],
+    "tracking_domains_no_consent": [],
+    "consent_manager": "none detected",
+    "privacy_policy": {
+      "xpath_results": [],
+      "google_results": [],
+      "link": "ERROR"
+    },
+    "screenshot": ""
+  },
+  {
+    "id": "aHR0cDovL2ZyZWViaXRjby5pbg==",
+    "url": "http://freebitco.in",
+    "cookies_all": [
+      {
+        "name": "csrf_token",
+        "domain": "freebitco.in",
+        "expires_days": -19503,
+        "third_party": false,
+        "httponly": false,
+        "secure": true,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "_ga_M568G97V6N",
+        "domain": ".freebitco.in",
+        "expires_days": 400,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "_ga",
+        "domain": ".freebitco.in",
+        "expires_days": 400,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "_gid",
+        "domain": ".freebitco.in",
+        "expires_days": 1,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "_gat_gtag_UA_44778688_1",
+        "domain": ".freebitco.in",
+        "expires_days": 0,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": false,
+        "tracker": false
+      }
+    ],
+    "cookies_no_consent": [
+      {
+        "name": "csrf_token",
+        "domain": "freebitco.in",
+        "expires_days": -19503,
+        "third_party": false,
+        "httponly": false,
+        "secure": true,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "_ga_M568G97V6N",
+        "domain": ".freebitco.in",
+        "expires_days": 400,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "_ga",
+        "domain": ".freebitco.in",
+        "expires_days": 400,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "_gid",
+        "domain": ".freebitco.in",
+        "expires_days": 1,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "_gat_gtag_UA_44778688_1",
+        "domain": ".freebitco.in",
+        "expires_days": 0,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": false,
+        "tracker": false
+      }
+    ],
+    "third_party_domains_all": [
+      "https://newassets.hcaptcha.com",
+      "https://stats.g.doubleclick.net",
+      "https://hcaptcha.com",
+      "https://cdnjs.cloudflare.com",
+      "https://www.google-analytics.com",
+      "https://fonts.gstatic.com",
+      "https://region1.google-analytics.com",
+      "https://fonts.googleapis.com",
+      "https://cdn.jsdelivr.net",
+      "https://pushpad.xyz",
+      "https://www.googletagmanager.com"
+    ],
+    "third_party_domains_no_consent": [
+      "https://newassets.hcaptcha.com",
+      "https://stats.g.doubleclick.net",
+      "https://hcaptcha.com",
+      "https://cdnjs.cloudflare.com",
+      "https://www.google-analytics.com",
+      "https://fonts.gstatic.com",
+      "https://region1.google-analytics.com",
+      "https://fonts.googleapis.com",
+      "https://cdn.jsdelivr.net",
+      "https://pushpad.xyz",
+      "https://www.googletagmanager.com"
+    ],
+    "third_party_cookies_no_consent": {},
+    "tracking_domains_all": [
+      "google-analytics.com",
+      "doubleclick.net",
+      "https://hcaptcha.com",
+      "gstatic.com",
+      "googleapis.com",
+      "hcaptcha.com"
+    ],
+    "tracking_domains_no_consent": [
+      "google-analytics.com",
+      "doubleclick.net",
+      "https://hcaptcha.com",
+      "gstatic.com",
+      "googleapis.com",
+      "hcaptcha.com"
+    ],
+    "consent_manager": "none detected",
+    "privacy_policy": {
+      "xpath_results": [],
+      "google_results": [
+        "https://www.google.com/search?q=privacy+policy+site:http://freebitco.in&tbm=isch&source=univ&fir=ed0ae6dJWuOfDM%252Cn299sw5F7n4D5M%252C_%253Bydvs8LnV5sl7NM%252CGeVKYDcH-zyevM%252C_%253BhkJ_XhW9IMfNZM%252CnfNqDKi7xRabUM%252C_%253Bh1uSWJ0NcEn5RM%252ClIET5tVkr9X81M%252C_%253BdNSkjKZ6NBRDNM%252C04XcqFx4ZaE39M%252C_%253Bapd2rZXGEGyYkM%252Cn299sw5F7n4D5M%252C_%253BAYTo7QrZJR_HrM%252Cc68gTYJL6aI5CM%252C_%253BT12RuXv0MtWWxM%252CaW-BJqBL59Ku0M%252C_%253BBuF7xqNSA6nc3M%252CnfNqDKi7xRabUM%252C_%253B_mM_1tfIRYNS_M%252CnfNqDKi7xRabUM%252C_&usg=AI4_-kQAO4uCivvqtdd5VsC6uGzMn96sfA&sa=X&ved=2ahUKEwiX3LfwjZP_AhWK7LsIHT_TCzYQjJkEegQIHBAC"
+      ],
+      "link": "https://www.google.com/search?q=privacy+policy+site:http://freebitco.in&tbm=isch&source=univ&fir=ed0ae6dJWuOfDM%252Cn299sw5F7n4D5M%252C_%253Bydvs8LnV5sl7NM%252CGeVKYDcH-zyevM%252C_%253BhkJ_XhW9IMfNZM%252CnfNqDKi7xRabUM%252C_%253Bh1uSWJ0NcEn5RM%252ClIET5tVkr9X81M%252C_%253BdNSkjKZ6NBRDNM%252C04XcqFx4ZaE39M%252C_%253Bapd2rZXGEGyYkM%252Cn299sw5F7n4D5M%252C_%253BAYTo7QrZJR_HrM%252Cc68gTYJL6aI5CM%252C_%253BT12RuXv0MtWWxM%252CaW-BJqBL59Ku0M%252C_%253BBuF7xqNSA6nc3M%252CnfNqDKi7xRabUM%252C_%253B_mM_1tfIRYNS_M%252CnfNqDKi7xRabUM%252C_&usg=AI4_-kQAO4uCivvqtdd5VsC6uGzMn96sfA&sa=X&ved=2ahUKEwiX3LfwjZP_AhWK7LsIHT_TCzYQjJkEegQIHBAC"
+    },
+    "screenshot": ""
+  },
+  {
+    "id": "aHR0cDovL2JldGtpbmcuY29t",
+    "url": "http://betking.com",
+    "cookies_all": [
+      {
+        "name": "ARRAffinity",
+        "domain": ".betking.com",
+        "expires_days": -19503,
+        "third_party": false,
+        "httponly": true,
+        "secure": true,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "ARRAffinitySameSite",
+        "domain": ".betking.com",
+        "expires_days": -19503,
+        "third_party": false,
+        "httponly": true,
+        "secure": true,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "firstTimeVisitor",
+        "domain": "www.betking.com",
+        "expires_days": 400,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "liveagent_oref",
+        "domain": "www.betking.com",
+        "expires_days": 366,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "_gcl_au",
+        "domain": ".betking.com",
+        "expires_days": 90,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "fs_sampling",
+        "domain": "www.betking.com",
+        "expires_days": 180,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "liveagent_sid",
+        "domain": "www.betking.com",
+        "expires_days": -19503,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "liveagent_vc",
+        "domain": "www.betking.com",
+        "expires_days": 366,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "liveagent_ptid",
+        "domain": "www.betking.com",
+        "expires_days": 366,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "_gid",
+        "domain": ".betking.com",
+        "expires_days": 1,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "_dc_gtm_UA-114276614-13",
+        "domain": ".betking.com",
+        "expires_days": 0,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "uid",
+        "domain": ".criteo.com",
+        "expires_days": 390,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": true,
+        "tracker": true
+      },
+      {
+        "name": "_ga_75BPPZBGRX",
+        "domain": ".betking.com",
+        "expires_days": 400,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "_ga",
+        "domain": ".betking.com",
+        "expires_days": 400,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "_fbp",
+        "domain": ".betking.com",
+        "expires_days": 90,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      }
+    ],
+    "cookies_no_consent": [
+      {
+        "name": "ARRAffinity",
+        "domain": ".betking.com",
+        "expires_days": -19503,
+        "third_party": false,
+        "httponly": true,
+        "secure": true,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "ARRAffinitySameSite",
+        "domain": ".betking.com",
+        "expires_days": -19503,
+        "third_party": false,
+        "httponly": true,
+        "secure": true,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "firstTimeVisitor",
+        "domain": "www.betking.com",
+        "expires_days": 400,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "liveagent_oref",
+        "domain": "www.betking.com",
+        "expires_days": 366,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "_gcl_au",
+        "domain": ".betking.com",
+        "expires_days": 90,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "fs_sampling",
+        "domain": "www.betking.com",
+        "expires_days": 180,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "liveagent_sid",
+        "domain": "www.betking.com",
+        "expires_days": -19503,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "liveagent_vc",
+        "domain": "www.betking.com",
+        "expires_days": 366,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "liveagent_ptid",
+        "domain": "www.betking.com",
+        "expires_days": 366,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "_gid",
+        "domain": ".betking.com",
+        "expires_days": 1,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "_dc_gtm_UA-114276614-13",
+        "domain": ".betking.com",
+        "expires_days": 0,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "uid",
+        "domain": ".criteo.com",
+        "expires_days": 390,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": true,
+        "tracker": true
+      },
+      {
+        "name": "_ga_75BPPZBGRX",
+        "domain": ".betking.com",
+        "expires_days": 400,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "_ga",
+        "domain": ".betking.com",
+        "expires_days": 400,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "_fbp",
+        "domain": ".betking.com",
+        "expires_days": 90,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      }
+    ],
+    "third_party_domains_all": [
+      "https://region1.analytics.google.com",
+      "https://www.googleoptimize.com",
+      "https://www.google.com",
+      "https://fonts.gstatic.com",
+      "https://stream-767.optimove.net",
+      "https://fonts.googleapis.com",
+      "https://d.la1-c2cs-lo2.salesforceliveagent.com",
+      "https://events-eu-central-2.kumulos.com",
+      "https://frontendservices.betagy.services",
+      "https://gum.criteo.com",
+      "https://c.la1-c2cs-lo2.salesforceliveagent.com",
+      "https://sdk.optimove.net",
+      "https://www.google-analytics.com",
+      "https://www.google.nl",
+      "https://dynamic.criteo.com",
+      "https://edge.fullstory.com",
+      "https://www.googletagmanager.com",
+      "https://sdkuaservice.optimove.net",
+      "https://stats.g.doubleclick.net",
+      "https://www.facebook.com",
+      "https://static.app.delivery",
+      "https://connect.facebook.net",
+      "https://realtime-767.optimove.net",
+      "https://push-eu-central-2.kumulos.com",
+      "https://d.la1-c2-lo3.salesforceliveagent.com"
+    ],
+    "third_party_domains_no_consent": [
+      "https://region1.analytics.google.com",
+      "https://www.googleoptimize.com",
+      "https://www.google.com",
+      "https://fonts.gstatic.com",
+      "https://stream-767.optimove.net",
+      "https://fonts.googleapis.com",
+      "https://d.la1-c2cs-lo2.salesforceliveagent.com",
+      "https://events-eu-central-2.kumulos.com",
+      "https://frontendservices.betagy.services",
+      "https://gum.criteo.com",
+      "https://c.la1-c2cs-lo2.salesforceliveagent.com",
+      "https://sdk.optimove.net",
+      "https://www.google-analytics.com",
+      "https://www.google.nl",
+      "https://dynamic.criteo.com",
+      "https://edge.fullstory.com",
+      "https://www.googletagmanager.com",
+      "https://sdkuaservice.optimove.net",
+      "https://stats.g.doubleclick.net",
+      "https://www.facebook.com",
+      "https://static.app.delivery",
+      "https://connect.facebook.net",
+      "https://realtime-767.optimove.net",
+      "https://push-eu-central-2.kumulos.com",
+      "https://d.la1-c2-lo3.salesforceliveagent.com"
+    ],
+    "third_party_cookies_no_consent": {
+      ".criteo.com": {
+        "total": 1,
+        "session": 0,
+        "persistent": 1
+      }
+    },
+    "tracking_domains_all": [
+      "google.com",
+      "google-analytics.com",
+      "salesforceliveagent.com",
+      "doubleclick.net",
+      "google.nl",
+      "googleapis.com",
+      "gstatic.com",
+      "optimove.net",
+      "criteo.com",
+      "fullstory.com",
+      "facebook.net",
+      "facebook.com"
+    ],
+    "tracking_domains_no_consent": [
+      "google.com",
+      "google-analytics.com",
+      "salesforceliveagent.com",
+      "doubleclick.net",
+      "google.nl",
+      "googleapis.com",
+      "gstatic.com",
+      "optimove.net",
+      "criteo.com",
+      "fullstory.com",
+      "facebook.net",
+      "facebook.com"
+    ],
+    "consent_manager": "none detected",
+    "privacy_policy": {
+      "xpath_results": [],
+      "google_results": [
+        "https://www.betking.com/help/general-help/terms-and-conditions/privacy-policy/",
+        "https://www.google.com/search?q=privacy+policy+site:http://betking.com&tbm=isch&source=univ&fir=XQsG1KluqWZa1M%252C4pvkuGaBoeTARM%252C_%253BgOsaOw-BXIrI2M%252CWo_-ecTQfxIeNM%252C_%253Bur9PHpsIgtXtfM%252CZbUdvi3MNGNgpM%252C_%253Bm6vbXqN42HY6-M%252CNZJtni4gFjNhHM%252C_%253B-1lPSRCoyd9sZM%252C4pvkuGaBoeTARM%252C_%253BAmaD_QXs6NRtoM%252CGT1cb7W_J0DWrM%252C_%253B0ujN-Kmdc6TEKM%252CWiU-FwYZImZBTM%252C_%253BnwRwj5RUPeRHOM%252C-AsuKXCktfgSfM%252C_%253B-uQxsLoCx-i3vM%252C4pvkuGaBoeTARM%252C_%253Bd3fooBcFDnGHoM%252Cpn1JHX-Lpr03VM%252C_&usg=AI4_-kRS5r-6VnlJaVQnGFCQsk6fkxPcXw&sa=X&ved=2ahUKEwiVn8z_jZP_AhV-if0HHdSVC8EQjJkEegQIHhAC"
+      ],
+      "link": "https://www.betking.com/help/general-help/terms-and-conditions/privacy-policy/"
+    },
+    "screenshot": ""
+  },
+  {
+    "id": "aHR0cDovL25ldGtlaWJhLmNvbQ==",
+    "url": "http://netkeiba.com",
+    "cookies_all": [
+      {
+        "name": "url",
+        "domain": ".netkeiba.com",
+        "expires_days": 0,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "_gid",
+        "domain": ".netkeiba.com",
+        "expires_days": 1,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "CLID",
+        "domain": "www.clarity.ms",
+        "expires_days": 365,
+        "third_party": true,
+        "httponly": true,
+        "secure": true,
+        "persistent": true,
+        "tracker": true
+      },
+      {
+        "name": "_dc_gtm_UA-2880481-1",
+        "domain": ".netkeiba.com",
+        "expires_days": 0,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "_ga_B2L5N4JT6V",
+        "domain": ".netkeiba.com",
+        "expires_days": 400,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "_ga",
+        "domain": ".netkeiba.com",
+        "expires_days": 400,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "_clck",
+        "domain": ".netkeiba.com",
+        "expires_days": 365,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "_clsk",
+        "domain": ".netkeiba.com",
+        "expires_days": 1,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "_ga_BQDXGQBP6X",
+        "domain": ".netkeiba.com",
+        "expires_days": 400,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "MUID",
+        "domain": ".bing.com",
+        "expires_days": 390,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": true,
+        "tracker": true
+      },
+      {
+        "name": "MR",
+        "domain": ".c.bing.com",
+        "expires_days": 7,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": false,
+        "tracker": true
+      },
+      {
+        "name": "SRM_B",
+        "domain": ".c.bing.com",
+        "expires_days": 390,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": true,
+        "tracker": true
+      },
+      {
+        "name": "SM",
+        "domain": ".c.clarity.ms",
+        "expires_days": -19503,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": false,
+        "tracker": true
+      },
+      {
+        "name": "MUID",
+        "domain": ".clarity.ms",
+        "expires_days": 390,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": true,
+        "tracker": true
+      },
+      {
+        "name": "MR",
+        "domain": ".c.clarity.ms",
+        "expires_days": 7,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": false,
+        "tracker": true
+      },
+      {
+        "name": "ANONCHK",
+        "domain": ".c.clarity.ms",
+        "expires_days": 0,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": false,
+        "tracker": true
+      }
+    ],
+    "cookies_no_consent": [
+      {
+        "name": "url",
+        "domain": ".netkeiba.com",
+        "expires_days": 0,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "_gid",
+        "domain": ".netkeiba.com",
+        "expires_days": 1,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "CLID",
+        "domain": "www.clarity.ms",
+        "expires_days": 365,
+        "third_party": true,
+        "httponly": true,
+        "secure": true,
+        "persistent": true,
+        "tracker": true
+      },
+      {
+        "name": "_dc_gtm_UA-2880481-1",
+        "domain": ".netkeiba.com",
+        "expires_days": 0,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "_ga_B2L5N4JT6V",
+        "domain": ".netkeiba.com",
+        "expires_days": 400,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "_ga",
+        "domain": ".netkeiba.com",
+        "expires_days": 400,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "_clck",
+        "domain": ".netkeiba.com",
+        "expires_days": 365,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "_clsk",
+        "domain": ".netkeiba.com",
+        "expires_days": 1,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "_ga_BQDXGQBP6X",
+        "domain": ".netkeiba.com",
+        "expires_days": 400,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "MUID",
+        "domain": ".bing.com",
+        "expires_days": 390,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": true,
+        "tracker": true
+      },
+      {
+        "name": "MR",
+        "domain": ".c.bing.com",
+        "expires_days": 7,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": false,
+        "tracker": true
+      },
+      {
+        "name": "SRM_B",
+        "domain": ".c.bing.com",
+        "expires_days": 390,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": true,
+        "tracker": true
+      },
+      {
+        "name": "SM",
+        "domain": ".c.clarity.ms",
+        "expires_days": -19503,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": false,
+        "tracker": true
+      },
+      {
+        "name": "MUID",
+        "domain": ".clarity.ms",
+        "expires_days": 390,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": true,
+        "tracker": true
+      },
+      {
+        "name": "MR",
+        "domain": ".c.clarity.ms",
+        "expires_days": 7,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": false,
+        "tracker": true
+      },
+      {
+        "name": "ANONCHK",
+        "domain": ".c.clarity.ms",
+        "expires_days": 0,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": false,
+        "tracker": true
+      }
+    ],
+    "third_party_domains_all": [
+      "https://region1.analytics.google.com",
+      "https://ajax.googleapis.com",
+      "https://netdreamersad.durasite.net",
+      "https://c.clarity.ms",
+      "https://s.clarity.ms",
+      "https://insight.adsrvr.org",
+      "https://netdreamersimg.durasite.net",
+      "https://yads.c.yimg.jp",
+      "https://bbs.pc.keiba.findfriends.jp",
+      "https://i.socdm.com",
+      "https://www.clarity.ms",
+      "https://c.amazon-adsystem.com",
+      "https://www.google-analytics.com",
+      "https://www.google.nl",
+      "https://www.googletagmanager.com",
+      "https://stats.g.doubleclick.net",
+      "https://d1eoo1tco6rr5e.cloudfront.net",
+      "https://tg.socdm.com",
+      "https://c.bing.com",
+      "https://cpt.geniee.jp"
+    ],
+    "third_party_domains_no_consent": [
+      "https://region1.analytics.google.com",
+      "https://ajax.googleapis.com",
+      "https://netdreamersad.durasite.net",
+      "https://c.clarity.ms",
+      "https://s.clarity.ms",
+      "https://insight.adsrvr.org",
+      "https://netdreamersimg.durasite.net",
+      "https://yads.c.yimg.jp",
+      "https://bbs.pc.keiba.findfriends.jp",
+      "https://i.socdm.com",
+      "https://www.clarity.ms",
+      "https://c.amazon-adsystem.com",
+      "https://www.google-analytics.com",
+      "https://www.google.nl",
+      "https://www.googletagmanager.com",
+      "https://stats.g.doubleclick.net",
+      "https://d1eoo1tco6rr5e.cloudfront.net",
+      "https://tg.socdm.com",
+      "https://c.bing.com",
+      "https://cpt.geniee.jp"
+    ],
+    "third_party_cookies_no_consent": {
+      "www.clarity.ms": {
+        "total": 1,
+        "session": 0,
+        "persistent": 1
+      },
+      ".bing.com": {
+        "total": 1,
+        "session": 0,
+        "persistent": 1
+      },
+      ".c.bing.com": {
+        "total": 2,
+        "session": 0,
+        "persistent": 1
+      },
+      ".c.clarity.ms": {
+        "total": 3,
+        "session": 2,
+        "persistent": 0
+      },
+      ".clarity.ms": {
+        "total": 1,
+        "session": 0,
+        "persistent": 1
+      }
+    },
+    "tracking_domains_all": [
+      "clarity.ms",
+      "google.com",
+      "google-analytics.com",
+      "cloudfront.net",
+      "socdm.com",
+      "amazon-adsystem.com",
+      "bing.com",
+      "adsrvr.org",
+      "durasite.net",
+      "doubleclick.net",
+      "googleapis.com",
+      "google.nl"
+    ],
+    "tracking_domains_no_consent": [
+      "clarity.ms",
+      "google.com",
+      "google-analytics.com",
+      "cloudfront.net",
+      "socdm.com",
+      "amazon-adsystem.com",
+      "bing.com",
+      "adsrvr.org",
+      "durasite.net",
+      "doubleclick.net",
+      "googleapis.com",
+      "google.nl"
+    ],
+    "consent_manager": "none detected",
+    "privacy_policy": {
+      "xpath_results": [],
+      "google_results": [],
+      "link": "ERROR"
+    },
+    "screenshot": ""
+  },
+  {
+    "id": "aHR0cDovL3RoZW5ldG5haWphLm5ldA==",
+    "url": "http://thenetnaija.net",
+    "cookies_all": [
+      {
+        "name": "_ga",
+        "domain": ".thenetnaija.net",
+        "expires_days": 400,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "_gid",
+        "domain": ".thenetnaija.net",
+        "expires_days": 1,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "_gat",
+        "domain": ".thenetnaija.net",
+        "expires_days": 0,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "adx_profile_guid",
+        "domain": ".dochaseadx.com",
+        "expires_days": 400,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "uuid",
+        "domain": ".ad.kubicadfr.icu",
+        "expires_days": 400,
+        "third_party": true,
+        "httponly": true,
+        "secure": true,
+        "persistent": true,
+        "tracker": false
+      }
+    ],
+    "cookies_no_consent": [
+      {
+        "name": "_ga",
+        "domain": ".thenetnaija.net",
+        "expires_days": 400,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "_gid",
+        "domain": ".thenetnaija.net",
+        "expires_days": 1,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "_gat",
+        "domain": ".thenetnaija.net",
+        "expires_days": 0,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "adx_profile_guid",
+        "domain": ".dochaseadx.com",
+        "expires_days": 400,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "uuid",
+        "domain": ".ad.kubicadfr.icu",
+        "expires_days": 400,
+        "third_party": true,
+        "httponly": true,
+        "secure": true,
+        "persistent": true,
+        "tracker": false
+      }
+    ],
+    "third_party_domains_all": [
+      "https://ads.dochaseadx.com",
+      "https://stats.g.doubleclick.net",
+      "https://ui.cleverwebserver.com",
+      "https://call.cleverwebserver.com",
+      "https://static.netnaija.com",
+      "https://www.google-analytics.com",
+      "https://cybertronads.com",
+      "https://hallway.netnaija.app",
+      "https://fonts.gstatic.com",
+      "https://scripts.cleverwebserver.com",
+      "https://fonts.googleapis.com",
+      "https://ad.kubicadfr.icu",
+      "https://www.googletagmanager.com"
+    ],
+    "third_party_domains_no_consent": [
+      "https://ads.dochaseadx.com",
+      "https://stats.g.doubleclick.net",
+      "https://ui.cleverwebserver.com",
+      "https://call.cleverwebserver.com",
+      "https://static.netnaija.com",
+      "https://www.google-analytics.com",
+      "https://cybertronads.com",
+      "https://hallway.netnaija.app",
+      "https://fonts.gstatic.com",
+      "https://scripts.cleverwebserver.com",
+      "https://fonts.googleapis.com",
+      "https://ad.kubicadfr.icu",
+      "https://www.googletagmanager.com"
+    ],
+    "third_party_cookies_no_consent": {
+      ".dochaseadx.com": {
+        "total": 1,
+        "session": 0,
+        "persistent": 1
+      },
+      ".ad.kubicadfr.icu": {
+        "total": 1,
+        "session": 0,
+        "persistent": 1
+      }
+    },
+    "tracking_domains_all": [
+      "google-analytics.com",
+      "doubleclick.net",
+      "https://cybertronads.com",
+      "gstatic.com",
+      "googleapis.com",
+      "cleverwebserver.com"
+    ],
+    "tracking_domains_no_consent": [
+      "google-analytics.com",
+      "doubleclick.net",
+      "https://cybertronads.com",
+      "gstatic.com",
+      "googleapis.com",
+      "cleverwebserver.com"
+    ],
+    "consent_manager": "none detected",
+    "privacy_policy": {
+      "xpath_results": [],
+      "google_results": [
+        "https://www.thenetnaija.net/docs/privacy"
+      ],
+      "link": "https://www.thenetnaija.net/docs/privacy"
+    },
+    "screenshot": ""
+  },
+  {
+    "id": "aHR0cDovL2xlcGhhdXNoLm5ldA==",
+    "url": "http://lephaush.net",
+    "cookies_all": [],
+    "cookies_no_consent": [],
+    "third_party_domains_all": [],
+    "third_party_domains_no_consent": [],
+    "third_party_cookies_no_consent": {},
+    "tracking_domains_all": [],
+    "tracking_domains_no_consent": [],
+    "consent_manager": "none detected",
+    "privacy_policy": {
+      "xpath_results": [],
+      "google_results": [],
+      "link": "ERROR"
+    },
+    "screenshot": ""
+  },
+  {
+    "id": "aHR0cDovL25hdGlvbmFsLWxvdHRlcnkuY28udWs=",
+    "url": "http://national-lottery.co.uk",
+    "cookies_all": [
+      {
+        "name": "SID",
+        "domain": "www.national-lottery.co.uk",
+        "expires_days": -19503,
+        "third_party": false,
+        "httponly": true,
+        "secure": true,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "authenticated",
+        "domain": "www.national-lottery.co.uk",
+        "expires_days": -19503,
+        "third_party": false,
+        "httponly": true,
+        "secure": true,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "DTID",
+        "domain": "www.national-lottery.co.uk",
+        "expires_days": 400,
+        "third_party": false,
+        "httponly": true,
+        "secure": true,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "cam213",
+        "domain": "www.national-lottery.co.uk",
+        "expires_days": -19503,
+        "third_party": false,
+        "httponly": true,
+        "secure": true,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "cam2",
+        "domain": "www.national-lottery.co.uk",
+        "expires_days": -19503,
+        "third_party": false,
+        "httponly": true,
+        "secure": true,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "CONSENTMGR",
+        "domain": ".national-lottery.co.uk",
+        "expires_days": 366,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "s_dfa",
+        "domain": ".national-lottery.co.uk",
+        "expires_days": 0,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "ad-id",
+        "domain": ".amazon-adsystem.com",
+        "expires_days": 220,
+        "third_party": true,
+        "httponly": true,
+        "secure": true,
+        "persistent": true,
+        "tracker": true
+      },
+      {
+        "name": "ad-privacy",
+        "domain": ".amazon-adsystem.com",
+        "expires_days": 400,
+        "third_party": true,
+        "httponly": true,
+        "secure": true,
+        "persistent": true,
+        "tracker": true
+      },
+      {
+        "name": "s_fid",
+        "domain": ".national-lottery.co.uk",
+        "expires_days": 400,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "gpv_Page",
+        "domain": ".national-lottery.co.uk",
+        "expires_days": 0,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "s_cc",
+        "domain": ".national-lottery.co.uk",
+        "expires_days": -19503,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "s_vi_igfx7Ex27yzkxxa",
+        "domain": ".sc.omtrdc.net",
+        "expires_days": 400,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": true,
+        "tracker": true
+      },
+      {
+        "name": "IDE",
+        "domain": ".doubleclick.net",
+        "expires_days": 390,
+        "third_party": true,
+        "httponly": true,
+        "secure": true,
+        "persistent": true,
+        "tracker": true
+      },
+      {
+        "name": "utag_main",
+        "domain": ".national-lottery.co.uk",
+        "expires_days": 365,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      }
+    ],
+    "cookies_no_consent": [
+      {
+        "name": "SameSite",
+        "domain": "www.national-lottery.co.uk",
+        "expires_days": 0,
+        "third_party": false,
+        "httponly": false,
+        "secure": true,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "SID",
+        "domain": "www.national-lottery.co.uk",
+        "expires_days": -19503,
+        "third_party": false,
+        "httponly": true,
+        "secure": true,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "authenticated",
+        "domain": "www.national-lottery.co.uk",
+        "expires_days": -19503,
+        "third_party": false,
+        "httponly": true,
+        "secure": true,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "DTID",
+        "domain": "www.national-lottery.co.uk",
+        "expires_days": 400,
+        "third_party": false,
+        "httponly": true,
+        "secure": true,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "cam213",
+        "domain": "www.national-lottery.co.uk",
+        "expires_days": -19503,
+        "third_party": false,
+        "httponly": true,
+        "secure": true,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "cam2",
+        "domain": "www.national-lottery.co.uk",
+        "expires_days": -19503,
+        "third_party": false,
+        "httponly": true,
+        "secure": true,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "utag_main",
+        "domain": ".national-lottery.co.uk",
+        "expires_days": 365,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      }
+    ],
+    "third_party_domains_all": [
+      "https://js-api.otherlevels.com",
+      "https://www.cdn-national-lottery.co.uk",
+      "https://tags.tiqcdn.com",
+      "https://4476222.fls.doubleclick.net",
+      "https://adservice.google.com",
+      "https://aax-eu.amazon-adsystem.com",
+      "https://camelot.d3.sc.omtrdc.net",
+      "https://camelotcdn.abaresearch.uk",
+      "https://js-content.otherlevels.com",
+      "https://adservice.google.nl",
+      "https://secure.adnxs.com",
+      "https://ib.adnxs.com",
+      "https://insight.reflow.tv",
+      "https://fls.doubleclick.net",
+      "https://collect.tealiumiq.com",
+      "https://js-tags.otherlevels.com"
+    ],
+    "third_party_domains_no_consent": [
+      "https://www.cdn-national-lottery.co.uk",
+      "https://tags.tiqcdn.com",
+      "https://camelotcdn.abaresearch.uk"
+    ],
+    "third_party_cookies_no_consent": {},
+    "tracking_domains_all": [
+      "google.com",
+      "amazon-adsystem.com",
+      "adnxs.com",
+      "doubleclick.net",
+      "tealiumiq.com",
+      "reflow.tv",
+      "omtrdc.net",
+      "google.nl"
+    ],
+    "tracking_domains_no_consent": [],
+    "consent_manager": "non-specific-custom",
+    "privacy_policy": {
+      "xpath_results": [],
+      "google_results": [
+        "https://www.national-lottery.co.uk/privacy-policy",
+        "https://www.google.com/search?q=privacy+policy+site:http://national-lottery.co.uk&tbm=isch&source=univ&fir=rII4wCaDo_oQOM%252C-Cf7GA00-BT3HM%252C_%253BykG2VPDIG6qWdM%252C-Cf7GA00-BT3HM%252C_%253BA8CQoK2YtzeIzM%252C-Cf7GA00-BT3HM%252C_%253BYU3NPrx2wo3TiM%252Czkk-o7Y-0m6VuM%252C_%253Be2H_DQHeLWGp0M%252C4YX3spAb5NJj_M%252C_%253B5v4MFUW56StHeM%252C-Cf7GA00-BT3HM%252C_%253B3IuK5yNEPqpKgM%252CUsXgmxlc1ux87M%252C_%253BTg0SCz_NebUbfM%252CQ2xeC29hDvJ99M%252C_%253BmW6BvWnYVksmQM%252CndzRoDXfp-ffRM%252C_%253B4ZC_j_JGlBA5SM%252CO1OoOq6lSLJ0fM%252C_&usg=AI4_-kRCEhUGmZ7qnV9Ro4QwfHgQiGmM4Q&sa=X&ved=2ahUKEwjR0Z6_jpP_AhU2_7sIHe13BSEQjJkEegQILBAC"
+      ],
+      "link": "https://www.national-lottery.co.uk/privacy-policy"
+    },
+    "screenshot": ""
+  },
+  {
+    "id": "aHR0cDovL3BodW1wYXVrLmNvbQ==",
+    "url": "http://phumpauk.com",
+    "cookies_all": [],
+    "cookies_no_consent": [],
+    "third_party_domains_all": [],
+    "third_party_domains_no_consent": [],
+    "third_party_cookies_no_consent": {},
+    "tracking_domains_all": [],
+    "tracking_domains_no_consent": [],
+    "consent_manager": "none detected",
+    "privacy_policy": {
+      "xpath_results": [],
+      "google_results": [],
+      "link": "ERROR"
+    },
+    "screenshot": ""
+  },
+  {
+    "id": "aHR0cDovL3hvc28uY29tLnZu",
+    "url": "http://xoso.com.vn",
+    "cookies_all": [],
+    "cookies_no_consent": [],
+    "third_party_domains_all": [
+      "https://challenges.cloudflare.com"
+    ],
+    "third_party_domains_no_consent": [
+      "https://challenges.cloudflare.com"
+    ],
+    "third_party_cookies_no_consent": {},
+    "tracking_domains_all": [],
+    "tracking_domains_no_consent": [],
+    "consent_manager": "none detected",
+    "privacy_policy": {
+      "xpath_results": [],
+      "google_results": [],
+      "link": "ERROR"
+    },
+    "screenshot": ""
+  },
+  {
+    "id": "aHR0cDovL3N0YWtlLmNvbQ==",
+    "url": "http://stake.com",
+    "cookies_all": [
+      {
+        "name": "__cf_bm",
+        "domain": ".stake.com",
+        "expires_days": 0,
+        "third_party": false,
+        "httponly": true,
+        "secure": true,
+        "persistent": false,
+        "tracker": false
+      }
+    ],
+    "cookies_no_consent": [
+      {
+        "name": "__cf_bm",
+        "domain": ".stake.com",
+        "expires_days": 0,
+        "third_party": false,
+        "httponly": true,
+        "secure": true,
+        "persistent": false,
+        "tracker": false
+      }
+    ],
+    "third_party_domains_all": [
+      "https://challenges.cloudflare.com"
+    ],
+    "third_party_domains_no_consent": [
+      "https://challenges.cloudflare.com"
+    ],
+    "third_party_cookies_no_consent": {},
+    "tracking_domains_all": [],
+    "tracking_domains_no_consent": [],
+    "consent_manager": "none detected",
+    "privacy_policy": {
+      "xpath_results": [],
+      "google_results": [
+        "https://stake.com/policies/privacy",
+        "https://www.google.com/search?q=privacy+policy+site:http://stake.com&tbm=isch&source=univ&fir=AI0sbqz3tBo1DM%252CfDysCzHHk2NzkM%252C_%253BDh-iLc3UpHvEnM%252Csz83yOPZ2rq8lM%252C_%253BP3B6LlyjD7YXSM%252Cq-Xxpc-TzGZYtM%252C_%253B0v8-2Q0L0sMy7M%252C68A3ikV59npuSM%252C_%253B_WePUX0jXvBQ5M%252CcjcjBPaud6zRMM%252C_%253B7T-kHFyx5c7xXM%252Cv2kszXw2rutAeM%252C_%253BjMOFJCQKyF_ksM%252Cb2rndcqFfPQ_bM%252C_%253BFuEyWw7whB2vVM%252C3E0TiyHkjkdhZM%252C_%253BJckayTGGws3NSM%252CgD5zekB5OFaKaM%252C_%253BGxr6Pq8R0V6eaM%252CyPMmOLRVcq8pMM%252C_&usg=AI4_-kQxJmo789OM-3d3M4Df41UZmCyy2w&sa=X&ved=2ahUKEwjgk6PgjpP_AhU6i_0HHeJNBN0QjJkEegQIHhAC"
+      ],
+      "link": "https://stake.com/policies/privacy"
+    },
+    "screenshot": ""
+  },
+  {
+    "id": "aHR0cDovL2JldGFuby5jb20=",
+    "url": "http://betano.com",
+    "cookies_all": [
+      {
+        "name": "sticky",
+        "domain": "www.betano.com",
+        "expires_days": -19503,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "__cf_bm",
+        "domain": ".gmlinteractive.com",
+        "expires_days": 0,
+        "third_party": true,
+        "httponly": true,
+        "secure": true,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "_ga",
+        "domain": ".betano.com",
+        "expires_days": 400,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "_gid",
+        "domain": ".betano.com",
+        "expires_days": 1,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "_gat_UA-129673391-1",
+        "domain": ".betano.com",
+        "expires_days": 0,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "datadome",
+        "domain": ".betano.com",
+        "expires_days": 365,
+        "third_party": false,
+        "httponly": false,
+        "secure": true,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "__cf_bm",
+        "domain": ".betano.com",
+        "expires_days": 0,
+        "third_party": false,
+        "httponly": true,
+        "secure": true,
+        "persistent": false,
+        "tracker": false
+      }
+    ],
+    "cookies_no_consent": [
+      {
+        "name": "sticky",
+        "domain": "www.betano.com",
+        "expires_days": -19503,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "__cf_bm",
+        "domain": ".gmlinteractive.com",
+        "expires_days": 0,
+        "third_party": true,
+        "httponly": true,
+        "secure": true,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "_ga",
+        "domain": ".betano.com",
+        "expires_days": 400,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "_gid",
+        "domain": ".betano.com",
+        "expires_days": 1,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "_gat_UA-129673391-1",
+        "domain": ".betano.com",
+        "expires_days": 0,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "datadome",
+        "domain": ".betano.com",
+        "expires_days": 365,
+        "third_party": false,
+        "httponly": false,
+        "secure": true,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "__cf_bm",
+        "domain": ".betano.com",
+        "expires_days": 0,
+        "third_party": false,
+        "httponly": true,
+        "secure": true,
+        "persistent": false,
+        "tracker": false
+      }
+    ],
+    "third_party_domains_all": [
+      "https://js.datadome.co",
+      "https://cov.gmlinteractive.com",
+      "https://www.google-analytics.com",
+      "https://api-js.datadome.co",
+      "https://fonts.gstatic.com",
+      "https://fonts.googleapis.com",
+      "https://cdn.jsdelivr.net",
+      "https://www.googletagmanager.com"
+    ],
+    "third_party_domains_no_consent": [
+      "https://js.datadome.co",
+      "https://cov.gmlinteractive.com",
+      "https://www.google-analytics.com",
+      "https://api-js.datadome.co",
+      "https://fonts.gstatic.com",
+      "https://fonts.googleapis.com",
+      "https://cdn.jsdelivr.net",
+      "https://www.googletagmanager.com"
+    ],
+    "third_party_cookies_no_consent": {
+      ".gmlinteractive.com": {
+        "total": 1,
+        "session": 1,
+        "persistent": 0
+      }
+    },
+    "tracking_domains_all": [
+      "google-analytics.com",
+      "googleapis.com",
+      "gstatic.com",
+      "datadome.co"
+    ],
+    "tracking_domains_no_consent": [
+      "google-analytics.com",
+      "googleapis.com",
+      "gstatic.com",
+      "datadome.co"
+    ],
+    "consent_manager": "none detected",
+    "privacy_policy": {
+      "xpath_results": [],
+      "google_results": [
+        "https://cl.betano.com/en/article/privacy-policy/347467/"
+      ],
+      "link": "https://cl.betano.com/en/article/privacy-policy/347467/"
+    },
+    "screenshot": ""
+  },
+  {
+    "id": "aHR0cDovL2l0cG9ueXRhYS5jb20=",
+    "url": "http://itponytaa.com",
+    "cookies_all": [],
+    "cookies_no_consent": [],
+    "third_party_domains_all": [],
+    "third_party_domains_no_consent": [],
+    "third_party_cookies_no_consent": {},
+    "tracking_domains_all": [],
+    "tracking_domains_no_consent": [],
+    "consent_manager": "none detected",
+    "privacy_policy": {
+      "xpath_results": [],
+      "google_results": [],
+      "link": "ERROR"
+    },
+    "screenshot": ""
+  },
+  {
+    "id": "aHR0cDovL2dvZ29hbmltZS5ncg==",
+    "url": "http://gogoanime.gr",
+    "cookies_all": [
+      {
+        "name": "gogoanime",
+        "domain": "gogoanime.cl",
+        "expires_days": -19503,
+        "third_party": true,
+        "httponly": false,
+        "secure": false,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "_ga_6LL626G4N3",
+        "domain": ".gogoanime.cl",
+        "expires_days": 400,
+        "third_party": true,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "_ga",
+        "domain": ".gogoanime.cl",
+        "expires_days": 400,
+        "third_party": true,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      }
+    ],
+    "cookies_no_consent": [
+      {
+        "name": "gogoanime",
+        "domain": "gogoanime.cl",
+        "expires_days": -19503,
+        "third_party": true,
+        "httponly": false,
+        "secure": false,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "_ga_6LL626G4N3",
+        "domain": ".gogoanime.cl",
+        "expires_days": 400,
+        "third_party": true,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "_ga",
+        "domain": ".gogoanime.cl",
+        "expires_days": 400,
+        "third_party": true,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      }
+    ],
+    "third_party_domains_all": [
+      "https://gogocdn.net",
+      "https://imp9.bidgear.com",
+      "https://demand.bidgear.com",
+      "https://ajax.gogo-load.com",
+      "https://platform.bidgear.com",
+      "http://gogoanime.cl",
+      "https://gogoanime.cl",
+      "https://cdn.gogocdn.net",
+      "https://region1.google-analytics.com",
+      "https://www.googletagmanager.com"
+    ],
+    "third_party_domains_no_consent": [
+      "https://gogocdn.net",
+      "https://imp9.bidgear.com",
+      "https://demand.bidgear.com",
+      "https://ajax.gogo-load.com",
+      "https://platform.bidgear.com",
+      "http://gogoanime.cl",
+      "https://gogoanime.cl",
+      "https://cdn.gogocdn.net",
+      "https://region1.google-analytics.com",
+      "https://www.googletagmanager.com"
+    ],
+    "third_party_cookies_no_consent": {
+      "gogoanime.cl": {
+        "total": 1,
+        "session": 1,
+        "persistent": 0
+      },
+      ".gogoanime.cl": {
+        "total": 2,
+        "session": 0,
+        "persistent": 2
+      }
+    },
+    "tracking_domains_all": [
+      "google-analytics.com",
+      "bidgear.com"
+    ],
+    "tracking_domains_no_consent": [
+      "google-analytics.com",
+      "bidgear.com"
+    ],
+    "consent_manager": "none detected",
+    "privacy_policy": {
+      "xpath_results": [],
+      "google_results": [],
+      "link": "ERROR"
+    },
+    "screenshot": ""
+  },
+  {
+    "id": "aHR0cDovL2JldGlrYS5jb20=",
+    "url": "http://betika.com",
+    "cookies_all": [
+      {
+        "name": "X-AB",
+        "domain": "sc-static.net",
+        "expires_days": 1,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": false,
+        "tracker": true
+      },
+      {
+        "name": "btk-geo-country",
+        "domain": "betika.com",
+        "expires_days": -19503,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "__cf_bm",
+        "domain": ".betika.com",
+        "expires_days": 0,
+        "third_party": false,
+        "httponly": true,
+        "secure": true,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "supports_mobile_web",
+        "domain": "www.betika.com",
+        "expires_days": 400,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "btk-lang-cn",
+        "domain": "www.betika.com",
+        "expires_days": 400,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "_gid",
+        "domain": ".betika.com",
+        "expires_days": 1,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "_gat",
+        "domain": ".betika.com",
+        "expires_days": 0,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "_gcl_au",
+        "domain": ".betika.com",
+        "expires_days": 90,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "iDSP_Cookie",
+        "domain": ".betika.com",
+        "expires_days": 90,
+        "third_party": false,
+        "httponly": false,
+        "secure": true,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "_scid",
+        "domain": ".betika.com",
+        "expires_days": 396,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "_scid_r",
+        "domain": ".betika.com",
+        "expires_days": 396,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "__eConsent",
+        "domain": ".eskimi.com",
+        "expires_days": 30,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": false,
+        "tracker": true
+      },
+      {
+        "name": "__eDId",
+        "domain": ".eskimi.com",
+        "expires_days": 30,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": false,
+        "tracker": true
+      },
+      {
+        "name": "__eP",
+        "domain": ".eskimi.com",
+        "expires_days": 14,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": false,
+        "tracker": true
+      },
+      {
+        "name": "_dc_gtm_UA-77069362-1",
+        "domain": ".betika.com",
+        "expires_days": 0,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "IDE",
+        "domain": ".doubleclick.net",
+        "expires_days": 390,
+        "third_party": true,
+        "httponly": true,
+        "secure": true,
+        "persistent": true,
+        "tracker": true
+      },
+      {
+        "name": "_gat_UA-77069362-10",
+        "domain": ".betika.com",
+        "expires_days": 0,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "sc_at",
+        "domain": ".snapchat.com",
+        "expires_days": 390,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "_fbp",
+        "domain": ".betika.com",
+        "expires_days": 90,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "_cq_duid",
+        "domain": ".betika.com",
+        "expires_days": 91,
+        "third_party": false,
+        "httponly": false,
+        "secure": true,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "_cq_suid",
+        "domain": ".betika.com",
+        "expires_days": -19503,
+        "third_party": false,
+        "httponly": false,
+        "secure": true,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "_ga",
+        "domain": ".betika.com",
+        "expires_days": 400,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "cg_uuid",
+        "domain": "obs.cheqzone.com",
+        "expires_days": 336,
+        "third_party": true,
+        "httponly": true,
+        "secure": true,
+        "persistent": true,
+        "tracker": true
+      },
+      {
+        "name": "_cq_13122_v",
+        "domain": ".betika.com",
+        "expires_days": 91,
+        "third_party": false,
+        "httponly": false,
+        "secure": true,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "_ga_R8GRWELHBE",
+        "domain": ".betika.com",
+        "expires_days": 400,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "AWSALBCORS",
+        "domain": "widget-mediator.zopim.com",
+        "expires_days": 7,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": false,
+        "tracker": true
+      },
+      {
+        "name": "__zlcmid",
+        "domain": ".betika.com",
+        "expires_days": 365,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      }
+    ],
+    "cookies_no_consent": [
+      {
+        "name": "X-AB",
+        "domain": "sc-static.net",
+        "expires_days": 1,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": false,
+        "tracker": true
+      },
+      {
+        "name": "btk-geo-country",
+        "domain": "betika.com",
+        "expires_days": -19503,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "__cf_bm",
+        "domain": ".betika.com",
+        "expires_days": 0,
+        "third_party": false,
+        "httponly": true,
+        "secure": true,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "supports_mobile_web",
+        "domain": "www.betika.com",
+        "expires_days": 400,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "btk-lang-cn",
+        "domain": "www.betika.com",
+        "expires_days": 400,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "_gid",
+        "domain": ".betika.com",
+        "expires_days": 1,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "_gat",
+        "domain": ".betika.com",
+        "expires_days": 0,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "_gcl_au",
+        "domain": ".betika.com",
+        "expires_days": 90,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "iDSP_Cookie",
+        "domain": ".betika.com",
+        "expires_days": 90,
+        "third_party": false,
+        "httponly": false,
+        "secure": true,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "_scid",
+        "domain": ".betika.com",
+        "expires_days": 396,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "_scid_r",
+        "domain": ".betika.com",
+        "expires_days": 396,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "__eConsent",
+        "domain": ".eskimi.com",
+        "expires_days": 30,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": false,
+        "tracker": true
+      },
+      {
+        "name": "__eDId",
+        "domain": ".eskimi.com",
+        "expires_days": 30,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": false,
+        "tracker": true
+      },
+      {
+        "name": "__eP",
+        "domain": ".eskimi.com",
+        "expires_days": 14,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": false,
+        "tracker": true
+      },
+      {
+        "name": "_dc_gtm_UA-77069362-1",
+        "domain": ".betika.com",
+        "expires_days": 0,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "IDE",
+        "domain": ".doubleclick.net",
+        "expires_days": 390,
+        "third_party": true,
+        "httponly": true,
+        "secure": true,
+        "persistent": true,
+        "tracker": true
+      },
+      {
+        "name": "_gat_UA-77069362-10",
+        "domain": ".betika.com",
+        "expires_days": 0,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "sc_at",
+        "domain": ".snapchat.com",
+        "expires_days": 390,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "_fbp",
+        "domain": ".betika.com",
+        "expires_days": 90,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "_cq_duid",
+        "domain": ".betika.com",
+        "expires_days": 91,
+        "third_party": false,
+        "httponly": false,
+        "secure": true,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "_cq_suid",
+        "domain": ".betika.com",
+        "expires_days": -19503,
+        "third_party": false,
+        "httponly": false,
+        "secure": true,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "_ga",
+        "domain": ".betika.com",
+        "expires_days": 400,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "cg_uuid",
+        "domain": "obs.cheqzone.com",
+        "expires_days": 336,
+        "third_party": true,
+        "httponly": true,
+        "secure": true,
+        "persistent": true,
+        "tracker": true
+      },
+      {
+        "name": "_cq_13122_v",
+        "domain": ".betika.com",
+        "expires_days": 91,
+        "third_party": false,
+        "httponly": false,
+        "secure": true,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "_ga_R8GRWELHBE",
+        "domain": ".betika.com",
+        "expires_days": 400,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "AWSALBCORS",
+        "domain": "widget-mediator.zopim.com",
+        "expires_days": 7,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": false,
+        "tracker": true
+      },
+      {
+        "name": "__zlcmid",
+        "domain": ".betika.com",
+        "expires_days": 365,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      }
+    ],
+    "third_party_domains_all": [
+      "https://cdn-ie.transmartx.com",
+      "https://region1.analytics.google.com",
+      "https://storage.googleapis.com",
+      "https://www.google.com",
+      "https://collection.decibelinsight.net",
+      "https://fonts.gstatic.com",
+      "https://tr.snapchat.com",
+      "https://fonts.googleapis.com",
+      "https://ob.cheqzone.com",
+      "https://trk.elephantmob.com",
+      "https://adservice.google.nl",
+      "https://static.hotjar.com",
+      "https://ekr.zdassets.com",
+      "https://betika.zendesk.com",
+      "https://advertiser.inmobiapis.com",
+      "https://obs.cheqzone.com",
+      "https://d10lpsik1i8c69.cloudfront.net",
+      "https://11816973.fls.doubleclick.net",
+      "https://betika.com",
+      "https://i.l-dsp.inmobicdn.net",
+      "https://cdn.brand-display.com",
+      "https://googleads.g.doubleclick.net",
+      "https://settings.luckyorange.net",
+      "https://dsp-media.eskimi.com",
+      "https://www.google-analytics.com",
+      "https://tracker.services.vaix.ai",
+      "https://www.google.nl",
+      "https://sc-static.net",
+      "https://www.googletagmanager.com",
+      "https://dsp-ap.eskimi.com",
+      "https://dsp-trk.eskimi.com",
+      "https://stats.g.doubleclick.net",
+      "https://unpkg.com",
+      "https://www.facebook.com",
+      "https://10321311.fls.doubleclick.net",
+      "https://static.zdassets.com",
+      "https://connect.facebook.net",
+      "https://adservice.google.com"
+    ],
+    "third_party_domains_no_consent": [
+      "https://cdn-ie.transmartx.com",
+      "https://region1.analytics.google.com",
+      "https://storage.googleapis.com",
+      "https://www.google.com",
+      "https://collection.decibelinsight.net",
+      "https://fonts.gstatic.com",
+      "https://tr.snapchat.com",
+      "https://fonts.googleapis.com",
+      "https://ob.cheqzone.com",
+      "https://trk.elephantmob.com",
+      "https://adservice.google.nl",
+      "https://static.hotjar.com",
+      "https://ekr.zdassets.com",
+      "https://betika.zendesk.com",
+      "https://advertiser.inmobiapis.com",
+      "https://obs.cheqzone.com",
+      "https://d10lpsik1i8c69.cloudfront.net",
+      "https://11816973.fls.doubleclick.net",
+      "https://betika.com",
+      "https://i.l-dsp.inmobicdn.net",
+      "https://cdn.brand-display.com",
+      "https://googleads.g.doubleclick.net",
+      "https://settings.luckyorange.net",
+      "https://dsp-media.eskimi.com",
+      "https://www.google-analytics.com",
+      "https://tracker.services.vaix.ai",
+      "https://www.google.nl",
+      "https://sc-static.net",
+      "https://www.googletagmanager.com",
+      "https://dsp-ap.eskimi.com",
+      "https://dsp-trk.eskimi.com",
+      "https://stats.g.doubleclick.net",
+      "https://unpkg.com",
+      "https://www.facebook.com",
+      "https://10321311.fls.doubleclick.net",
+      "https://static.zdassets.com",
+      "https://connect.facebook.net",
+      "https://adservice.google.com"
+    ],
+    "third_party_cookies_no_consent": {
+      "sc-static.net": {
+        "total": 1,
+        "session": 0,
+        "persistent": 0
+      },
+      ".eskimi.com": {
+        "total": 3,
+        "session": 0,
+        "persistent": 0
+      },
+      ".doubleclick.net": {
+        "total": 1,
+        "session": 0,
+        "persistent": 1
+      },
+      ".snapchat.com": {
+        "total": 1,
+        "session": 0,
+        "persistent": 1
+      },
+      "obs.cheqzone.com": {
+        "total": 1,
+        "session": 0,
+        "persistent": 0
+      },
+      "widget-mediator.zopim.com": {
+        "total": 1,
+        "session": 0,
+        "persistent": 0
+      }
+    },
+    "tracking_domains_all": [
+      "google.com",
+      "google-analytics.com",
+      "cloudfront.net",
+      "doubleclick.net",
+      "decibelinsight.net",
+      "zendesk.com",
+      "luckyorange.net",
+      "hotjar.com",
+      "cheqzone.com",
+      "snapchat.com",
+      "gstatic.com",
+      "googleapis.com",
+      "google.nl",
+      "eskimi.com",
+      "https://sc-static.net",
+      "brand-display.com",
+      "facebook.net",
+      "facebook.com"
+    ],
+    "tracking_domains_no_consent": [
+      "google.com",
+      "google-analytics.com",
+      "cloudfront.net",
+      "doubleclick.net",
+      "decibelinsight.net",
+      "zendesk.com",
+      "luckyorange.net",
+      "hotjar.com",
+      "cheqzone.com",
+      "snapchat.com",
+      "gstatic.com",
+      "googleapis.com",
+      "google.nl",
+      "eskimi.com",
+      "https://sc-static.net",
+      "brand-display.com",
+      "facebook.net",
+      "facebook.com"
+    ],
+    "consent_manager": "none detected",
+    "privacy_policy": {
+      "xpath_results": [],
+      "google_results": [
+        "https://www.betika.com/et/privacy-policy-et-en.html",
+        "https://g.betika.com/legal/betika-website-and-mobile-app-privacy-policy",
+        "https://www.betika.com/en-ke/legal/privacy-policy",
+        "https://www.google.com/search?q=privacy+policy+site:http://betika.com&tbm=isch&source=univ&fir=um0zKbxyblRaYM%252C9kIBUxeYUdywVM%252C_%253BPs9wQjH8M-BNkM%252C4VEhFywg_L8R2M%252C_%253BjQxf_uUvuCeO-M%252C4VEhFywg_L8R2M%252C_%253B10THFWm6c5ALeM%252CQg7IIIGAzBPGvM%252C_%253BwrRUgmqOxQ44tM%252C4VEhFywg_L8R2M%252C_%253BiyFXQ1UKlmkeAM%252COoeecHW05tI2kM%252C_%253BxA3eIZVs6N5mnM%252C4VEhFywg_L8R2M%252C_%253Ba1Ws3Xaxk9Yj7M%252COoeecHW05tI2kM%252C_%253BsHgTfMWAUtM1VM%252C4VEhFywg_L8R2M%252C_%253BVePFB1cZxykB1M%252C4VEhFywg_L8R2M%252C_&usg=AI4_-kQkc0f__hTIJmnt6T7yaHyiHFv33w&sa=X&ved=2ahUKEwiir_-Uj5P_AhUY_bsIHamqDRAQjJkEegQIHxAC"
+      ],
+      "link": "https://www.betika.com/et/privacy-policy-et-en.html"
+    },
+    "screenshot": ""
+  },
+  {
+    "id": "aHR0cDovL3JvdWRvZHVvci5jb20=",
+    "url": "http://roudoduor.com",
+    "cookies_all": [],
+    "cookies_no_consent": [],
+    "third_party_domains_all": [],
+    "third_party_domains_no_consent": [],
+    "third_party_cookies_no_consent": {},
+    "tracking_domains_all": [],
+    "tracking_domains_no_consent": [],
+    "consent_manager": "none detected",
+    "privacy_policy": {
+      "xpath_results": [],
+      "google_results": [],
+      "link": "ERROR"
+    },
+    "screenshot": ""
+  },
+  {
+    "id": "aHR0cDovL2ZsYXNoc2NvcmUubW9iaQ==",
+    "url": "http://flashscore.mobi",
+    "cookies_all": [
+      {
+        "name": "_gid",
+        "domain": ".flashscore.mobi",
+        "expires_days": 1,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "_gat",
+        "domain": ".flashscore.mobi",
+        "expires_days": 0,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "_ga_HK6G8059T9",
+        "domain": ".flashscore.mobi",
+        "expires_days": 400,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "_ga",
+        "domain": ".flashscore.mobi",
+        "expires_days": 400,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      }
+    ],
+    "cookies_no_consent": [
+      {
+        "name": "_gid",
+        "domain": ".flashscore.mobi",
+        "expires_days": 1,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "_gat",
+        "domain": ".flashscore.mobi",
+        "expires_days": 0,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "_ga_HK6G8059T9",
+        "domain": ".flashscore.mobi",
+        "expires_days": 400,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "_ga",
+        "domain": ".flashscore.mobi",
+        "expires_days": 400,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      }
+    ],
+    "third_party_domains_all": [
+      "https://region1.analytics.google.com",
+      "http://www.google-analytics.com",
+      "https://stats.g.doubleclick.net",
+      "https://www.google.com",
+      "https://www.google-analytics.com",
+      "https://www.google.nl",
+      "https://www.googletagmanager.com"
+    ],
+    "third_party_domains_no_consent": [
+      "https://region1.analytics.google.com",
+      "http://www.google-analytics.com",
+      "https://stats.g.doubleclick.net",
+      "https://www.google.com",
+      "https://www.google-analytics.com",
+      "https://www.google.nl",
+      "https://www.googletagmanager.com"
+    ],
+    "third_party_cookies_no_consent": {},
+    "tracking_domains_all": [
+      "doubleclick.net",
+      "google.com",
+      "google-analytics.com",
+      "google.nl"
+    ],
+    "tracking_domains_no_consent": [
+      "doubleclick.net",
+      "google.com",
+      "google-analytics.com",
+      "google.nl"
+    ],
+    "consent_manager": "none detected",
+    "privacy_policy": {
+      "xpath_results": [],
+      "google_results": [],
+      "link": "ERROR"
+    },
+    "screenshot": ""
+  },
+  {
+    "id": "aHR0cDovL2dhbWVtdXR1dGVyamFtaW4uY29t",
+    "url": "http://gamemututerjamin.com",
+    "cookies_all": [],
+    "cookies_no_consent": [],
+    "third_party_domains_all": [
+      "https://challenges.cloudflare.com"
+    ],
+    "third_party_domains_no_consent": [
+      "https://challenges.cloudflare.com"
+    ],
+    "third_party_cookies_no_consent": {},
+    "tracking_domains_all": [],
+    "tracking_domains_no_consent": [],
+    "consent_manager": "none detected",
+    "privacy_policy": {
+      "xpath_results": [],
+      "google_results": [],
+      "link": "ERROR"
+    },
+    "screenshot": ""
+  },
+  {
+    "id": "aHR0cDovL2JvbnVzLWRlYXBvc3RhLmNvbQ==",
+    "url": "http://bonus-deaposta.com",
+    "cookies_all": [
+      {
+        "name": "__cf_bm",
+        "domain": ".onesignal.com",
+        "expires_days": 0,
+        "third_party": true,
+        "httponly": true,
+        "secure": true,
+        "persistent": false,
+        "tracker": true
+      },
+      {
+        "name": "_ga",
+        "domain": ".bonus-deaposta.com",
+        "expires_days": 400,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "_gid",
+        "domain": ".bonus-deaposta.com",
+        "expires_days": 1,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "_gat_UA-15039508-13",
+        "domain": ".bonus-deaposta.com",
+        "expires_days": 0,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "_fbp",
+        "domain": ".bonus-deaposta.com",
+        "expires_days": 90,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      }
+    ],
+    "cookies_no_consent": [
+      {
+        "name": "__cf_bm",
+        "domain": ".onesignal.com",
+        "expires_days": 0,
+        "third_party": true,
+        "httponly": true,
+        "secure": true,
+        "persistent": false,
+        "tracker": true
+      },
+      {
+        "name": "_ga",
+        "domain": ".bonus-deaposta.com",
+        "expires_days": 400,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "_gid",
+        "domain": ".bonus-deaposta.com",
+        "expires_days": 1,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "_gat_UA-15039508-13",
+        "domain": ".bonus-deaposta.com",
+        "expires_days": 0,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "_fbp",
+        "domain": ".bonus-deaposta.com",
+        "expires_days": 90,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      }
+    ],
+    "third_party_domains_all": [
+      "https://cdn.onesignal.com",
+      "https://codigobonusbet.com.br",
+      "https://intersc.igaming-service.io",
+      "https://ip-api.igaming-service.io",
+      "https://www.facebook.com",
+      "https://static.hotjar.com",
+      "https://connect.facebook.net",
+      "https://www.google-analytics.com",
+      "https://fonts.gstatic.com",
+      "https://onesignal.com",
+      "https://www.googletagmanager.com"
+    ],
+    "third_party_domains_no_consent": [
+      "https://cdn.onesignal.com",
+      "https://codigobonusbet.com.br",
+      "https://intersc.igaming-service.io",
+      "https://ip-api.igaming-service.io",
+      "https://www.facebook.com",
+      "https://static.hotjar.com",
+      "https://connect.facebook.net",
+      "https://www.google-analytics.com",
+      "https://fonts.gstatic.com",
+      "https://onesignal.com",
+      "https://www.googletagmanager.com"
+    ],
+    "third_party_cookies_no_consent": {
+      ".onesignal.com": {
+        "total": 1,
+        "session": 1,
+        "persistent": 0
+      }
+    },
+    "tracking_domains_all": [
+      "google-analytics.com",
+      "onesignal.com",
+      "hotjar.com",
+      "gstatic.com",
+      "https://onesignal.com",
+      "facebook.net",
+      "facebook.com"
+    ],
+    "tracking_domains_no_consent": [
+      "google-analytics.com",
+      "onesignal.com",
+      "hotjar.com",
+      "gstatic.com",
+      "https://onesignal.com",
+      "facebook.net",
+      "facebook.com"
+    ],
+    "consent_manager": "none detected",
+    "privacy_policy": {
+      "xpath_results": [],
+      "google_results": [],
+      "link": "ERROR"
+    },
+    "screenshot": ""
+  },
+  {
+    "id": "aHR0cDovL2FkYmxvY2stb25lLXByb3RlY3Rpb24uY29t",
+    "url": "http://adblock-one-protection.com",
+    "cookies_all": [],
+    "cookies_no_consent": [],
+    "third_party_domains_all": [],
+    "third_party_domains_no_consent": [],
+    "third_party_cookies_no_consent": {},
+    "tracking_domains_all": [],
+    "tracking_domains_no_consent": [],
+    "consent_manager": "none detected",
+    "privacy_policy": {
+      "xpath_results": [],
+      "google_results": [],
+      "link": "ERROR"
+    },
+    "screenshot": ""
+  },
+  {
+    "id": "aHR0cDovL2hvcm55Z2lybHNpbmFwcC5jb20=",
+    "url": "http://hornygirlsinapp.com",
+    "cookies_all": [],
+    "cookies_no_consent": [],
+    "third_party_domains_all": [],
+    "third_party_domains_no_consent": [],
+    "third_party_cookies_no_consent": {},
+    "tracking_domains_all": [],
+    "tracking_domains_no_consent": [],
+    "consent_manager": "none detected",
+    "privacy_policy": {
+      "xpath_results": [],
+      "google_results": [],
+      "link": "ERROR"
+    },
+    "screenshot": ""
+  },
+  {
+    "id": "aHR0cDovL2JldDlqYS5jb20=",
+    "url": "http://bet9ja.com",
+    "cookies_all": [
+      {
+        "name": "landingRedirection",
+        "domain": ".bet9ja.com",
+        "expires_days": 365,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "_gcl_au",
+        "domain": ".bet9ja.com",
+        "expires_days": 90,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "cif_",
+        "domain": ".bet9ja.com",
+        "expires_days": 30,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "__cf_bm",
+        "domain": ".mgid.com",
+        "expires_days": 0,
+        "third_party": true,
+        "httponly": true,
+        "secure": true,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "guest_id_marketing",
+        "domain": ".twitter.com",
+        "expires_days": 400,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": true,
+        "tracker": true
+      },
+      {
+        "name": "guest_id_ads",
+        "domain": ".twitter.com",
+        "expires_days": 400,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": true,
+        "tracker": true
+      },
+      {
+        "name": "personalization_id",
+        "domain": ".twitter.com",
+        "expires_days": 400,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": true,
+        "tracker": true
+      },
+      {
+        "name": "guest_id",
+        "domain": ".twitter.com",
+        "expires_days": 400,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": true,
+        "tracker": true
+      },
+      {
+        "name": "muc_ads",
+        "domain": ".t.co",
+        "expires_days": 400,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "_gid",
+        "domain": ".bet9ja.com",
+        "expires_days": 1,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "_gat_UA-61138412-1",
+        "domain": ".bet9ja.com",
+        "expires_days": 0,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "zuuid",
+        "domain": ".sportradarserving.com",
+        "expires_days": 365,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": true,
+        "tracker": true
+      },
+      {
+        "name": "c",
+        "domain": ".sportradarserving.com",
+        "expires_days": 365,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": true,
+        "tracker": true
+      },
+      {
+        "name": "_tguatd",
+        "domain": ".bet9ja.com",
+        "expires_days": 0,
+        "third_party": false,
+        "httponly": false,
+        "secure": true,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "_tgpc",
+        "domain": ".bet9ja.com",
+        "expires_days": 365,
+        "third_party": false,
+        "httponly": false,
+        "secure": true,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "_tgidts",
+        "domain": ".bet9ja.com",
+        "expires_days": 0,
+        "third_party": false,
+        "httponly": false,
+        "secure": true,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "_tglksd",
+        "domain": ".bet9ja.com",
+        "expires_days": 365,
+        "third_party": false,
+        "httponly": false,
+        "secure": true,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "_tgsid",
+        "domain": ".bet9ja.com",
+        "expires_days": 0,
+        "third_party": false,
+        "httponly": false,
+        "secure": true,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "_ga",
+        "domain": ".bet9ja.com",
+        "expires_days": 400,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "_ga_YYQNLHMCQS",
+        "domain": ".bet9ja.com",
+        "expires_days": 400,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "MgidSensorNVis",
+        "domain": "www.bet9ja.com",
+        "expires_days": 90,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "MgidSensorHref",
+        "domain": "www.bet9ja.com",
+        "expires_days": 90,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "uuid",
+        "domain": ".ad.kubadserv4.icu",
+        "expires_days": 400,
+        "third_party": true,
+        "httponly": true,
+        "secure": true,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "uid",
+        "domain": ".criteo.com",
+        "expires_days": 390,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": true,
+        "tracker": true
+      },
+      {
+        "name": "__adm_tid",
+        "domain": "www.bet9ja.com",
+        "expires_days": 365,
+        "third_party": false,
+        "httponly": false,
+        "secure": true,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "_fbp",
+        "domain": ".bet9ja.com",
+        "expires_days": 90,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "zuuid_lu",
+        "domain": ".sportradarserving.com",
+        "expires_days": 365,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": true,
+        "tracker": true
+      },
+      {
+        "name": "zuuid_k",
+        "domain": ".sportradarserving.com",
+        "expires_days": 365,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": true,
+        "tracker": true
+      },
+      {
+        "name": "zuuid_k_lu",
+        "domain": ".sportradarserving.com",
+        "expires_days": 365,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": true,
+        "tracker": true
+      },
+      {
+        "name": "bss",
+        "domain": ".sportradarserving.com",
+        "expires_days": 365,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": true,
+        "tracker": true
+      },
+      {
+        "name": "cm2",
+        "domain": ".sportradarserving.com",
+        "expires_days": 365,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": true,
+        "tracker": true
+      },
+      {
+        "name": "c",
+        "domain": ".bidswitch.net",
+        "expires_days": 365,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": true,
+        "tracker": true
+      },
+      {
+        "name": "tuuid_lu",
+        "domain": ".bidswitch.net",
+        "expires_days": 365,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": true,
+        "tracker": true
+      },
+      {
+        "name": "tuuid",
+        "domain": ".bidswitch.net",
+        "expires_days": 365,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": true,
+        "tracker": true
+      },
+      {
+        "name": "_sp_srt_ses.55ca",
+        "domain": ".bet9ja.com",
+        "expires_days": 0,
+        "third_party": false,
+        "httponly": false,
+        "secure": true,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "_sp_srt_id.55ca",
+        "domain": ".bet9ja.com",
+        "expires_days": 400,
+        "third_party": false,
+        "httponly": false,
+        "secure": true,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "CMPS",
+        "domain": ".casalemedia.com",
+        "expires_days": 90,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": true,
+        "tracker": true
+      },
+      {
+        "name": "CMPRO",
+        "domain": ".casalemedia.com",
+        "expires_days": 90,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": true,
+        "tracker": true
+      },
+      {
+        "name": "CMID",
+        "domain": ".casalemedia.com",
+        "expires_days": 365,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": true,
+        "tracker": true
+      },
+      {
+        "name": "_tgtim",
+        "domain": ".bet9ja.com",
+        "expires_days": 0,
+        "third_party": false,
+        "httponly": false,
+        "secure": true,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "_tgsc",
+        "domain": ".bet9ja.com",
+        "expires_days": 0,
+        "third_party": false,
+        "httponly": false,
+        "secure": true,
+        "persistent": false,
+        "tracker": false
+      }
+    ],
+    "cookies_no_consent": [
+      {
+        "name": "landingRedirection",
+        "domain": ".bet9ja.com",
+        "expires_days": 365,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "_gcl_au",
+        "domain": ".bet9ja.com",
+        "expires_days": 90,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "cif_",
+        "domain": ".bet9ja.com",
+        "expires_days": 30,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "__cf_bm",
+        "domain": ".mgid.com",
+        "expires_days": 0,
+        "third_party": true,
+        "httponly": true,
+        "secure": true,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "guest_id_marketing",
+        "domain": ".twitter.com",
+        "expires_days": 400,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": true,
+        "tracker": true
+      },
+      {
+        "name": "guest_id_ads",
+        "domain": ".twitter.com",
+        "expires_days": 400,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": true,
+        "tracker": true
+      },
+      {
+        "name": "personalization_id",
+        "domain": ".twitter.com",
+        "expires_days": 400,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": true,
+        "tracker": true
+      },
+      {
+        "name": "guest_id",
+        "domain": ".twitter.com",
+        "expires_days": 400,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": true,
+        "tracker": true
+      },
+      {
+        "name": "muc_ads",
+        "domain": ".t.co",
+        "expires_days": 400,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "_gid",
+        "domain": ".bet9ja.com",
+        "expires_days": 1,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "_gat_UA-61138412-1",
+        "domain": ".bet9ja.com",
+        "expires_days": 0,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "zuuid",
+        "domain": ".sportradarserving.com",
+        "expires_days": 365,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": true,
+        "tracker": true
+      },
+      {
+        "name": "c",
+        "domain": ".sportradarserving.com",
+        "expires_days": 365,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": true,
+        "tracker": true
+      },
+      {
+        "name": "_tguatd",
+        "domain": ".bet9ja.com",
+        "expires_days": 0,
+        "third_party": false,
+        "httponly": false,
+        "secure": true,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "_tgpc",
+        "domain": ".bet9ja.com",
+        "expires_days": 365,
+        "third_party": false,
+        "httponly": false,
+        "secure": true,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "_tgidts",
+        "domain": ".bet9ja.com",
+        "expires_days": 0,
+        "third_party": false,
+        "httponly": false,
+        "secure": true,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "_tglksd",
+        "domain": ".bet9ja.com",
+        "expires_days": 365,
+        "third_party": false,
+        "httponly": false,
+        "secure": true,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "_tgsid",
+        "domain": ".bet9ja.com",
+        "expires_days": 0,
+        "third_party": false,
+        "httponly": false,
+        "secure": true,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "_ga",
+        "domain": ".bet9ja.com",
+        "expires_days": 400,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "_ga_YYQNLHMCQS",
+        "domain": ".bet9ja.com",
+        "expires_days": 400,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "MgidSensorNVis",
+        "domain": "www.bet9ja.com",
+        "expires_days": 90,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "MgidSensorHref",
+        "domain": "www.bet9ja.com",
+        "expires_days": 90,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "uuid",
+        "domain": ".ad.kubadserv4.icu",
+        "expires_days": 400,
+        "third_party": true,
+        "httponly": true,
+        "secure": true,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "uid",
+        "domain": ".criteo.com",
+        "expires_days": 390,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": true,
+        "tracker": true
+      },
+      {
+        "name": "__adm_tid",
+        "domain": "www.bet9ja.com",
+        "expires_days": 365,
+        "third_party": false,
+        "httponly": false,
+        "secure": true,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "_fbp",
+        "domain": ".bet9ja.com",
+        "expires_days": 90,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "zuuid_lu",
+        "domain": ".sportradarserving.com",
+        "expires_days": 365,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": true,
+        "tracker": true
+      },
+      {
+        "name": "zuuid_k",
+        "domain": ".sportradarserving.com",
+        "expires_days": 365,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": true,
+        "tracker": true
+      },
+      {
+        "name": "zuuid_k_lu",
+        "domain": ".sportradarserving.com",
+        "expires_days": 365,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": true,
+        "tracker": true
+      },
+      {
+        "name": "bss",
+        "domain": ".sportradarserving.com",
+        "expires_days": 365,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": true,
+        "tracker": true
+      },
+      {
+        "name": "cm2",
+        "domain": ".sportradarserving.com",
+        "expires_days": 365,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": true,
+        "tracker": true
+      },
+      {
+        "name": "c",
+        "domain": ".bidswitch.net",
+        "expires_days": 365,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": true,
+        "tracker": true
+      },
+      {
+        "name": "tuuid_lu",
+        "domain": ".bidswitch.net",
+        "expires_days": 365,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": true,
+        "tracker": true
+      },
+      {
+        "name": "tuuid",
+        "domain": ".bidswitch.net",
+        "expires_days": 365,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": true,
+        "tracker": true
+      },
+      {
+        "name": "_sp_srt_ses.55ca",
+        "domain": ".bet9ja.com",
+        "expires_days": 0,
+        "third_party": false,
+        "httponly": false,
+        "secure": true,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "_sp_srt_id.55ca",
+        "domain": ".bet9ja.com",
+        "expires_days": 400,
+        "third_party": false,
+        "httponly": false,
+        "secure": true,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "_tgsc",
+        "domain": ".bet9ja.com",
+        "expires_days": 0,
+        "third_party": false,
+        "httponly": false,
+        "secure": true,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "CMPS",
+        "domain": ".casalemedia.com",
+        "expires_days": 90,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": true,
+        "tracker": true
+      },
+      {
+        "name": "CMPRO",
+        "domain": ".casalemedia.com",
+        "expires_days": 90,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": true,
+        "tracker": true
+      },
+      {
+        "name": "CMID",
+        "domain": ".casalemedia.com",
+        "expires_days": 365,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": true,
+        "tracker": true
+      }
+    ],
+    "third_party_domains_all": [
+      "https://analytics.twitter.com",
+      "https://adjs.media",
+      "https://www.google.com",
+      "https://fonts.gstatic.com",
+      "https://fonts.googleapis.com",
+      "https://onetag-sys.com",
+      "https://res-odx.op-mobile.opera.com",
+      "https://d31qbv1cthcecs.cloudfront.net",
+      "https://gum.criteo.com",
+      "https://static.hotjar.com",
+      "https://a.sportradarserving.com",
+      "https://region1.google-analytics.com",
+      "https://dsum.casalemedia.com",
+      "https://static.ads-twitter.com",
+      "https://tm.ads.sportradar.com",
+      "https://www.google-analytics.com",
+      "https://www.google.nl",
+      "https://tracker.ads.sportradar.com",
+      "https://dynamic.criteo.com",
+      "https://www.googletagmanager.com",
+      "https://a.mgid.com",
+      "https://stats.g.doubleclick.net",
+      "https://x.bidswitch.net",
+      "https://tgtag.io",
+      "https://www.facebook.com",
+      "https://connect.facebook.net",
+      "https://ad.kubadserv4.icu",
+      "https://t.co",
+      "https://eu.sportradarserving.com"
+    ],
+    "third_party_domains_no_consent": [
+      "https://analytics.twitter.com",
+      "https://adjs.media",
+      "https://www.google.com",
+      "https://fonts.gstatic.com",
+      "https://fonts.googleapis.com",
+      "https://onetag-sys.com",
+      "https://res-odx.op-mobile.opera.com",
+      "https://d31qbv1cthcecs.cloudfront.net",
+      "https://gum.criteo.com",
+      "https://static.hotjar.com",
+      "https://a.sportradarserving.com",
+      "https://region1.google-analytics.com",
+      "https://dsum.casalemedia.com",
+      "https://static.ads-twitter.com",
+      "https://tm.ads.sportradar.com",
+      "https://www.google-analytics.com",
+      "https://www.google.nl",
+      "https://tracker.ads.sportradar.com",
+      "https://dynamic.criteo.com",
+      "https://www.googletagmanager.com",
+      "https://a.mgid.com",
+      "https://stats.g.doubleclick.net",
+      "https://x.bidswitch.net",
+      "https://tgtag.io",
+      "https://www.facebook.com",
+      "https://connect.facebook.net",
+      "https://ad.kubadserv4.icu",
+      "https://t.co",
+      "https://eu.sportradarserving.com"
+    ],
+    "third_party_cookies_no_consent": {
+      ".mgid.com": {
+        "total": 1,
+        "session": 1,
+        "persistent": 0
+      },
+      ".twitter.com": {
+        "total": 4,
+        "session": 0,
+        "persistent": 4
+      },
+      ".t.co": {
+        "total": 1,
+        "session": 0,
+        "persistent": 1
+      },
+      ".sportradarserving.com": {
+        "total": 7,
+        "session": 0,
+        "persistent": 7
+      },
+      ".ad.kubadserv4.icu": {
+        "total": 1,
+        "session": 0,
+        "persistent": 1
+      },
+      ".criteo.com": {
+        "total": 1,
+        "session": 0,
+        "persistent": 1
+      },
+      ".bidswitch.net": {
+        "total": 3,
+        "session": 0,
+        "persistent": 3
+      },
+      ".casalemedia.com": {
+        "total": 3,
+        "session": 0,
+        "persistent": 1
+      }
+    },
+    "tracking_domains_all": [
+      "casalemedia.com",
+      "googleapis.com",
+      "google.nl",
+      "criteo.com",
+      "https://onetag-sys.com",
+      "google.com",
+      "sportradar.com",
+      "opera.com",
+      "twitter.com",
+      "ads-twitter.com",
+      "facebook.com",
+      "google-analytics.com",
+      "cloudfront.net",
+      "sportradarserving.com",
+      "doubleclick.net",
+      "https://tgtag.io",
+      "hotjar.com",
+      "bidswitch.net",
+      "gstatic.com",
+      "facebook.net"
+    ],
+    "tracking_domains_no_consent": [
+      "casalemedia.com",
+      "googleapis.com",
+      "google.nl",
+      "criteo.com",
+      "https://onetag-sys.com",
+      "google.com",
+      "sportradar.com",
+      "opera.com",
+      "twitter.com",
+      "ads-twitter.com",
+      "facebook.com",
+      "google-analytics.com",
+      "cloudfront.net",
+      "sportradarserving.com",
+      "doubleclick.net",
+      "https://tgtag.io",
+      "hotjar.com",
+      "bidswitch.net",
+      "gstatic.com",
+      "facebook.net"
+    ],
+    "consent_manager": "none detected",
+    "privacy_policy": {
+      "xpath_results": [],
+      "google_results": [
+        "https://web.bet9ja.com/pages/SportFooter_Privacy/Content",
+        "https://help.bet9ja.com/privacy/",
+        "https://www.google.com/search?q=privacy+policy+site:http://bet9ja.com&tbm=isch&source=univ&fir=2RTqSSvnugujsM%252CUMmQi5tSuOvi-M%252C_%253BoUZBNCCHsTRwwM%252C0WWJELvxe3mZ_M%252C_%253BC3D4l4Rq65udFM%252C0WWJELvxe3mZ_M%252C_%253BE5_TsmKF6EBL6M%252C0WWJELvxe3mZ_M%252C_%253B-h0exNAYu4WORM%252C0WWJELvxe3mZ_M%252C_%253BwmE5QdE6rACHGM%252C80U6mDYeSNS2FM%252C_%253BNmxq0araDyr4TM%252CCAvXf8MzAI8dyM%252C_%253Bk_Ca8xeHTUFSxM%252C0WWJELvxe3mZ_M%252C_%253BfGU64eVLtbIXfM%252CCAvXf8MzAI8dyM%252C_%253BlxBvJAHAqeBRFM%252C0WWJELvxe3mZ_M%252C_&usg=AI4_-kQYTRO5rwrQWp22CaOernZRX1RO-Q&sa=X&ved=2ahUKEwjCvfffj5P_AhWB9rsIHUYjARAQjJkEegQIHRAC"
+      ],
+      "link": "https://web.bet9ja.com/pages/SportFooter_Privacy/Content"
+    },
+    "screenshot": ""
+  },
+  {
+    "id": "aHR0cDovL2JldHdheS5jby56YQ==",
+    "url": "http://betway.co.za",
+    "cookies_all": [
+      {
+        "name": "__cf_bm",
+        "domain": ".betway.co.za",
+        "expires_days": 0,
+        "third_party": false,
+        "httponly": true,
+        "secure": true,
+        "persistent": false,
+        "tracker": false
+      }
+    ],
+    "cookies_no_consent": [
+      {
+        "name": "__cf_bm",
+        "domain": ".betway.co.za",
+        "expires_days": 0,
+        "third_party": false,
+        "httponly": true,
+        "secure": true,
+        "persistent": false,
+        "tracker": false
+      }
+    ],
+    "third_party_domains_all": [
+      "https://www.betway.com",
+      "https://challenges.cloudflare.com"
+    ],
+    "third_party_domains_no_consent": [
+      "https://www.betway.com",
+      "https://challenges.cloudflare.com"
+    ],
+    "third_party_cookies_no_consent": {},
+    "tracking_domains_all": [],
+    "tracking_domains_no_consent": [],
+    "consent_manager": "none detected",
+    "privacy_policy": {
+      "xpath_results": [],
+      "google_results": [
+        "https://www.betway.co.za/privacy-policy",
+        "https://www.betway.co.za/medialibraries/betway.co.za/BetwayInsider/Terms%20and%20Conditions/Privacy-Notice.pdf",
+        "https://www.google.com/search?q=privacy+policy+site:http://betway.co.za&tbm=isch&source=univ&fir=6YoDF5DyVmotBM%252C8JrVzZVuiWY4XM%252C_%253B183hE-sN_xkjyM%252CWXfOKIZ-4ivyCM%252C_%253Bn0VFSJ-oRFwA-M%252C5Ui6cICJr3RxxM%252C_%253BhkDo-0ThQOxrtM%252CtUoJGj66UzzQ1M%252C_%253B2YOuVVhjXj5wiM%252CtUoJGj66UzzQ1M%252C_%253BkdAWQtK4drUinM%252CWXfOKIZ-4ivyCM%252C_%253B2z33FhcHpWmfRM%252CFtqA57xAVf9-gM%252C_%253BDq3mXTPT0UMLYM%252CWXfOKIZ-4ivyCM%252C_%253BVu_P9JVe2a7U6M%252Csq0qCJDUZopv-M%252C_%253BbriDJwBcntlyGM%252CWXfOKIZ-4ivyCM%252C_&usg=AI4_-kQUDoMtTQqhoFSyMrUwySt-48jh6g&sa=X&ved=2ahUKEwi8qKnqj5P_AhWMgv0HHZLlCncQjJkEegQIBhAC"
+      ],
+      "link": "https://www.betway.co.za/privacy-policy"
+    },
+    "screenshot": ""
+  },
+  {
+    "id": "aHR0cDovL3dob29rcm9vLmNvbQ==",
+    "url": "http://whookroo.com",
+    "cookies_all": [],
+    "cookies_no_consent": [],
+    "third_party_domains_all": [],
+    "third_party_domains_no_consent": [],
+    "third_party_cookies_no_consent": {},
+    "tracking_domains_all": [],
+    "tracking_domains_no_consent": [],
+    "consent_manager": "none detected",
+    "privacy_policy": {
+      "xpath_results": [],
+      "google_results": [],
+      "link": "ERROR"
+    },
+    "screenshot": ""
+  },
+  {
+    "id": "aHR0cDovL2RyZWFtMTEuY29t",
+    "url": "http://dream11.com",
+    "cookies_all": [
+      {
+        "name": "X-AB",
+        "domain": "sc-static.net",
+        "expires_days": 1,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": false,
+        "tracker": true
+      },
+      {
+        "name": "dh_user_id",
+        "domain": "www.dream11.com",
+        "expires_days": -19503,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "_scid",
+        "domain": ".dream11.com",
+        "expires_days": 396,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "_scid_r",
+        "domain": ".dream11.com",
+        "expires_days": 396,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "sc_at",
+        "domain": ".snapchat.com",
+        "expires_days": 390,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "_fbp",
+        "domain": ".dream11.com",
+        "expires_days": 90,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      }
+    ],
+    "cookies_no_consent": [
+      {
+        "name": "X-AB",
+        "domain": "sc-static.net",
+        "expires_days": 1,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": false,
+        "tracker": true
+      },
+      {
+        "name": "dh_user_id",
+        "domain": "www.dream11.com",
+        "expires_days": -19503,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "_scid",
+        "domain": ".dream11.com",
+        "expires_days": 396,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "_scid_r",
+        "domain": ".dream11.com",
+        "expires_days": 396,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "sc_at",
+        "domain": ".snapchat.com",
+        "expires_days": 390,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "_fbp",
+        "domain": ".dream11.com",
+        "expires_days": 90,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      }
+    ],
+    "third_party_domains_all": [
+      "https://d13ir53smqqeyp.cloudfront.net",
+      "https://www.facebook.com",
+      "https://d11-pwa-datahighway.dream11.com",
+      "https://connect.facebook.net",
+      "https://tr.snapchat.com",
+      "https://fonts.gstatic.com",
+      "https://fonts.googleapis.com",
+      "https://sc-static.net"
+    ],
+    "third_party_domains_no_consent": [
+      "https://d13ir53smqqeyp.cloudfront.net",
+      "https://www.facebook.com",
+      "https://d11-pwa-datahighway.dream11.com",
+      "https://connect.facebook.net",
+      "https://tr.snapchat.com",
+      "https://fonts.gstatic.com",
+      "https://fonts.googleapis.com",
+      "https://sc-static.net"
+    ],
+    "third_party_cookies_no_consent": {
+      "sc-static.net": {
+        "total": 1,
+        "session": 0,
+        "persistent": 0
+      },
+      ".snapchat.com": {
+        "total": 1,
+        "session": 0,
+        "persistent": 1
+      }
+    },
+    "tracking_domains_all": [
+      "cloudfront.net",
+      "snapchat.com",
+      "gstatic.com",
+      "googleapis.com",
+      "https://sc-static.net",
+      "facebook.net",
+      "facebook.com"
+    ],
+    "tracking_domains_no_consent": [
+      "cloudfront.net",
+      "snapchat.com",
+      "gstatic.com",
+      "googleapis.com",
+      "https://sc-static.net",
+      "facebook.net",
+      "facebook.com"
+    ],
+    "consent_manager": "none detected",
+    "privacy_policy": {
+      "xpath_results": [],
+      "google_results": [
+        "https://www.dream11.com/about-us/privacypolicy"
+      ],
+      "link": "https://www.dream11.com/about-us/privacypolicy"
+    },
+    "screenshot": ""
+  },
+  {
+    "id": "aHR0cDovL3BhcmltYXRjaC1pbi5jb20=",
+    "url": "http://parimatch-in.com",
+    "cookies_all": [],
+    "cookies_no_consent": [],
+    "third_party_domains_all": [],
+    "third_party_domains_no_consent": [],
+    "third_party_cookies_no_consent": {},
+    "tracking_domains_all": [],
+    "tracking_domains_no_consent": [],
+    "consent_manager": "none detected",
+    "privacy_policy": {
+      "xpath_results": [],
+      "google_results": [
+        "https://parimatch-in.com/en/privacy"
+      ],
+      "link": "https://parimatch-in.com/en/privacy"
+    },
+    "screenshot": ""
+  },
+  {
+    "id": "aHR0cDovL2JsYXplLmNvbQ==",
+    "url": "http://blaze.com",
+    "cookies_all": [],
+    "cookies_no_consent": [],
+    "third_party_domains_all": [
+      "https://performance.radar.cloudflare.com",
+      "https://static.cloudflareinsights.com"
+    ],
+    "third_party_domains_no_consent": [
+      "https://performance.radar.cloudflare.com",
+      "https://static.cloudflareinsights.com"
+    ],
+    "third_party_cookies_no_consent": {},
+    "tracking_domains_all": [],
+    "tracking_domains_no_consent": [],
+    "consent_manager": "none detected",
+    "privacy_policy": {
+      "xpath_results": [],
+      "google_results": [
+        "https://blaze.com/en/privacy-policy"
+      ],
+      "link": "https://blaze.com/en/privacy-policy"
+    },
+    "screenshot": ""
+  },
+  {
+    "id": "aHR0cDovL3BpeGJldC5jb20=",
+    "url": "http://pixbet.com",
+    "cookies_all": [
+      {
+        "name": "__cf_bm",
+        "domain": ".radar.cloudflare.com",
+        "expires_days": 0,
+        "third_party": true,
+        "httponly": true,
+        "secure": true,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "__cf_bm",
+        "domain": ".pixbet.com",
+        "expires_days": 0,
+        "third_party": false,
+        "httponly": true,
+        "secure": true,
+        "persistent": false,
+        "tracker": false
+      }
+    ],
+    "cookies_no_consent": [
+      {
+        "name": "__cf_bm",
+        "domain": ".radar.cloudflare.com",
+        "expires_days": 0,
+        "third_party": true,
+        "httponly": true,
+        "secure": true,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "__cf_bm",
+        "domain": ".pixbet.com",
+        "expires_days": 0,
+        "third_party": false,
+        "httponly": true,
+        "secure": true,
+        "persistent": false,
+        "tracker": false
+      }
+    ],
+    "third_party_domains_all": [
+      "https://performance.radar.cloudflare.com",
+      "https://static.cloudflareinsights.com"
+    ],
+    "third_party_domains_no_consent": [
+      "https://performance.radar.cloudflare.com",
+      "https://static.cloudflareinsights.com"
+    ],
+    "third_party_cookies_no_consent": {
+      ".radar.cloudflare.com": {
+        "total": 1,
+        "session": 1,
+        "persistent": 0
+      }
+    },
+    "tracking_domains_all": [],
+    "tracking_domains_no_consent": [],
+    "consent_manager": "none detected",
+    "privacy_policy": {
+      "xpath_results": [],
+      "google_results": [
+        "https://www.google.com/search?q=privacy+policy+site:http://pixbet.com&tbm=isch&source=univ&fir=PoBHkDsLJoplkM%252CxBl4mKWZzAbUHM%252C_%253BcePscKI3bnZQ0M%252CxBl4mKWZzAbUHM%252C_%253BXpi-RuWhvP64gM%252CxBl4mKWZzAbUHM%252C_%253BJ6KLWOHQV7cbnM%252CxBl4mKWZzAbUHM%252C_%253BiT7Fy7UWW1ajtM%252CxBl4mKWZzAbUHM%252C_%253BVO9-6H0eSf0f5M%252CxBl4mKWZzAbUHM%252C_%253B6M2KiSIf5hunQM%252CxBl4mKWZzAbUHM%252C_%253BtVrX-8E7u9oZQM%252CxBl4mKWZzAbUHM%252C_%253BL4rydSKwDK_y4M%252CxBl4mKWZzAbUHM%252C_%253B70DbJHY4E5JQzM%252CxBl4mKWZzAbUHM%252C_&usg=AI4_-kR1IdePeR9oXXF2VmtKCLvKxxfuaA&sa=X&ved=2ahUKEwjNktSfkJP_AhUS_rsIHbEqDEkQjJkEegQIFRAC"
+      ],
+      "link": "https://www.google.com/search?q=privacy+policy+site:http://pixbet.com&tbm=isch&source=univ&fir=PoBHkDsLJoplkM%252CxBl4mKWZzAbUHM%252C_%253BcePscKI3bnZQ0M%252CxBl4mKWZzAbUHM%252C_%253BXpi-RuWhvP64gM%252CxBl4mKWZzAbUHM%252C_%253BJ6KLWOHQV7cbnM%252CxBl4mKWZzAbUHM%252C_%253BiT7Fy7UWW1ajtM%252CxBl4mKWZzAbUHM%252C_%253BVO9-6H0eSf0f5M%252CxBl4mKWZzAbUHM%252C_%253B6M2KiSIf5hunQM%252CxBl4mKWZzAbUHM%252C_%253BtVrX-8E7u9oZQM%252CxBl4mKWZzAbUHM%252C_%253BL4rydSKwDK_y4M%252CxBl4mKWZzAbUHM%252C_%253B70DbJHY4E5JQzM%252CxBl4mKWZzAbUHM%252C_&usg=AI4_-kR1IdePeR9oXXF2VmtKCLvKxxfuaA&sa=X&ved=2ahUKEwjNktSfkJP_AhUS_rsIHbEqDEkQjJkEegQIFRAC"
+    },
+    "screenshot": ""
+  },
+  {
+    "id": "aHR0cDovL29qb2dvZG9iaWNoby5jb20=",
+    "url": "http://ojogodobicho.com",
+    "cookies_all": [
+      {
+        "name": "X-Mapping-pokiblok",
+        "domain": "ojogodobicho.com",
+        "expires_days": -19503,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "X-Mapping-pokiblok",
+        "domain": "www.ojogodobicho.com",
+        "expires_days": -19503,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "__cf_bm",
+        "domain": ".mgid.com",
+        "expires_days": 0,
+        "third_party": true,
+        "httponly": true,
+        "secure": true,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "_ga",
+        "domain": ".ojogodobicho.com",
+        "expires_days": 400,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "_ga_6G7B939WTV",
+        "domain": ".ojogodobicho.com",
+        "expires_days": 400,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "uuid",
+        "domain": ".ad.mediabr.media",
+        "expires_days": 400,
+        "third_party": true,
+        "httponly": true,
+        "secure": true,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "adda9a7c6daed583e",
+        "domain": ".ad.mediabr.media",
+        "expires_days": 1,
+        "third_party": true,
+        "httponly": true,
+        "secure": true,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "cf",
+        "domain": ".id5-sync.com",
+        "expires_days": 0,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": false,
+        "tracker": true
+      },
+      {
+        "name": "cip",
+        "domain": ".id5-sync.com",
+        "expires_days": 0,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": false,
+        "tracker": true
+      },
+      {
+        "name": "cnac",
+        "domain": ".id5-sync.com",
+        "expires_days": 0,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": false,
+        "tracker": true
+      },
+      {
+        "name": "car",
+        "domain": ".id5-sync.com",
+        "expires_days": 0,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": false,
+        "tracker": true
+      },
+      {
+        "name": "gdpr",
+        "domain": ".id5-sync.com",
+        "expires_days": 0,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": false,
+        "tracker": true
+      },
+      {
+        "name": "callback",
+        "domain": ".id5-sync.com",
+        "expires_days": 0,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": false,
+        "tracker": true
+      },
+      {
+        "name": "ad5834719744fb7f0",
+        "domain": ".ad.mediabr.media",
+        "expires_days": 1,
+        "third_party": true,
+        "httponly": true,
+        "secure": true,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "MgidStorage",
+        "domain": "www.ojogodobicho.com",
+        "expires_days": -19503,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "_pbjs_userid_consent_data",
+        "domain": "www.ojogodobicho.com",
+        "expires_days": 30,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": false,
+        "tracker": false
+      }
+    ],
+    "cookies_no_consent": [
+      {
+        "name": "X-Mapping-pokiblok",
+        "domain": "ojogodobicho.com",
+        "expires_days": -19503,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "X-Mapping-pokiblok",
+        "domain": "www.ojogodobicho.com",
+        "expires_days": -19503,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "__cf_bm",
+        "domain": ".mgid.com",
+        "expires_days": 0,
+        "third_party": true,
+        "httponly": true,
+        "secure": true,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "_ga",
+        "domain": ".ojogodobicho.com",
+        "expires_days": 400,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "_ga_6G7B939WTV",
+        "domain": ".ojogodobicho.com",
+        "expires_days": 400,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "uuid",
+        "domain": ".ad.mediabr.media",
+        "expires_days": 400,
+        "third_party": true,
+        "httponly": true,
+        "secure": true,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "adda9a7c6daed583e",
+        "domain": ".ad.mediabr.media",
+        "expires_days": 1,
+        "third_party": true,
+        "httponly": true,
+        "secure": true,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "cf",
+        "domain": ".id5-sync.com",
+        "expires_days": 0,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": false,
+        "tracker": true
+      },
+      {
+        "name": "cip",
+        "domain": ".id5-sync.com",
+        "expires_days": 0,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": false,
+        "tracker": true
+      },
+      {
+        "name": "cnac",
+        "domain": ".id5-sync.com",
+        "expires_days": 0,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": false,
+        "tracker": true
+      },
+      {
+        "name": "car",
+        "domain": ".id5-sync.com",
+        "expires_days": 0,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": false,
+        "tracker": true
+      },
+      {
+        "name": "gdpr",
+        "domain": ".id5-sync.com",
+        "expires_days": 0,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": false,
+        "tracker": true
+      },
+      {
+        "name": "callback",
+        "domain": ".id5-sync.com",
+        "expires_days": 0,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": false,
+        "tracker": true
+      },
+      {
+        "name": "ad5834719744fb7f0",
+        "domain": ".ad.mediabr.media",
+        "expires_days": 1,
+        "third_party": true,
+        "httponly": true,
+        "secure": true,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "MgidStorage",
+        "domain": "www.ojogodobicho.com",
+        "expires_days": -19503,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "_pbjs_userid_consent_data",
+        "domain": "www.ojogodobicho.com",
+        "expires_days": 30,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": false,
+        "tracker": false
+      }
+    ],
+    "third_party_domains_all": [
+      "https://spl.zeotap.com",
+      "https://cdn.id5-sync.com",
+      "https://test.cmp.quantcast.com",
+      "https://call.cleverwebserver.com",
+      "https://cm.mgid.com",
+      "https://ads.pubmatic.com",
+      "https://audit-tcfv2.cmp.quantcast.com",
+      "https://onetag-sys.com",
+      "https://cdn.jsdelivr.net",
+      "https://jsc.mgid.com",
+      "https://ad.mediabr.media",
+      "https://gum.criteo.com",
+      "https://servicer.mgid.com",
+      "https://www.ojogodobicho.com",
+      "https://region1.google-analytics.com",
+      "https://c.tmyzer.com",
+      "https://secure.quantserve.com",
+      "https://cmp.quantcast.com",
+      "https://pagead2.googlesyndication.com",
+      "https://ced.sascdn.com",
+      "https://c.mgid.com",
+      "https://p.cpx.to",
+      "https://www.googletagmanager.com",
+      "https://cdn.unblockia.com",
+      "https://d2zur9cc2gf1tx.cloudfront.net",
+      "https://id5-sync.com",
+      "https://ui.cleverwebserver.com",
+      "https://cl.imghosts.com",
+      "https://cdn.mgid.com",
+      "https://92503747f6463485e1a3-122357f5406d95ded8aabcb93c4cc56f.ssl.cf1.rackcdn.com",
+      "https://ads.themoneytizer.com",
+      "https://scripts.cleverwebserver.com",
+      "https://s-img.mgid.com"
+    ],
+    "third_party_domains_no_consent": [
+      "https://spl.zeotap.com",
+      "https://cdn.id5-sync.com",
+      "https://test.cmp.quantcast.com",
+      "https://call.cleverwebserver.com",
+      "https://cm.mgid.com",
+      "https://ads.pubmatic.com",
+      "https://audit-tcfv2.cmp.quantcast.com",
+      "https://onetag-sys.com",
+      "https://cdn.jsdelivr.net",
+      "https://jsc.mgid.com",
+      "https://ad.mediabr.media",
+      "https://gum.criteo.com",
+      "https://servicer.mgid.com",
+      "https://www.ojogodobicho.com",
+      "https://region1.google-analytics.com",
+      "https://c.tmyzer.com",
+      "https://secure.quantserve.com",
+      "https://cmp.quantcast.com",
+      "https://pagead2.googlesyndication.com",
+      "https://ced.sascdn.com",
+      "https://c.mgid.com",
+      "https://p.cpx.to",
+      "https://www.googletagmanager.com",
+      "https://cdn.unblockia.com",
+      "https://d2zur9cc2gf1tx.cloudfront.net",
+      "https://id5-sync.com",
+      "https://ui.cleverwebserver.com",
+      "https://cl.imghosts.com",
+      "https://cdn.mgid.com",
+      "https://92503747f6463485e1a3-122357f5406d95ded8aabcb93c4cc56f.ssl.cf1.rackcdn.com",
+      "https://ads.themoneytizer.com",
+      "https://scripts.cleverwebserver.com",
+      "https://s-img.mgid.com"
+    ],
+    "third_party_cookies_no_consent": {
+      ".mgid.com": {
+        "total": 1,
+        "session": 1,
+        "persistent": 0
+      },
+      ".ad.mediabr.media": {
+        "total": 3,
+        "session": 0,
+        "persistent": 1
+      },
+      ".id5-sync.com": {
+        "total": 6,
+        "session": 6,
+        "persistent": 0
+      }
+    },
+    "tracking_domains_all": [
+      "zeotap.com",
+      "google-analytics.com",
+      "quantserve.com",
+      "cleverwebserver.com",
+      "googlesyndication.com",
+      "mgid.com",
+      "cloudfront.net",
+      "https://id5-sync.com",
+      "pubmatic.com",
+      "cpx.to",
+      "themoneytizer.com",
+      "id5-sync.com",
+      "sascdn.com",
+      "criteo.com",
+      "https://onetag-sys.com",
+      "quantcast.com",
+      "unblockia.com"
+    ],
+    "tracking_domains_no_consent": [
+      "zeotap.com",
+      "google-analytics.com",
+      "quantserve.com",
+      "cleverwebserver.com",
+      "googlesyndication.com",
+      "mgid.com",
+      "cloudfront.net",
+      "https://id5-sync.com",
+      "pubmatic.com",
+      "cpx.to",
+      "themoneytizer.com",
+      "id5-sync.com",
+      "sascdn.com",
+      "criteo.com",
+      "https://onetag-sys.com",
+      "quantcast.com",
+      "unblockia.com"
+    ],
+    "consent_manager": "none detected",
+    "privacy_policy": {
+      "xpath_results": [],
+      "google_results": [],
+      "link": "ERROR"
+    },
+    "screenshot": ""
+  },
+  {
+    "id": "aHR0cDovL2FkcG9pbnRydGIuY29t",
+    "url": "http://adpointrtb.com",
+    "cookies_all": [],
+    "cookies_no_consent": [],
+    "third_party_domains_all": [],
+    "third_party_domains_no_consent": [],
+    "third_party_cookies_no_consent": {},
+    "tracking_domains_all": [],
+    "tracking_domains_no_consent": [],
+    "consent_manager": "none detected",
+    "privacy_policy": {
+      "xpath_results": [],
+      "google_results": [],
+      "link": "ERROR"
+    },
+    "screenshot": ""
+  },
+  {
+    "id": "aHR0cDovL25lc2luZS5jb20=",
+    "url": "http://nesine.com",
+    "cookies_all": [
+      {
+        "name": "nsnid",
+        "domain": ".nesine.com",
+        "expires_days": -19503,
+        "third_party": false,
+        "httponly": true,
+        "secure": true,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "lid",
+        "domain": "www.nesine.com",
+        "expires_days": -19503,
+        "third_party": false,
+        "httponly": true,
+        "secure": true,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "NSNViewMode",
+        "domain": "www.nesine.com",
+        "expires_days": 365,
+        "third_party": false,
+        "httponly": false,
+        "secure": true,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "__RequestVerificationToken",
+        "domain": "www.nesine.com",
+        "expires_days": -19503,
+        "third_party": false,
+        "httponly": true,
+        "secure": true,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "_fbp",
+        "domain": ".nesine.com",
+        "expires_days": 90,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "isHideMoney",
+        "domain": "www.nesine.com",
+        "expires_days": -19503,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "isOpenDuelloTutorial",
+        "domain": "www.nesine.com",
+        "expires_days": 365,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "NSC_sbqje_oftjof_dpn_TTM",
+        "domain": "rt.nesine.com",
+        "expires_days": -19503,
+        "third_party": false,
+        "httponly": true,
+        "secure": true,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "NSC_JOdyfkr2e22ymv4d2tp1tmd2zd3u3bf",
+        "domain": "www.nesine.com",
+        "expires_days": -19503,
+        "third_party": false,
+        "httponly": true,
+        "secure": false,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "_gid",
+        "domain": ".nesine.com",
+        "expires_days": 1,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "_dc_gtm_UA-2757976-1",
+        "domain": ".nesine.com",
+        "expires_days": 0,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "_gat",
+        "domain": ".nesine.com",
+        "expires_days": 0,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "_ga_L6KZW1BC7Q",
+        "domain": ".nesine.com",
+        "expires_days": 400,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "_ga",
+        "domain": ".nesine.com",
+        "expires_days": 400,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      }
+    ],
+    "cookies_no_consent": [
+      {
+        "name": "nsnid",
+        "domain": ".nesine.com",
+        "expires_days": -19503,
+        "third_party": false,
+        "httponly": true,
+        "secure": true,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "lid",
+        "domain": "www.nesine.com",
+        "expires_days": -19503,
+        "third_party": false,
+        "httponly": true,
+        "secure": true,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "NSNViewMode",
+        "domain": "www.nesine.com",
+        "expires_days": 365,
+        "third_party": false,
+        "httponly": false,
+        "secure": true,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "__RequestVerificationToken",
+        "domain": "www.nesine.com",
+        "expires_days": -19503,
+        "third_party": false,
+        "httponly": true,
+        "secure": true,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "_fbp",
+        "domain": ".nesine.com",
+        "expires_days": 90,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "isHideMoney",
+        "domain": "www.nesine.com",
+        "expires_days": -19503,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "isOpenDuelloTutorial",
+        "domain": "www.nesine.com",
+        "expires_days": 365,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "NSC_sbqje_oftjof_dpn_TTM",
+        "domain": "rt.nesine.com",
+        "expires_days": -19503,
+        "third_party": false,
+        "httponly": true,
+        "secure": true,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "NSC_JOdyfkr2e22ymv4d2tp1tmd2zd3u3bf",
+        "domain": "www.nesine.com",
+        "expires_days": -19503,
+        "third_party": false,
+        "httponly": true,
+        "secure": false,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "_gid",
+        "domain": ".nesine.com",
+        "expires_days": 1,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "_dc_gtm_UA-2757976-1",
+        "domain": ".nesine.com",
+        "expires_days": 0,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "_gat",
+        "domain": ".nesine.com",
+        "expires_days": 0,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "_ga_L6KZW1BC7Q",
+        "domain": ".nesine.com",
+        "expires_days": 400,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "_ga",
+        "domain": ".nesine.com",
+        "expires_days": 400,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      }
+    ],
+    "third_party_domains_all": [
+      "https://region1.analytics.google.com",
+      "https://www.google.com",
+      "https://img.nesine.com",
+      "https://i.ytimg.com",
+      "https://bam.nr-data.net",
+      "https://www.google-analytics.com",
+      "https://www.google.nl",
+      "https://js-agent.newrelic.com",
+      "https://www.googletagmanager.com",
+      "https://stats.g.doubleclick.net",
+      "https://www.facebook.com",
+      "https://connect.facebook.net",
+      "https://log.nesine.com"
+    ],
+    "third_party_domains_no_consent": [
+      "https://region1.analytics.google.com",
+      "https://www.google.com",
+      "https://img.nesine.com",
+      "https://i.ytimg.com",
+      "https://bam.nr-data.net",
+      "https://www.google-analytics.com",
+      "https://www.google.nl",
+      "https://js-agent.newrelic.com",
+      "https://www.googletagmanager.com",
+      "https://stats.g.doubleclick.net",
+      "https://www.facebook.com",
+      "https://connect.facebook.net",
+      "https://log.nesine.com"
+    ],
+    "third_party_cookies_no_consent": {},
+    "tracking_domains_all": [
+      "google.com",
+      "google-analytics.com",
+      "newrelic.com",
+      "doubleclick.net",
+      "google.nl",
+      "facebook.net",
+      "facebook.com",
+      "nr-data.net"
+    ],
+    "tracking_domains_no_consent": [
+      "google.com",
+      "google-analytics.com",
+      "newrelic.com",
+      "doubleclick.net",
+      "google.nl",
+      "facebook.net",
+      "facebook.com",
+      "nr-data.net"
+    ],
+    "consent_manager": "none detected",
+    "privacy_policy": {
+      "xpath_results": [],
+      "google_results": [],
+      "link": "ERROR"
+    },
+    "screenshot": ""
+  },
+  {
+    "id": "aHR0cDovL2RzcG1lZ2EuY29t",
+    "url": "http://dspmega.com",
+    "cookies_all": [],
+    "cookies_no_consent": [],
+    "third_party_domains_all": [],
+    "third_party_domains_no_consent": [],
+    "third_party_cookies_no_consent": {},
+    "tracking_domains_all": [],
+    "tracking_domains_no_consent": [],
+    "consent_manager": "none detected",
+    "privacy_policy": {
+      "xpath_results": [],
+      "google_results": [],
+      "link": "ERROR"
+    },
+    "screenshot": ""
+  },
+  {
+    "id": "aHR0cDovL2JldG5hY2lvbmFsLmNvbQ==",
+    "url": "http://betnacional.com",
+    "cookies_all": [
+      {
+        "name": "__cf_bm",
+        "domain": ".radar.cloudflare.com",
+        "expires_days": 0,
+        "third_party": true,
+        "httponly": true,
+        "secure": true,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "__cf_bm",
+        "domain": ".betnacional.com",
+        "expires_days": 0,
+        "third_party": false,
+        "httponly": true,
+        "secure": true,
+        "persistent": false,
+        "tracker": false
+      }
+    ],
+    "cookies_no_consent": [
+      {
+        "name": "__cf_bm",
+        "domain": ".radar.cloudflare.com",
+        "expires_days": 0,
+        "third_party": true,
+        "httponly": true,
+        "secure": true,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "__cf_bm",
+        "domain": ".betnacional.com",
+        "expires_days": 0,
+        "third_party": false,
+        "httponly": true,
+        "secure": true,
+        "persistent": false,
+        "tracker": false
+      }
+    ],
+    "third_party_domains_all": [
+      "https://performance.radar.cloudflare.com",
+      "https://static.cloudflareinsights.com"
+    ],
+    "third_party_domains_no_consent": [
+      "https://performance.radar.cloudflare.com",
+      "https://static.cloudflareinsights.com"
+    ],
+    "third_party_cookies_no_consent": {
+      ".radar.cloudflare.com": {
+        "total": 1,
+        "session": 1,
+        "persistent": 0
+      }
+    },
+    "tracking_domains_all": [],
+    "tracking_domains_no_consent": [],
+    "consent_manager": "none detected",
+    "privacy_policy": {
+      "xpath_results": [],
+      "google_results": [
+        "https://www.google.com/search?q=privacy+policy+site:http://betnacional.com&tbm=isch&source=univ&fir=cmp--ag_bGfJyM%252CoWOekaZ-naQFKM%252C_%253BwkUp0QAtjGNm2M%252CoWOekaZ-naQFKM%252C_%253BSsrH0kD8soB-ZM%252CoWOekaZ-naQFKM%252C_%253BtyFgLTVxL7jMxM%252CoWOekaZ-naQFKM%252C_%253BqnrzzTfNkKT_3M%252CoWOekaZ-naQFKM%252C_%253B6LcZdDOsn1NcPM%252CoWOekaZ-naQFKM%252C_%253BmpHNhQIKUGwEcM%252CoWOekaZ-naQFKM%252C_%253BX2EiBCrq5VOz3M%252CoWOekaZ-naQFKM%252C_%253ByrHwuMf100EvvM%252CoWOekaZ-naQFKM%252C_%253BTtd0ecV7HuTgMM%252CoWOekaZ-naQFKM%252C_&usg=AI4_-kRTbDDN2M_7CDtss0Fji5F_ASpfiw&sa=X&ved=2ahUKEwjq6Z7ckJP_AhXl_7sIHZFaDVsQjJkEegQIHhAC"
+      ],
+      "link": "https://www.google.com/search?q=privacy+policy+site:http://betnacional.com&tbm=isch&source=univ&fir=cmp--ag_bGfJyM%252CoWOekaZ-naQFKM%252C_%253BwkUp0QAtjGNm2M%252CoWOekaZ-naQFKM%252C_%253BSsrH0kD8soB-ZM%252CoWOekaZ-naQFKM%252C_%253BtyFgLTVxL7jMxM%252CoWOekaZ-naQFKM%252C_%253BqnrzzTfNkKT_3M%252CoWOekaZ-naQFKM%252C_%253B6LcZdDOsn1NcPM%252CoWOekaZ-naQFKM%252C_%253BmpHNhQIKUGwEcM%252CoWOekaZ-naQFKM%252C_%253BX2EiBCrq5VOz3M%252CoWOekaZ-naQFKM%252C_%253ByrHwuMf100EvvM%252CoWOekaZ-naQFKM%252C_%253BTtd0ecV7HuTgMM%252CoWOekaZ-naQFKM%252C_&usg=AI4_-kRTbDDN2M_7CDtss0Fji5F_ASpfiw&sa=X&ved=2ahUKEwjq6Z7ckJP_AhXl_7sIHZFaDVsQjJkEegQIHhAC"
+    },
+    "screenshot": ""
+  },
+  {
+    "id": "aHR0cDovL2JldDM2NS5jb20=",
+    "url": "http://bet365.com",
+    "cookies_all": [
+      {
+        "name": "__cf_bm",
+        "domain": ".bet365.com",
+        "expires_days": 0,
+        "third_party": false,
+        "httponly": true,
+        "secure": true,
+        "persistent": false,
+        "tracker": false
+      }
+    ],
+    "cookies_no_consent": [
+      {
+        "name": "__cf_bm",
+        "domain": ".bet365.com",
+        "expires_days": 0,
+        "third_party": false,
+        "httponly": true,
+        "secure": true,
+        "persistent": false,
+        "tracker": false
+      }
+    ],
+    "third_party_domains_all": [],
+    "third_party_domains_no_consent": [],
+    "third_party_cookies_no_consent": {},
+    "tracking_domains_all": [],
+    "tracking_domains_no_consent": [],
+    "consent_manager": "none detected",
+    "privacy_policy": {
+      "xpath_results": [],
+      "google_results": [
+        "https://help.bet365.com/en/privacy-policy",
+        "https://help.bet365.com/nl/privacy-policy",
+        "https://content001.bet365.com/Careers/Documents/privacypolicy.pdf",
+        "https://help.bet365.com/en/privacy-notice",
+        "https://www.google.com/search?q=privacy+policy+site:http://bet365.com&tbm=isch&source=univ&fir=Rkv6KiZCOhShNM%252Co_M5zt9nwEKEGM%252C_%253Bl8E43cia_K6aKM%252CQSqMlYc7RhYNkM%252C_%253BdTdMFERwr8nTmM%252CwxUNgrp7JlNTvM%252C_%253BTewuR8cz8TJUqM%252C1DpKKKslutuO7M%252C_%253B1M64PX8-i3SZuM%252CoZKJO_T-BBfZQM%252C_%253Bq5vRek7YL28aVM%252C7EtlLSV4JpyLgM%252C_%253BL1WScOrWTZcbZM%252CJ4yb5q-LGAwK7M%252C_%253BDEt6FChiWL0HgM%252CrG1xuZ_HAvlB6M%252C_%253BNW6hlVaBjIhP8M%252CuNaG0baC9Gx96M%252C_%253Bmornhb44gz5BCM%252C1DpKKKslutuO7M%252C_&usg=AI4_-kRUvkErwwoNDufNmczq7ZdT0a4WtQ&sa=X&ved=2ahUKEwiCgK7mkJP_AhVugv0HHe5gCaQQjJkEegQIHRAC"
+      ],
+      "link": "https://help.bet365.com/en/privacy-policy"
+    },
+    "screenshot": ""
+  },
+  {
+    "id": "aHR0cDovL3hza3QuY29tLnZu",
+    "url": "http://xskt.com.vn",
+    "cookies_all": [
+      {
+        "name": "__gads",
+        "domain": ".xskt.com.vn",
+        "expires_days": 390,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "__gpi",
+        "domain": ".xskt.com.vn",
+        "expires_days": 390,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "IDE",
+        "domain": ".doubleclick.net",
+        "expires_days": 390,
+        "third_party": true,
+        "httponly": true,
+        "secure": true,
+        "persistent": true,
+        "tracker": true
+      }
+    ],
+    "cookies_no_consent": [
+      {
+        "name": "__gads",
+        "domain": ".xskt.com.vn",
+        "expires_days": 390,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "__gpi",
+        "domain": ".xskt.com.vn",
+        "expires_days": 390,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "IDE",
+        "domain": ".doubleclick.net",
+        "expires_days": 390,
+        "third_party": true,
+        "httponly": true,
+        "secure": true,
+        "persistent": true,
+        "tracker": true
+      }
+    ],
+    "third_party_domains_all": [
+      "https://partner.googleadservices.com",
+      "https://tpc.googlesyndication.com",
+      "https://s.tainhaccho.vn",
+      "https://googleads.g.doubleclick.net",
+      "https://adservice.google.nl",
+      "https://www.google.com",
+      "https://pagead2.googlesyndication.com",
+      "https://adservice.google.com"
+    ],
+    "third_party_domains_no_consent": [
+      "https://partner.googleadservices.com",
+      "https://tpc.googlesyndication.com",
+      "https://s.tainhaccho.vn",
+      "https://googleads.g.doubleclick.net",
+      "https://adservice.google.nl",
+      "https://www.google.com",
+      "https://pagead2.googlesyndication.com",
+      "https://adservice.google.com"
+    ],
+    "third_party_cookies_no_consent": {
+      ".doubleclick.net": {
+        "total": 1,
+        "session": 0,
+        "persistent": 1
+      }
+    },
+    "tracking_domains_all": [
+      "google.com",
+      "googlesyndication.com",
+      "doubleclick.net",
+      "google.nl",
+      "googleadservices.com"
+    ],
+    "tracking_domains_no_consent": [
+      "google.com",
+      "googlesyndication.com",
+      "doubleclick.net",
+      "google.nl",
+      "googleadservices.com"
+    ],
+    "consent_manager": "none detected",
+    "privacy_policy": {
+      "xpath_results": [],
+      "google_results": [],
+      "link": "ERROR"
+    },
+    "screenshot": ""
+  },
+  {
+    "id": "aHR0cDovL2NhbGllbnRlLm14",
+    "url": "http://caliente.mx",
+    "cookies_all": [
+      {
+        "name": "_global",
+        "domain": ".caliente.mx",
+        "expires_days": 31,
+        "third_party": false,
+        "httponly": false,
+        "secure": true,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "__cf_bm",
+        "domain": ".caliente.mx",
+        "expires_days": 0,
+        "third_party": false,
+        "httponly": true,
+        "secure": true,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "_gcl_au",
+        "domain": ".caliente.mx",
+        "expires_days": 90,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "_gid",
+        "domain": ".caliente.mx",
+        "expires_days": 1,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "_dc_gtm_UA-46882827-1",
+        "domain": ".caliente.mx",
+        "expires_days": 0,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "uid",
+        "domain": ".criteo.com",
+        "expires_days": 390,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": true,
+        "tracker": true
+      },
+      {
+        "name": "_fbp",
+        "domain": ".caliente.mx",
+        "expires_days": 90,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "tuuid",
+        "domain": ".bidswitch.net",
+        "expires_days": 365,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": true,
+        "tracker": true
+      },
+      {
+        "name": "c",
+        "domain": ".bidswitch.net",
+        "expires_days": 365,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": true,
+        "tracker": true
+      },
+      {
+        "name": "tuuid_lu",
+        "domain": ".bidswitch.net",
+        "expires_days": 365,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": true,
+        "tracker": true
+      },
+      {
+        "name": "AWSALBCORS",
+        "domain": "match.sharethrough.com",
+        "expires_days": 7,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": false,
+        "tracker": true
+      },
+      {
+        "name": "IDE",
+        "domain": ".doubleclick.net",
+        "expires_days": 390,
+        "third_party": true,
+        "httponly": true,
+        "secure": true,
+        "persistent": true,
+        "tracker": true
+      },
+      {
+        "name": "visitor-id",
+        "domain": ".media.net",
+        "expires_days": 365,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": true,
+        "tracker": true
+      },
+      {
+        "name": "data-c-ts",
+        "domain": ".media.net",
+        "expires_days": 30,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": false,
+        "tracker": true
+      },
+      {
+        "name": "data-c",
+        "domain": ".media.net",
+        "expires_days": 30,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": false,
+        "tracker": true
+      },
+      {
+        "name": "demdex",
+        "domain": ".demdex.net",
+        "expires_days": 180,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": true,
+        "tracker": true
+      },
+      {
+        "name": "CMID",
+        "domain": ".casalemedia.com",
+        "expires_days": 365,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": true,
+        "tracker": true
+      },
+      {
+        "name": "CMPS",
+        "domain": ".casalemedia.com",
+        "expires_days": 90,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": true,
+        "tracker": true
+      },
+      {
+        "name": "CMPRO",
+        "domain": ".casalemedia.com",
+        "expires_days": 90,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": true,
+        "tracker": true
+      },
+      {
+        "name": "A3",
+        "domain": ".yahoo.com",
+        "expires_days": 365,
+        "third_party": true,
+        "httponly": true,
+        "secure": true,
+        "persistent": true,
+        "tracker": true
+      },
+      {
+        "name": "cf",
+        "domain": ".id5-sync.com",
+        "expires_days": 0,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": false,
+        "tracker": true
+      },
+      {
+        "name": "cip",
+        "domain": ".id5-sync.com",
+        "expires_days": 0,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": false,
+        "tracker": true
+      },
+      {
+        "name": "cnac",
+        "domain": ".id5-sync.com",
+        "expires_days": 0,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": false,
+        "tracker": true
+      },
+      {
+        "name": "car",
+        "domain": ".id5-sync.com",
+        "expires_days": 0,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": false,
+        "tracker": true
+      },
+      {
+        "name": "gdpr",
+        "domain": ".id5-sync.com",
+        "expires_days": 0,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": false,
+        "tracker": true
+      },
+      {
+        "name": "callback",
+        "domain": ".id5-sync.com",
+        "expires_days": 0,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": false,
+        "tracker": true
+      },
+      {
+        "name": "IDSYNC",
+        "domain": ".analytics.yahoo.com",
+        "expires_days": 365,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": true,
+        "tracker": true
+      },
+      {
+        "name": "dpm",
+        "domain": ".dpm.demdex.net",
+        "expires_days": 180,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": true,
+        "tracker": true
+      },
+      {
+        "name": "mv_tokens",
+        "domain": "exchange.mediavine.com",
+        "expires_days": 14,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": false,
+        "tracker": true
+      },
+      {
+        "name": "mv_tokens_eu-v1",
+        "domain": "exchange.mediavine.com",
+        "expires_days": 14,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": false,
+        "tracker": true
+      },
+      {
+        "name": "am_tokens",
+        "domain": "exchange.mediavine.com",
+        "expires_days": 14,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": false,
+        "tracker": true
+      },
+      {
+        "name": "am_tokens_eu-v1",
+        "domain": "exchange.mediavine.com",
+        "expires_days": 14,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": false,
+        "tracker": true
+      },
+      {
+        "name": "criteo",
+        "domain": "exchange.mediavine.com",
+        "expires_days": 14,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": false,
+        "tracker": true
+      },
+      {
+        "name": "KRTBCOOKIE_97",
+        "domain": ".pubmatic.com",
+        "expires_days": 30,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": false,
+        "tracker": true
+      },
+      {
+        "name": "PugT",
+        "domain": ".pubmatic.com",
+        "expires_days": 30,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": false,
+        "tracker": true
+      },
+      {
+        "name": "tuuid",
+        "domain": ".360yield.com",
+        "expires_days": 90,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": true,
+        "tracker": true
+      },
+      {
+        "name": "tuuid_lu",
+        "domain": ".360yield.com",
+        "expires_days": 90,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": true,
+        "tracker": true
+      },
+      {
+        "name": "um",
+        "domain": ".360yield.com",
+        "expires_days": 90,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": true,
+        "tracker": true
+      },
+      {
+        "name": "umeh",
+        "domain": ".360yield.com",
+        "expires_days": 90,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": true,
+        "tracker": true
+      },
+      {
+        "name": "_kuid_",
+        "domain": ".krxd.net",
+        "expires_days": 180,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": true,
+        "tracker": true
+      },
+      {
+        "name": "tvid",
+        "domain": ".tremorhub.com",
+        "expires_days": 365,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": true,
+        "tracker": true
+      },
+      {
+        "name": "tv_UICR",
+        "domain": ".tremorhub.com",
+        "expires_days": 30,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": false,
+        "tracker": true
+      },
+      {
+        "name": "_ga",
+        "domain": ".caliente.mx",
+        "expires_days": 400,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "_ga_V8PEGNP43B",
+        "domain": ".caliente.mx",
+        "expires_days": 400,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      }
+    ],
+    "cookies_no_consent": [
+      {
+        "name": "_global",
+        "domain": ".caliente.mx",
+        "expires_days": 31,
+        "third_party": false,
+        "httponly": false,
+        "secure": true,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "__cf_bm",
+        "domain": ".caliente.mx",
+        "expires_days": 0,
+        "third_party": false,
+        "httponly": true,
+        "secure": true,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "_gcl_au",
+        "domain": ".caliente.mx",
+        "expires_days": 90,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "_gid",
+        "domain": ".caliente.mx",
+        "expires_days": 1,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "_dc_gtm_UA-46882827-1",
+        "domain": ".caliente.mx",
+        "expires_days": 0,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "uid",
+        "domain": ".criteo.com",
+        "expires_days": 390,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": true,
+        "tracker": true
+      },
+      {
+        "name": "_fbp",
+        "domain": ".caliente.mx",
+        "expires_days": 90,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "tuuid",
+        "domain": ".bidswitch.net",
+        "expires_days": 365,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": true,
+        "tracker": true
+      },
+      {
+        "name": "c",
+        "domain": ".bidswitch.net",
+        "expires_days": 365,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": true,
+        "tracker": true
+      },
+      {
+        "name": "tuuid_lu",
+        "domain": ".bidswitch.net",
+        "expires_days": 365,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": true,
+        "tracker": true
+      },
+      {
+        "name": "AWSALBCORS",
+        "domain": "match.sharethrough.com",
+        "expires_days": 7,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": false,
+        "tracker": true
+      },
+      {
+        "name": "IDE",
+        "domain": ".doubleclick.net",
+        "expires_days": 390,
+        "third_party": true,
+        "httponly": true,
+        "secure": true,
+        "persistent": true,
+        "tracker": true
+      },
+      {
+        "name": "visitor-id",
+        "domain": ".media.net",
+        "expires_days": 365,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": true,
+        "tracker": true
+      },
+      {
+        "name": "data-c-ts",
+        "domain": ".media.net",
+        "expires_days": 30,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": false,
+        "tracker": true
+      },
+      {
+        "name": "data-c",
+        "domain": ".media.net",
+        "expires_days": 30,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": false,
+        "tracker": true
+      },
+      {
+        "name": "demdex",
+        "domain": ".demdex.net",
+        "expires_days": 180,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": true,
+        "tracker": true
+      },
+      {
+        "name": "CMID",
+        "domain": ".casalemedia.com",
+        "expires_days": 365,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": true,
+        "tracker": true
+      },
+      {
+        "name": "CMPS",
+        "domain": ".casalemedia.com",
+        "expires_days": 90,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": true,
+        "tracker": true
+      },
+      {
+        "name": "CMPRO",
+        "domain": ".casalemedia.com",
+        "expires_days": 90,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": true,
+        "tracker": true
+      },
+      {
+        "name": "A3",
+        "domain": ".yahoo.com",
+        "expires_days": 365,
+        "third_party": true,
+        "httponly": true,
+        "secure": true,
+        "persistent": true,
+        "tracker": true
+      },
+      {
+        "name": "cf",
+        "domain": ".id5-sync.com",
+        "expires_days": 0,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": false,
+        "tracker": true
+      },
+      {
+        "name": "cip",
+        "domain": ".id5-sync.com",
+        "expires_days": 0,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": false,
+        "tracker": true
+      },
+      {
+        "name": "cnac",
+        "domain": ".id5-sync.com",
+        "expires_days": 0,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": false,
+        "tracker": true
+      },
+      {
+        "name": "car",
+        "domain": ".id5-sync.com",
+        "expires_days": 0,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": false,
+        "tracker": true
+      },
+      {
+        "name": "gdpr",
+        "domain": ".id5-sync.com",
+        "expires_days": 0,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": false,
+        "tracker": true
+      },
+      {
+        "name": "callback",
+        "domain": ".id5-sync.com",
+        "expires_days": 0,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": false,
+        "tracker": true
+      },
+      {
+        "name": "IDSYNC",
+        "domain": ".analytics.yahoo.com",
+        "expires_days": 365,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": true,
+        "tracker": true
+      },
+      {
+        "name": "dpm",
+        "domain": ".dpm.demdex.net",
+        "expires_days": 180,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": true,
+        "tracker": true
+      },
+      {
+        "name": "mv_tokens",
+        "domain": "exchange.mediavine.com",
+        "expires_days": 14,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": false,
+        "tracker": true
+      },
+      {
+        "name": "mv_tokens_eu-v1",
+        "domain": "exchange.mediavine.com",
+        "expires_days": 14,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": false,
+        "tracker": true
+      },
+      {
+        "name": "am_tokens",
+        "domain": "exchange.mediavine.com",
+        "expires_days": 14,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": false,
+        "tracker": true
+      },
+      {
+        "name": "am_tokens_eu-v1",
+        "domain": "exchange.mediavine.com",
+        "expires_days": 14,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": false,
+        "tracker": true
+      },
+      {
+        "name": "criteo",
+        "domain": "exchange.mediavine.com",
+        "expires_days": 14,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": false,
+        "tracker": true
+      },
+      {
+        "name": "KRTBCOOKIE_97",
+        "domain": ".pubmatic.com",
+        "expires_days": 30,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": false,
+        "tracker": true
+      },
+      {
+        "name": "PugT",
+        "domain": ".pubmatic.com",
+        "expires_days": 30,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": false,
+        "tracker": true
+      },
+      {
+        "name": "tuuid",
+        "domain": ".360yield.com",
+        "expires_days": 90,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": true,
+        "tracker": true
+      },
+      {
+        "name": "tuuid_lu",
+        "domain": ".360yield.com",
+        "expires_days": 90,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": true,
+        "tracker": true
+      },
+      {
+        "name": "um",
+        "domain": ".360yield.com",
+        "expires_days": 90,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": true,
+        "tracker": true
+      },
+      {
+        "name": "umeh",
+        "domain": ".360yield.com",
+        "expires_days": 90,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": true,
+        "tracker": true
+      },
+      {
+        "name": "_kuid_",
+        "domain": ".krxd.net",
+        "expires_days": 180,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": true,
+        "tracker": true
+      },
+      {
+        "name": "tvid",
+        "domain": ".tremorhub.com",
+        "expires_days": 365,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": true,
+        "tracker": true
+      },
+      {
+        "name": "tv_UICR",
+        "domain": ".tremorhub.com",
+        "expires_days": 30,
+        "third_party": true,
+        "httponly": false,
+        "secure": true,
+        "persistent": false,
+        "tracker": true
+      },
+      {
+        "name": "_ga",
+        "domain": ".caliente.mx",
+        "expires_days": 400,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "_ga_V8PEGNP43B",
+        "domain": ".caliente.mx",
+        "expires_days": 400,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      }
+    ],
+    "third_party_domains_all": [
+      "https://beacon.krxd.net",
+      "https://rtb-csync.smartadserver.com",
+      "https://www.google.com",
+      "https://fonts.gstatic.com",
+      "https://widget.us.criteo.com",
+      "https://fonts.googleapis.com",
+      "https://www.caliente.mx",
+      "https://ad.360yield.com",
+      "https://sync-t1.taboola.com",
+      "https://sync-criteo.ads.yieldmo.com",
+      "https://static.criteo.net",
+      "https://visitor.omnitagjs.com",
+      "https://pixel.rubiconproject.com",
+      "https://gum.criteo.com",
+      "https://secure.adnxs.com",
+      "https://ib.adnxs.com",
+      "https://region1.google-analytics.com",
+      "https://ups.analytics.yahoo.com",
+      "https://ad.yieldlab.net",
+      "https://exchange.mediavine.com",
+      "https://dis.criteo.com",
+      "https://s.thebrighttag.com",
+      "https://www.google-analytics.com",
+      "https://www.google.nl",
+      "https://appleid.cdn-apple.com",
+      "https://criteo-partners.tremorhub.com",
+      "https://www.googletagmanager.com",
+      "https://stats.g.doubleclick.net",
+      "https://x.bidswitch.net",
+      "https://cm.adform.net",
+      "https://match.sharethrough.com",
+      "https://id5-sync.com",
+      "https://www.facebook.com",
+      "https://cm.g.doubleclick.net",
+      "https://simage2.pubmatic.com",
+      "https://eb2.3lift.com",
+      "https://matching.ivitrack.com",
+      "https://connect.facebook.net",
+      "https://sslwidget.criteo.com",
+      "https://contextual.media.net",
+      "https://sync.outbrain.com",
+      "https://r.casalemedia.com",
+      "https://criteo-sync.teads.tv",
+      "https://dpm.demdex.net"
+    ],
+    "third_party_domains_no_consent": [
+      "https://beacon.krxd.net",
+      "https://rtb-csync.smartadserver.com",
+      "https://www.google.com",
+      "https://fonts.gstatic.com",
+      "https://widget.us.criteo.com",
+      "https://fonts.googleapis.com",
+      "https://www.caliente.mx",
+      "https://ad.360yield.com",
+      "https://sync-t1.taboola.com",
+      "https://sync-criteo.ads.yieldmo.com",
+      "https://static.criteo.net",
+      "https://visitor.omnitagjs.com",
+      "https://pixel.rubiconproject.com",
+      "https://gum.criteo.com",
+      "https://secure.adnxs.com",
+      "https://ib.adnxs.com",
+      "https://region1.google-analytics.com",
+      "https://ups.analytics.yahoo.com",
+      "https://ad.yieldlab.net",
+      "https://exchange.mediavine.com",
+      "https://dis.criteo.com",
+      "https://s.thebrighttag.com",
+      "https://www.google-analytics.com",
+      "https://www.google.nl",
+      "https://appleid.cdn-apple.com",
+      "https://criteo-partners.tremorhub.com",
+      "https://www.googletagmanager.com",
+      "https://stats.g.doubleclick.net",
+      "https://x.bidswitch.net",
+      "https://cm.adform.net",
+      "https://match.sharethrough.com",
+      "https://id5-sync.com",
+      "https://www.facebook.com",
+      "https://cm.g.doubleclick.net",
+      "https://simage2.pubmatic.com",
+      "https://eb2.3lift.com",
+      "https://matching.ivitrack.com",
+      "https://connect.facebook.net",
+      "https://sslwidget.criteo.com",
+      "https://contextual.media.net",
+      "https://sync.outbrain.com",
+      "https://r.casalemedia.com",
+      "https://criteo-sync.teads.tv",
+      "https://dpm.demdex.net"
+    ],
+    "third_party_cookies_no_consent": {
+      ".criteo.com": {
+        "total": 1,
+        "session": 0,
+        "persistent": 1
+      },
+      ".bidswitch.net": {
+        "total": 3,
+        "session": 0,
+        "persistent": 3
+      },
+      "match.sharethrough.com": {
+        "total": 1,
+        "session": 0,
+        "persistent": 0
+      },
+      ".doubleclick.net": {
+        "total": 1,
+        "session": 0,
+        "persistent": 1
+      },
+      ".media.net": {
+        "total": 3,
+        "session": 0,
+        "persistent": 1
+      },
+      ".demdex.net": {
+        "total": 1,
+        "session": 0,
+        "persistent": 0
+      },
+      ".casalemedia.com": {
+        "total": 3,
+        "session": 0,
+        "persistent": 1
+      },
+      ".yahoo.com": {
+        "total": 1,
+        "session": 0,
+        "persistent": 1
+      },
+      ".id5-sync.com": {
+        "total": 6,
+        "session": 6,
+        "persistent": 0
+      },
+      ".analytics.yahoo.com": {
+        "total": 1,
+        "session": 0,
+        "persistent": 1
+      },
+      ".dpm.demdex.net": {
+        "total": 1,
+        "session": 0,
+        "persistent": 0
+      },
+      "exchange.mediavine.com": {
+        "total": 5,
+        "session": 0,
+        "persistent": 0
+      },
+      ".pubmatic.com": {
+        "total": 2,
+        "session": 0,
+        "persistent": 0
+      },
+      ".360yield.com": {
+        "total": 4,
+        "session": 0,
+        "persistent": 0
+      },
+      ".krxd.net": {
+        "total": 1,
+        "session": 0,
+        "persistent": 0
+      },
+      ".tremorhub.com": {
+        "total": 2,
+        "session": 0,
+        "persistent": 1
+      }
+    },
+    "tracking_domains_all": [
+      "casalemedia.com",
+      "media.net",
+      "ivitrack.com",
+      "yieldmo.com",
+      "criteo.net",
+      "googleapis.com",
+      "google.nl",
+      "criteo.com",
+      "google.com",
+      "sharethrough.com",
+      "teads.tv",
+      "adnxs.com",
+      "rubiconproject.com",
+      "yahoo.com",
+      "yieldlab.net",
+      "thebrighttag.com",
+      "tremorhub.com",
+      "pubmatic.com",
+      "mediavine.com",
+      "demdex.net",
+      "taboola.com",
+      "smartadserver.com",
+      "facebook.com",
+      "adform.net",
+      "360yield.com",
+      "google-analytics.com",
+      "3lift.com",
+      "doubleclick.net",
+      "https://id5-sync.com",
+      "omnitagjs.com",
+      "bidswitch.net",
+      "outbrain.com",
+      "gstatic.com",
+      "krxd.net",
+      "facebook.net"
+    ],
+    "tracking_domains_no_consent": [
+      "casalemedia.com",
+      "media.net",
+      "ivitrack.com",
+      "yieldmo.com",
+      "criteo.net",
+      "googleapis.com",
+      "google.nl",
+      "criteo.com",
+      "google.com",
+      "sharethrough.com",
+      "teads.tv",
+      "adnxs.com",
+      "rubiconproject.com",
+      "yahoo.com",
+      "yieldlab.net",
+      "thebrighttag.com",
+      "tremorhub.com",
+      "pubmatic.com",
+      "mediavine.com",
+      "demdex.net",
+      "taboola.com",
+      "smartadserver.com",
+      "facebook.com",
+      "adform.net",
+      "360yield.com",
+      "google-analytics.com",
+      "3lift.com",
+      "doubleclick.net",
+      "https://id5-sync.com",
+      "omnitagjs.com",
+      "bidswitch.net",
+      "outbrain.com",
+      "gstatic.com",
+      "krxd.net",
+      "facebook.net"
+    ],
+    "consent_manager": "none detected",
+    "privacy_policy": {
+      "xpath_results": [],
+      "google_results": [],
+      "link": "ERROR"
+    },
+    "screenshot": ""
+  },
+  {
+    "id": "aHR0cDovL3Nwb3J0eWJldC5jb20=",
+    "url": "http://sportybet.com",
+    "cookies_all": [
+      {
+        "name": "redirect_to_int",
+        "domain": "www.sportybet.com",
+        "expires_days": -19503,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "locale",
+        "domain": "www.sportybet.com",
+        "expires_days": -19503,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "_gcl_au",
+        "domain": ".sportybet.com",
+        "expires_days": 90,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "sb_fs_id",
+        "domain": "www.sportybet.com",
+        "expires_days": 365,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "_ga",
+        "domain": ".sportybet.com",
+        "expires_days": 400,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "_ga_00HZ52K43N",
+        "domain": ".sportybet.com",
+        "expires_days": 400,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      }
+    ],
+    "cookies_no_consent": [
+      {
+        "name": "redirect_to_int",
+        "domain": "www.sportybet.com",
+        "expires_days": -19503,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "locale",
+        "domain": "www.sportybet.com",
+        "expires_days": -19503,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": false,
+        "tracker": false
+      },
+      {
+        "name": "_gcl_au",
+        "domain": ".sportybet.com",
+        "expires_days": 90,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "sb_fs_id",
+        "domain": "www.sportybet.com",
+        "expires_days": 365,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "_ga",
+        "domain": ".sportybet.com",
+        "expires_days": 400,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      },
+      {
+        "name": "_ga_00HZ52K43N",
+        "domain": ".sportybet.com",
+        "expires_days": 400,
+        "third_party": false,
+        "httponly": false,
+        "secure": false,
+        "persistent": true,
+        "tracker": false
+      }
+    ],
+    "third_party_domains_all": [
+      "https://region1.analytics.google.com",
+      "https://stats.g.doubleclick.net",
+      "https://www.google-analytics.com",
+      "https://s.sporty.net",
+      "https://www.google.nl",
+      "https://www.googletagmanager.com"
+    ],
+    "third_party_domains_no_consent": [
+      "https://region1.analytics.google.com",
+      "https://stats.g.doubleclick.net",
+      "https://www.google-analytics.com",
+      "https://s.sporty.net",
+      "https://www.google.nl",
+      "https://www.googletagmanager.com"
+    ],
+    "third_party_cookies_no_consent": {},
+    "tracking_domains_all": [
+      "doubleclick.net",
+      "google.com",
+      "google-analytics.com",
+      "google.nl"
+    ],
+    "tracking_domains_no_consent": [
+      "doubleclick.net",
+      "google.com",
+      "google-analytics.com",
+      "google.nl"
+    ],
+    "consent_manager": "none detected",
+    "privacy_policy": {
+      "xpath_results": [],
+      "google_results": [
+        "https://www.sportybet.com/ke/help?nav=privacy-policy",
+        "https://www.google.com/search?q=privacy+policy+site:http://sportybet.com&tbm=isch&source=univ&fir=pVTrpT-w6ZCZ0M%252CbUOU65YFWYw3IM%252C_%253B3nnWVk09NtRyxM%252Co-43Kt3zPdp17M%252C_%253BMxfLV1eVRI_qWM%252C5aS5PPX9fGXUAM%252C_%253BLjTI5e0PLIAmXM%252C5aS5PPX9fGXUAM%252C_%253BtlJ5pNGxduRpoM%252CAIwpxXXWidTUSM%252C_%253BlAXU6kbmJzEgOM%252Cx9vSJDT751rHXM%252C_%253BAOIqhk36Egt0lM%252Cx9vSJDT751rHXM%252C_%253BNVOQYJuwGrAlMM%252C2CJSSlaBjTNQ2M%252C_%253B2DdMwTn5VhX6GM%252C2CJSSlaBjTNQ2M%252C_%253BxWvylGE1ovv1MM%252Cpqb8vu7pMcGEMM%252C_&usg=AI4_-kRaHiC947lyaFxRYZhAzDDa_p2j8g&sa=X&ved=2ahUKEwifvMmPkZP_AhWH_7sIHbLIC6MQjJkEegQIHxAC"
+      ],
+      "link": "https://www.sportybet.com/ke/help?nav=privacy-policy"
+    },
+    "screenshot": ""
+  }
+]

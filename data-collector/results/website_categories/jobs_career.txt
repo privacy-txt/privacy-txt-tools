@@ -1,0 +1,107 @@
+http://indeed.com none detected
+http://jobrapido.com non-specific-custom
+http://jobs.lever.co none detected
+http://pole-emploi.fr non-specific-custom
+http://computrabajo.com none detected
+http://jobcase.com none detected
+http://104.com.tw none detected
+http://jooble.org non-specific-custom
+http://jobs2careers.com none detected
+http://successfactors.eu trustarc-truste
+http://cuemath.com none detected
+http://csod.com onetrust-cookiepro
+http://glassdoor.com none detected
+http://talent.com none detected
+http://saramin.co.kr none detected
+http://ziprecruiter.com none detected
+http://careerpower.in none detected
+http://pracuj.pl non-specific-custom
+http://hh.ru none detected
+http://seek.com.au none detected
+http://doda.jp none detected
+http://stepstone.de none detected
+http://16personalities.com none detected
+http://gupy.io onetrust-cookiepro
+http://greenhouse.io onetrust-cookiepro
+http://highercldfrevb.com none detected
+http://arbeitsagentur.de none detected
+http://1tamilmv.help none detected
+http://townwork.net none detected
+http://sg.fr non-specific-custom
+http://adda247.com none detected
+http://urssaf.fr non-specific-custom
+http://freejobalert.com non-specific-custom
+http://naukri.com none detected
+http://bamboohr.com none detected
+http://infojobs.net none detected
+http://appcast.io onetrust-cookiepro
+http://dayforcehcm.com none detected
+http://kariyer.net none detected
+Websites with tracker cookies: 21 / 50
+Tracker cookies per website: 
+	 No consent:
+	 mean 10.61111111111111 
+ 	 median 4.5
+	 Top 5:
+		('http://doda.jp', 53)
+		('http://ziprecruiter.com', 39)
+		('http://bamboohr.com', 21)
+		('http://appcast.io', 20)
+		('http://hh.ru', 13)
+
+	 Consent:
+	 mean 17.142857142857142 
+ 	 median 8
+	 Top 5:
+		('http://freejobalert.com', 117)
+		('http://doda.jp', 53)
+		('http://ziprecruiter.com', 39)
+		('http://appcast.io', 25)
+		('http://bamboohr.com', 21)
+
+
+Websites with tracker domains: 39 / 50
+Tracker domains per website: 
+	 No consent:
+	 mean 10.2 
+ 	 median 7.0
+	 Top 5:
+		('http://doda.jp', 55)
+		('http://ziprecruiter.com', 43)
+		('http://bamboohr.com', 24)
+		('http://seek.com.au', 22)
+		('http://jobs2careers.com', 14)
+
+	 Consent:
+	 mean 11.794871794871796 
+ 	 median 7
+	 Top 5:
+		('http://freejobalert.com', 73)
+		('http://doda.jp', 57)
+		('http://ziprecruiter.com', 43)
+		('http://greenhouse.io', 34)
+		('http://bamboohr.com', 24)
+
+
+Websites with persistent cookies: 31 / 50
+Persistent cookies per website: 
+	 No consent:
+	 mean 11.733333333333333 
+ 	 median 5.0
+	 Top 5:
+		('http://doda.jp', 62)
+		('http://ziprecruiter.com', 49)
+		('http://bamboohr.com', 35)
+		('http://hh.ru', 28)
+		('http://seek.com.au', 22)
+
+	 Consent:
+	 mean 17.483870967741936 
+ 	 median 10
+	 Top 5:
+		('http://freejobalert.com', 99)
+		('http://doda.jp', 62)
+		('http://ziprecruiter.com', 49)
+		('http://bamboohr.com', 35)
+		('http://greenhouse.io', 34)
+

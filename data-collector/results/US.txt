@@ -1,0 +1,105 @@
+http://telegraaf.nl none detected
+http://weather.com none detected
+http://google.com none detected
+http://buienradar.nl onetrust-cookiepro
+http://rabobank.nl none detected
+http://dumpert.nl none detected
+http://npostart.nl none detected
+http://xvideos.com none detected
+http://voetbalzone.nl none detected
+http://rtlnieuws.nl onetrust-cookiepro
+http://postnl.nl none detected
+http://ah.nl non-specific-custom
+http://bol.com non-specific-custom
+http://nrc.nl none detected
+http://volkskrant.nl none detected
+http://funda.nl none detected
+http://wikipedia.org none detected
+http://ad.nl none detected
+http://coolblue.nl none detected
+http://reddit.com none detected
+http://weeronline.nl none detected
+http://marktplaats.nl none detected
+http://samsung.com non-specific-custom
+http://pornhub.com none detected
+http://surfconext.nl non-specific-custom
+http://twitter.com none detected
+http://live.com none detected
+http://nu.nl none detected
+http://xhamster.com none detected
+http://sharepoint.com none detected
+http://vi.nl quantcast
+http://samsung.nl none detected
+http://tweakers.net non-specific-custom
+http://facebook.com none detected
+http://duckduckgo.com none detected
+http://xnxx.com none detected
+http://office.com none detected
+Websites with tracker cookies: 16 / 50
+Tracker cookies per website: 
+	 No consent:
+	 mean 10.625 
+ 	 median 4.5
+	 Top 5:
+		('http://sharepoint.com', 57)
+		('http://marktplaats.nl', 54)
+		('http://office.com', 10)
+		('http://weeronline.nl', 8)
+		('http://twitter.com', 8)
+
+	 Consent:
+	 mean 13.25 
+ 	 median 6.0
+	 Top 5:
+		('http://sharepoint.com', 73)
+		('http://marktplaats.nl', 54)
+		('http://vi.nl', 24)
+		('http://office.com', 10)
+		('http://rtlnieuws.nl', 9)
+
+
+Websites with tracker domains: 37 / 50
+Tracker domains per website: 
+	 No consent:
+	 mean 6.206896551724138 
+ 	 median 3
+	 Top 5:
+		('http://marktplaats.nl', 41)
+		('http://sharepoint.com', 27)
+		('http://voetbalzone.nl', 22)
+		('http://weeronline.nl', 18)
+		('http://weather.com', 7)
+
+	 Consent:
+	 mean 6 
+ 	 median 2
+	 Top 5:
+		('http://marktplaats.nl', 41)
+		('http://sharepoint.com', 32)
+		('http://vi.nl', 30)
+		('http://voetbalzone.nl', 24)
+		('http://weeronline.nl', 18)
+
+
+Websites with persistent cookies: 29 / 50
+Persistent cookies per website: 
+	 No consent:
+	 mean 7.896551724137931 
+ 	 median 5
+	 Top 5:
+		('http://marktplaats.nl', 44)
+		('http://sharepoint.com', 40)
+		('http://weeronline.nl', 15)
+		('http://ad.nl', 14)
+		('http://rtlnieuws.nl', 10)
+
+	 Consent:
+	 mean 9.758620689655173 
+ 	 median 5
+	 Top 5:
+		('http://sharepoint.com', 47)
+		('http://marktplaats.nl', 44)
+		('http://vi.nl', 32)
+		('http://rtlnieuws.nl', 19)
+		('http://weeronline.nl', 15)
+

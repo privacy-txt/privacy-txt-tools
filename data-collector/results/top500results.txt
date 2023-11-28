@@ -1,0 +1,491 @@
+http://googletagmanager.com none detected
+http://download.macromedia.com none detected
+http://wikipedia.org none detected
+http://itunes.apple.com none detected
+http://sites.google.com none detected
+http://github.com none detected
+http://mozilla.org none detected
+http://play.google.com none detected
+http://yahoo.com non-specific-custom
+http://gravatar.com non-specific-custom
+http://linkedin.com non-specific-custom
+http://twitter.com non-specific-custom
+http://nytimes.com non-specific-custom
+http://youtu.be non-specific-custom
+http://google.com non-specific-custom
+http://drive.google.com none detected
+http://github.io none detected
+http://apache.org none detected
+http://apple.com none detected
+http://wordpress.org none detected
+http://bit.ly non-specific-custom
+http://tumblr.com none detected
+http://reddit.com non-specific-custom
+http://facebook.com non-specific-custom
+http://wordpress.com non-specific-custom
+http://soundcloud.com onetrust-cookiepro
+http://amazonaws.com non-specific-custom
+http://adobe.com onetrust-cookiepro
+http://goo.gl none detected
+http://policies.google.com none detected
+http://plus.google.com none detected
+http://blogspot.com none detected
+http://nih.gov none detected
+http://maps.google.com non-specific-custom
+http://pinterest.com none detected
+http://instagram.com none detected
+http://en.wikipedia.org none detected
+http://flickr.com none detected
+http://apps.apple.com none detected
+http://europa.eu non-specific-custom
+http://whatsapp.com non-specific-custom
+http://youtube.com non-specific-custom
+http://api.whatsapp.com none detected
+http://docs.google.com none detected
+http://microsoft.com non-specific-custom
+http://vimeo.com onetrust-enterprise
+http://nginx.org none detected
+http://wa.me none detected
+http://beian.miit.gov.cn none detected
+http://w3.org non-specific-custom
+http://t.co none detected
+http://archive.org none detected
+http://dropbox.com none detected
+http://cloudflare.com onetrust-cookiepro
+http://ec.europa.eu non-specific-custom
+http://office.com non-specific-custom
+http://sourceforge.net non-specific-custom
+http://issuu.com cookiebot
+http://forms.gle none detected
+http://opera.com none detected
+http://www.ncbi.nlm.nih.gov none detected
+http://creativecommons.org none detected
+http://zoom.us onetrust-cookiepro
+http://weebly.com onetrust-cookiepro
+http://washingtonpost.com onetrust-cookiepro
+http://reuters.com onetrust-cookiepro
+http://bbc.co.uk non-specific-custom
+http://paypal.com non-specific-custom
+http://bbc.com non-specific-custom
+http://cnn.com onetrust-cookiepro
+http://accounts.google.com none detected
+http://live.com none detected
+http://forbes.com none detected
+http://sciencedirect.com none detected
+http://oracle.com none detected
+http://vk.com none detected
+http://tiktok.com none detected
+http://bloomberg.com none detected
+http://cdc.gov none detected
+http://web.archive.org none detected
+http://m.facebook.com non-specific-custom
+http://open.spotify.com onetrust-cookiepro
+http://spotify.com onetrust-cookiepro
+http://nginx.com non-specific-custom
+http://t.me none detected
+http://harvard.edu none detected
+http://baidu.com none detected
+http://tinyurl.com quantcast
+http://list-manage.com none detected
+http://blogger.com none detected
+http://eventbrite.com none detected
+http://usatoday.com onetrust-cookiepro
+http://go.com none detected
+http://w.soundcloud.com none detected
+http://stanford.edu none detected
+http://wix.com non-specific-custom
+http://time.com onetrust-cookiepro
+http://wiley.com osano
+http://dailymail.co.uk non-specific-custom
+http://doi.org none detected
+http://mit.edu none detected
+http://g.page none detected
+http://nasa.gov none detected
+http://outlook.com none detected
+http://ancomunn.co.uk none detected
+http://ibm.com none detected
+http://chrome.google.com non-specific-custom
+http://wp.com non-specific-custom
+http://windows.microsoft.com non-specific-custom
+http://telegraph.co.uk non-specific-custom
+http://get.adobe.com none detected
+http://wikimedia.org none detected
+http://addtoany.com none detected
+http://weibo.com none detected
+http://gnu.org none detected
+http://ted.com onetrust-cookiepro
+http://springer.com non-specific-custom
+http://surveymonkey.com onetrust-cookiepro
+http://ebay.com non-specific-custom
+http://msn.com onetrust-cookiepro
+http://npr.org onetrust-cookiepro
+http://researchgate.net quantcast
+http://php.net none detected
+http://businessinsider.com none detected
+http://www.gov.uk non-specific-custom
+http://cpanel.net cookiebot
+http://wired.com onetrust-cookiepro
+http://loc.gov none detected
+http://berkeley.edu none detected
+http://commons.wikimedia.org none detected
+http://latimes.com none detected
+http://fda.gov none detected
+http://cornell.edu none detected
+http://mysql.com none detected
+http://aboutads.info none detected
+http://statista.com onetrust-cookiepro
+http://hp.com onetrust-cookiepro
+http://mailchimp.com onetrust-cookiepro
+http://themeforest.net cookiebot
+http://i0.wp.com none detected
+http://debian.org none detected
+http://oup.com none detected
+http://unsplash.com none detected
+http://validator.w3.org none detected
+http://gc.ca none detected
+http://washington.edu none detected
+http://stackoverflow.com non-specific-custom
+http://etsy.com non-specific-custom
+http://behance.net onetrust-cookiepro
+http://dailymotion.com non-specific-custom
+http://hugedomains.com cookie-yes
+http://twitch.tv non-specific-custom
+http://addtoany.com none detected
+http://independent.co.uk none detected
+http://ca.gov none detected
+http://theverge.com non-specific-custom
+http://techcrunch.com non-specific-custom
+http://sina.com.cn none detected
+http://theatlantic.com quantcast
+http://sedo.com non-specific-custom
+http://free.fr didomi
+http://yelp.com onetrust-cookiepro
+http://tandfonline.com non-specific-custom
+http://webmd.com onetrust-cookiepro
+http://aol.com non-specific-custom
+http://launchpad.net none detected
+http://usnews.com none detected
+http://usda.gov none detected
+http://fb.com non-specific-custom
+http://investopedia.com onetrust-cookiepro
+http://allaboutcookies.org onetrust-cookiepro
+http://marriott.com onetrust-cookiepro
+http://hbr.org non-specific-custom
+http://google.co.uk non-specific-custom
+http://tripadvisor.com none detected
+http://statcounter.com none detected
+http://telegram.me none detected
+http://business.site none detected
+http://businesswire.com none detected
+http://epa.gov none detected
+http://kickstarter.com none detected
+http://hubspot.com none detected
+http://youku.com none detected
+http://skype.com non-specific-custom
+http://google.de non-specific-custom
+http://sagepub.com none detected
+http://whitehouse.gov none detected
+http://domainmarket.com none detected
+http://princeton.edu none detected
+http://bandcamp.com none detected
+http://bitly.com non-specific-custom
+http://goodreads.com none detected
+http://finance.yahoo.com non-specific-custom
+http://fb.me non-specific-custom
+http://pixabay.com onetrust-cookiepro
+http://netflix.com non-specific-custom
+http://samsung.com trustarc-truste
+http://myshopify.com none detected
+http://quora.com none detected
+http://scribd.com osano
+http://unesco.org non-specific-custom
+http://s3.amazonaws.com non-specific-custom
+http://eepurl.com none detected
+http://translate.google.com non-specific-custom
+http://upenn.edu none detected
+http://digg.com none detected
+http://deloitte.com onetrust-cookiepro
+http://foxnews.com none detected
+http://umich.edu none detected
+http://state.gov none detected
+http://sciencemag.org none detected
+http://plos.org non-specific-custom
+http://healthline.com non-specific-custom
+http://theconversation.com didomi
+http://mashable.com quantcast
+http://weforum.org cookiebot
+http://yale.edu none detected
+http://outlook.live.com none detected
+http://fandom.com none detected
+http://calendly.com onetrust-cookiepro
+http://deviantart.com non-specific-custom
+http://cisco.com onetrust-cookiepro
+http://zdnet.com onetrust-cookiepro
+http://1.bp.blogspot.com none detected
+http://dx.doi.org none detected
+http://indiatimes.com none detected
+http://pbs.org none detected
+http://rfc-editor.org none detected
+http://redhat.com none detected
+http://booking.com onetrust-cookiepro
+http://4.bp.blogspot.com none detected
+http://fastcompany.com none detected
+http://youronlinechoices.com none detected
+http://feedburner.com none detected
+http://jimdo.com none detected
+http://umn.edu none detected
+http://cbc.ca none detected
+http://android.com non-specific-custom
+http://canva.com non-specific-custom
+http://amazon.de non-specific-custom
+http://nypost.com onetrust-cookiepro
+http://3.bp.blogspot.com none detected
+http://web.whatsapp.com none detected
+http://ubuntu.com non-specific-custom
+http://2.bp.blogspot.com none detected
+http://marketwatch.com none detected
+http://plesk.com none detected
+http://fortune.com none detected
+http://typeform.com onetrust-cookiepro
+http://newyorker.com onetrust-cookiepro
+http://intel.com onetrust-cookiepro
+http://ieee.org non-specific-custom
+http://apa.org onetrust-cookiepro
+http://feeds.feedburner.com none detected
+http://geocities.com non-specific-custom
+http://disqus.com none detected
+http://jhu.edu none detected
+http://pexels.com none detected
+http://tripod.com none detected
+http://merriam-webster.com none detected
+http://motosale.pl none detected
+http://engadget.com non-specific-custom
+http://xing.com non-specific-custom
+http://scientificamerican.com onetrust-cookiepro
+http://entrepreneur.com non-specific-custom
+http://example.com none detected
+http://scholar.google.com none detected
+http://dw.com none detected
+http://stumbleupon.com none detected
+http://arnebrachhold.de none detected
+http://fb.watch none detected
+http://webs.com none detected
+http://ftc.gov none detected
+http://nps.gov none detected
+http://dev.mysql.com none detected
+http://addthis.com none detected
+http://intuit.com none detected
+http://fao.org none detected
+http://docker.com onetrust-cookiepro
+http://readthedocs.io none detected
+http://patreon.com none detected
+http://apnews.com onetrust-cookiepro
+http://meetup.com none detected
+http://store.steampowered.com none detected
+http://dell.com none detected
+http://newsweek.com non-specific-custom
+http://bbb.org none detected
+http://wiktionary.org none detected
+http://google.ca non-specific-custom
+http://elegantthemes.com none detected
+http://bilibili.com none detected
+http://sfgate.com none detected
+http://jamanetwork.com none detected
+http://indiegogo.com none detected
+http://irs.gov none detected
+http://uchicago.edu none detected
+http://form.jotform.com cookiebot
+http://uiuc.edu onetrust-cookiepro
+http://acs.org non-specific-custom
+http://i1.wp.com none detected
+http://openstreetmap.org none detected
+http://huawei.com none detected
+http://utexas.edu none detected
+http://photobucket.com none detected
+http://medicalnewstoday.com non-specific-custom
+http://gitlab.com onetrust-cookiepro
+http://aboutcookies.org non-specific-custom
+http://googleapis.com none detected
+http://jigsaw.w3.org none detected
+http://anchor.fm none detected
+http://ed.gov none detected
+http://uk.com none detected
+http://si.edu none detected
+http://census.gov none detected
+http://ikea.com onetrust-cookiepro
+http://help.opera.com none detected
+http://walmart.com none detected
+http://yahoo.co.jp none detected
+http://slate.com onetrust-cookiepro
+http://appspot.com none detected
+http://outlook.office.com none detected
+http://postgresql.org none detected
+http://hhs.gov none detected
+http://news.google.com non-shttp://appspot.com none detected
+http://outlook.office.com none detected
+http://postgresql.org none detected
+http://hhs.gov none detected
+http://news.google.com non-specific-custom
+http://nyu.edu none detected
+http://freepik.com onetrust-cookiepro
+http://livescience.com quantcast
+http://globenewswire.com non-specific-custom
+http://gotowebinar.com trustarc-truste
+http://politico.com onetrust-cookiepro
+http://usc.edu non-specific-custom
+http://doubleclick.net none detected
+http://usgs.gov none detected
+http://withgoogle.com non-specific-custom
+http://picasaweb.google.com none detected
+http://nist.gov none detectedpecific-custom
+http://nyu.edu none detected
+http://freepik.com onetrust-cookiepro
+http://livescience.com quantcast
+http://globenewswire.com non-specific-custom
+http://gotowebinar.com trustarc-truste
+http://politico.com onetrust-cookiepro
+http://usc.edu non-specific-custom
+http://doubleclick.net none detected
+http://usgs.gov none detected
+http://withgoogle.com non-specific-custom
+http://picasaweb.google.com none detected
+http://nist.gov none detected
+http://inc.com none detected
+http://wikihow.com none detected
+http://mdpi.com non-specific-custom
+http://shutterstock.com onetrust-cookiepro
+http://trustpilot.com onetrust-cookiepro
+http://typepad.com onetrust-cookiepro
+http://thelancet.com onetrust-cookiepro
+http://coursera.org onetrust-cookiepro
+http://thetimes.co.uk non-specific-custom
+http://python.org none detected
+http://guardian.co.uk none detected
+http://amzn.to none detected
+http://aliyun.com none detected
+http://cnbc.com onetrust-cookiepro
+http://jotform.com cookiebot
+http://jstor.org onetrust-cookiepro
+http://cam.ac.uk non-specific-custom
+http://sharepoint.com non-specific-custom
+http://sohu.com none detected
+http://player.vimeo.com onetrust-enterprise
+http://smh.com.au none detected
+http://fc2.com none detected
+http://purdue.edu none detected
+http://bing.com non-specific-custom
+http://mckinsey.com onetrust-cookiepro
+http://arstechnica.com onetrust-cookiepro
+http://windows.net non-specific-custom
+http://chicagotribune.com osano
+http://medium.com none detected
+http://noaa.gov none detected
+http://about.com none detected
+http://pewresearch.org none detected
+http://buzzfeed.com none detected
+http://arcgis.com none detected
+http://line.me none detected
+http://xinhuanet.com none detected
+http://themeisle.com non-specific-custom
+http://change.org non-specific-custom
+http://arxiv.org none detected
+http://pnas.org none detected
+http://cambridge.org onetrust-cookiepro
+http://prnewswire.com onetrust-cookiepro
+http://wisc.edu none detected
+http://unicef.org none detected
+http://livejournal.com none detected
+http://i.imgur.com quantcast
+http://netscape.com non-specific-custom
+http://hilton.com none detected
+http://gizmodo.com none detected
+http://ietf.org none detected
+http://discord.com onetrust-cookiepro
+http://senate.gov none detected
+http://wpengine.com none detected
+http://uci.edu none detected
+http://economist.com none detected
+http://science.org none detected
+http://vox.com non-specific-custom
+http://ox.ac.uk civic-uk-cookie-control
+http://variety.com onetrust-cookiepro
+http://ucla.edu non-specific-custom
+http://bmj.com onetrust-cookiepro
+http://salesforce.com none detected
+http://qz.com none detected
+http://trello.com non-specific-custom
+http://cdn.shopify.com none detected
+http://indeed.com none detected
+http://dribbble.com none detected
+http://sciencedaily.com quantcast
+http://nature.com non-specific-custom
+http://constantcontact.com onetrust-cookiepro
+http://elsevier.com onetrust-cookiepro
+http://zendesk.com onetrust-cookiepro
+http://ft.com non-specific-custom
+http://amazon.com none detected
+http://gofundme.com onetrust-cookiepro
+http://mailchi.mp onetrust-cookiepro
+http://psychologytoday.com none detected
+http://house.gov none detected
+http://iso.org onetrust-cookiepro
+http://squarespace.com trustarc-truste
+http://nbcnews.com none detected
+http://mayoclinic.org none detected
+http://britannica.com none detected
+http://academia.edu none detected
+http://sun.com none detected
+http://discord.gg onetrust-cookiepro
+http://nvidia.com onetrust-cookiepro
+http://cbsnews.com onetrust-cookiepro
+http://shopify.com non-specific-custom
+http://yandex.ru non-specific-custom
+http://eff.org none detected
+http://akismet.com non-specific-custom
+http://aliexpress.com none detected
+http://oecd.org none detected
+http://wikia.com none detected
+http://bls.gov none detected
+http://getpocket.com onetrust-cookiepro
+http://mirror.co.uk quantcast
+http://barnesandnoble.com onetrust-cookiepro
+http://un.org none detected
+http://stackexchange.com none detected
+http://steampowered.com none detected
+http://box.com none detected
+http://imdb.com none detected
+http://wsj.com none detected
+http://cnet.com onetrust-cookiepro
+http://who.int none detected
+http://vice.com none detected
+http://rollingstone.com onetrust-cookiepro
+http://gartner.com onetrust-cookiepro
+http://imgur.com quantcast
+http://amazon.co.uk non-specific-custom
+http://sitemaps.org none detected
+http://cmu.edu none detected
+http://biomedcentral.com non-specific-custom
+http://mitre.org non-specific-custom
+http://columbia.edu none detected
+http://people.com.cn none detected
+http://abc.net.au non-specific-custom
+http://thesun.co.uk none detected
+http://slideshare.net osano
+http://frontiersin.org onetrust-cookiepro
+http://howstuffworks.com onetrust-cookiepro
+http://nationalgeographic.com onetrust-cookiepro
+http://huffingtonpost.com quantcast
+http://huffpost.com quantcast
+http://qq.com none detected
+http://theguardian.com none detected
+http://networkadvertising.org none detected
+http://bizjournals.com none detected
+http://taobao.com none detected
+http://v.qq.com none detected
+http://baike.baidu.com none detected
+http://oreilly.com onetrust-cookiepro
+http://beian.miit.gov.cn none detected
+http://apache.org none detected
+http://myspace.com none detected
+http://godaddy.com non-specific-custom
+http://linktr.ee onetrust-cookiepron

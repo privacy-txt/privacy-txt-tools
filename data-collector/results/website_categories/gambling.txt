@@ -1,0 +1,107 @@
+http://thaudray.com none detected
+http://xosodaiphat.com none detected
+http://gaflh.com none detected
+http://gogoanime.llc none detected
+http://best4fuck.com none detected
+http://freebitco.in none detected
+http://betking.com none detected
+http://netkeiba.com none detected
+http://thenetnaija.net none detected
+http://lephaush.net none detected
+http://national-lottery.co.uk non-specific-custom
+http://phumpauk.com none detected
+http://xoso.com.vn none detected
+http://stake.com none detected
+http://betano.com none detected
+http://itponytaa.com none detected
+http://gogoanime.gr none detected
+http://betika.com none detected
+http://roudoduor.com none detected
+http://flashscore.mobi none detected
+http://gamemututerjamin.com none detected
+http://bonus-deaposta.com none detected
+http://adblock-one-protection.com none detected
+http://hornygirlsinapp.com none detected
+http://bet9ja.com none detected
+http://betway.co.za none detected
+http://whookroo.com none detected
+http://dream11.com none detected
+http://parimatch-in.com none detected
+http://blaze.com none detected
+http://pixbet.com none detected
+http://ojogodobicho.com none detected
+http://adpointrtb.com none detected
+http://nesine.com none detected
+http://dspmega.com none detected
+http://betnacional.com none detected
+http://bet365.com none detected
+http://xskt.com.vn none detected
+http://caliente.mx none detected
+http://sportybet.com none detected
+Websites with tracker cookies: 11 / 50
+Tracker cookies per website: 
+	 No consent:
+	 mean 8 
+ 	 median 3.5
+	 Top 5:
+		('http://caliente.mx', 36)
+		('http://bet9ja.com', 18)
+		('http://netkeiba.com', 8)
+		('http://betika.com', 7)
+		('http://ojogodobicho.com', 6)
+
+	 Consent:
+	 mean 7.636363636363637 
+ 	 median 4
+	 Top 5:
+		('http://caliente.mx', 36)
+		('http://bet9ja.com', 18)
+		('http://netkeiba.com', 8)
+		('http://betika.com', 7)
+		('http://ojogodobicho.com', 6)
+
+
+Websites with tracker domains: 40 / 50
+Tracker domains per website: 
+	 No consent:
+	 mean 9.5 
+ 	 median 6.5
+	 Top 5:
+		('http://caliente.mx', 35)
+		('http://bet9ja.com', 20)
+		('http://betika.com', 18)
+		('http://ojogodobicho.com', 17)
+		('http://betking.com', 12)
+
+	 Consent:
+	 mean 4.475 
+ 	 median 0.0
+	 Top 5:
+		('http://caliente.mx', 35)
+		('http://bet9ja.com', 20)
+		('http://betika.com', 18)
+		('http://ojogodobicho.com', 17)
+		('http://betking.com', 12)
+
+
+Websites with persistent cookies: 18 / 50
+Persistent cookies per website: 
+	 No consent:
+	 mean 6.777777777777778 
+ 	 median 3.0
+	 Top 5:
+		('http://bet9ja.com', 31)
+		('http://caliente.mx', 23)
+		('http://betika.com', 15)
+		('http://betking.com', 10)
+		('http://netkeiba.com', 8)
+
+	 Consent:
+	 mean 7.111111111111111 
+ 	 median 3.5
+	 Top 5:
+		('http://bet9ja.com', 31)
+		('http://caliente.mx', 23)
+		('http://betika.com', 15)
+		('http://betking.com', 10)
+		('http://netkeiba.com', 8)

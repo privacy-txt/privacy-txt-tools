@@ -1,0 +1,41 @@
+http://hulu.com none detected
+http://pikabu.ru none detected
+http://youtube.com non-specific-custom
+http://imdb.com none detected
+http://rumble.com none detected
+http://xfinity.com none detected
+http://ficbook.net none detected
+http://fmovies.to none detected
+http://hbomax.com onetrust-cookiepro
+http://npr.org onetrust-cookiepro
+http://fandomwire.com none detected
+http://programme-tv.net none detected
+http://tapmad.com none detected
+http://zoro.to none detected
+http://hotstar.com none detected
+http://9gag.com quantcast
+http://pixiv.net non-specific-custom
+http://disneyplus.com onetrust-cookiepro
+http://bilibili.com none detected
+http://aparat.com none detected
+http://manganato.com none detected
+http://kinopoisk.ru none detected
+http://qidian.com none detected
+http://genius.com onetrust-cookiepro
+http://spotify.com onetrust-cookiepro
+http://9animetv.to none detected
+http://9anime.to none detected
+http://dcinside.com none detected
+http://soundcloud.com onetrust-cookiepro
+http://mediaset.it none detected
+http://tenki.jp none detected
+http://animeflv.net none detected
+http://cmoa.jp none detected
+http://wattpad.com onetrust-cookiepro
+http://archiveofourown.org none detected
+http://asurascans.com none detected
+http://miguvideo.com none detected
+http://crunchyroll.com none detected
+http://soap2day.to none detected
+http://dailymotion.com non-specific-custom
+http://fandom.com non-specific-custom
